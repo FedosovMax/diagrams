@@ -1,1 +1,82 @@
-<mxfile host="www.draw.io" modified="2019-11-20T15:36:25.212Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" version="12.2.6" etag="-W0oUFR_1JHSA5ziIkJr" type="github" pages="1"><diagram id="pHNomnXh8NFI_Dzp1YEi">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-11-20T16:04:19.361Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="J6PwwHePofboWAPh9rSK" version="12.2.7" type="github" pages="1">
+  <diagram id="pHNomnXh8NFI_Dzp1YEi" name="Page-1">
+    <mxGraphModel dx="1463" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="UVpa7_WHdKnRNrPXQmbn-2" value="Habit" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="244" y="110" width="180" height="174" as="geometry"/>
+        </mxCell>
+        <mxCell id="UVpa7_WHdKnRNrPXQmbn-3" value="- name : String&#xa;- description : String&#xa;- Hardness : enum&#xa;- Scaryness : enum&#xa;- Starting date : instance&#xa;- successful dates(List : date)&#xa;- skipped dates(List : date) &#xa;- success stream : int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="UVpa7_WHdKnRNrPXQmbn-2">
+          <mxGeometry y="26" width="180" height="114" as="geometry"/>
+        </mxCell>
+        <mxCell id="UVpa7_WHdKnRNrPXQmbn-4" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="UVpa7_WHdKnRNrPXQmbn-2">
+          <mxGeometry y="140" width="180" height="8" as="geometry"/>
+        </mxCell>
+        <mxCell id="UVpa7_WHdKnRNrPXQmbn-5" value="+ " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="UVpa7_WHdKnRNrPXQmbn-2">
+          <mxGeometry y="148" width="180" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="UVpa7_WHdKnRNrPXQmbn-6" value="HabitController" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="500" y="110" width="180" height="150" as="geometry"/>
+        </mxCell>
+        <mxCell id="UVpa7_WHdKnRNrPXQmbn-7" value="- habitService : HabitService" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="UVpa7_WHdKnRNrPXQmbn-6">
+          <mxGeometry y="26" width="180" height="34" as="geometry"/>
+        </mxCell>
+        <mxCell id="UVpa7_WHdKnRNrPXQmbn-8" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="UVpa7_WHdKnRNrPXQmbn-6">
+          <mxGeometry y="60" width="180" height="8" as="geometry"/>
+        </mxCell>
+        <mxCell id="UVpa7_WHdKnRNrPXQmbn-9" value="+ createHabit&#xa;+ updateHabit&#xa;+ getHabit&#xa;+ deleteHabit" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="UVpa7_WHdKnRNrPXQmbn-6">
+          <mxGeometry y="68" width="180" height="82" as="geometry"/>
+        </mxCell>
+        <mxCell id="UVpa7_WHdKnRNrPXQmbn-12" value="HabitService" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="500" y="330" width="200" height="150" as="geometry"/>
+        </mxCell>
+        <mxCell id="UVpa7_WHdKnRNrPXQmbn-13" value="- habitRepository : HabitRepository" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="UVpa7_WHdKnRNrPXQmbn-12">
+          <mxGeometry y="26" width="200" height="34" as="geometry"/>
+        </mxCell>
+        <mxCell id="UVpa7_WHdKnRNrPXQmbn-14" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="UVpa7_WHdKnRNrPXQmbn-12">
+          <mxGeometry y="60" width="200" height="8" as="geometry"/>
+        </mxCell>
+        <mxCell id="UVpa7_WHdKnRNrPXQmbn-15" value="+ createHabit&#xa;+ updateHabit&#xa;+ getHabit&#xa;+ deleteHabit" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="UVpa7_WHdKnRNrPXQmbn-12">
+          <mxGeometry y="68" width="200" height="82" as="geometry"/>
+        </mxCell>
+        <mxCell id="UVpa7_WHdKnRNrPXQmbn-16" value="HabitRepository" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="500" y="540" width="200" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="UVpa7_WHdKnRNrPXQmbn-18" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="UVpa7_WHdKnRNrPXQmbn-16">
+          <mxGeometry y="26" width="200" height="8" as="geometry"/>
+        </mxCell>
+        <mxCell id="UVpa7_WHdKnRNrPXQmbn-19" value="+" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="UVpa7_WHdKnRNrPXQmbn-16">
+          <mxGeometry y="34" width="200" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="UVpa7_WHdKnRNrPXQmbn-20" value="" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="570" y="690" width="60" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="UVpa7_WHdKnRNrPXQmbn-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UVpa7_WHdKnRNrPXQmbn-9" target="UVpa7_WHdKnRNrPXQmbn-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="270"/>
+              <mxPoint x="600" y="270"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UVpa7_WHdKnRNrPXQmbn-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UVpa7_WHdKnRNrPXQmbn-15" target="UVpa7_WHdKnRNrPXQmbn-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="480"/>
+              <mxPoint x="600" y="480"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UVpa7_WHdKnRNrPXQmbn-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UVpa7_WHdKnRNrPXQmbn-19" target="UVpa7_WHdKnRNrPXQmbn-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="610"/>
+              <mxPoint x="600" y="610"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
