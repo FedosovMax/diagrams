@@ -1,1 +1,136 @@
-<mxfile host="app.diagrams.net" modified="2020-03-22T15:56:36.414Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Safari/605.1.15" version="12.8.8" etag="xNQSBAXQQoCMdpcs4w9D" type="github"><diagram id="72BcZR0rlZjfZ5FAyjgI">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-03-23T07:57:47.939Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Safari/605.1.15" etag="csEiYIH6czOCkoHwSbvF" version="12.8.8" type="github">
+  <diagram id="72BcZR0rlZjfZ5FAyjgI" name="Page-1">
+    <mxGraphModel dx="1963" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="khnz0ugkUXOLGg5roT6c-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="30" width="1060" height="610" as="geometry" />
+        </mxCell>
+        <mxCell id="khnz0ugkUXOLGg5roT6c-2" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-127.5" y="480" as="sourcePoint" />
+            <mxPoint x="-126.5" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="khnz0ugkUXOLGg5roT6c-3" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="194.5" y="480" as="sourcePoint" />
+            <mxPoint x="194.5" y="90" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="194.5" y="237" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="khnz0ugkUXOLGg5roT6c-4" value="Todo" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-147.5" y="60" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="khnz0ugkUXOLGg5roT6c-5" value="Experience" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="163.5" y="60" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="khnz0ugkUXOLGg5roT6c-6" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-126.5" y="157" as="sourcePoint" />
+            <mxPoint x="193.5" y="157" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="khnz0ugkUXOLGg5roT6c-7" value="Sent ready todo to calculate experience" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-92.5" y="141" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="khnz0ugkUXOLGg5roT6c-8" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="193.5" y="187" as="sourcePoint" />
+            <mxPoint x="193.5" y="207" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="302.5" y="187" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="khnz0ugkUXOLGg5roT6c-9" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="422.5" y="480" as="sourcePoint" />
+            <mxPoint x="422.5" y="90" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="422.5" y="237" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="khnz0ugkUXOLGg5roT6c-10" value="Character" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="392.5" y="60" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="khnz0ugkUXOLGg5roT6c-11" value="Calculate experience" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="202.5" y="167" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="khnz0ugkUXOLGg5roT6c-12" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="192.5" y="237" as="sourcePoint" />
+            <mxPoint x="422.5" y="237" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="khnz0ugkUXOLGg5roT6c-13" value="Add experience to character" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="222.5" y="217" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="khnz0ugkUXOLGg5roT6c-14" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-127.5" y="343" as="sourcePoint" />
+            <mxPoint x="192.5" y="343" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="khnz0ugkUXOLGg5roT6c-15" value="Sent undo ready todo to calculate experience" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-108.5" y="327" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="khnz0ugkUXOLGg5roT6c-16" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="194.5" y="380" as="sourcePoint" />
+            <mxPoint x="194.5" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="303.5" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="khnz0ugkUXOLGg5roT6c-17" value="Calculate experience" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="201.5" y="360" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="khnz0ugkUXOLGg5roT6c-18" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="193.5" y="430" as="sourcePoint" />
+            <mxPoint x="424.5" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="khnz0ugkUXOLGg5roT6c-19" value="Decrease experience from character" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="201.5" y="410" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="khnz0ugkUXOLGg5roT6c-20" value="Make todo status ready" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-121.5" y="90" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="khnz0ugkUXOLGg5roT6c-21" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-126.5" y="110" as="sourcePoint" />
+            <mxPoint x="-126.5" y="130" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-17.5" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="khnz0ugkUXOLGg5roT6c-22" value="Make todo status not ready" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-117.5" y="270" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="khnz0ugkUXOLGg5roT6c-23" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-126.5" y="290" as="sourcePoint" />
+            <mxPoint x="-126.5" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-17.5" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="khnz0ugkUXOLGg5roT6c-24" value="" style="endArrow=none;dashed=1;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-190" y="260" as="sourcePoint" />
+            <mxPoint x="666" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
