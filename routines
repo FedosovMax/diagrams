@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2020-03-28T12:28:01.108Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="Rhdiwjeo1xtRdQZzorgz" version="12.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-28T12:38:15.266Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="DWUk9Tsq0zuI78cDzuoy" version="12.9.3" type="github">
   <diagram id="0h8xtfkzseKJtsCo1wlw" name="Page-1">
     <mxGraphModel dx="1888" dy="1680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Ij6RvB_23aXmXi2RIzXP-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="281" y="70" width="240" height="320" as="geometry" />
+        </mxCell>
         <mxCell id="WVKmrfuQKgf4cDccPdw3-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="12.5" y="70" width="240" height="320" as="geometry" />
         </mxCell>
@@ -29,7 +32,7 @@
           <mxGeometry x="300" y="90" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WVKmrfuQKgf4cDccPdw3-9" value="Evening routine" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="365" y="30" width="100" height="20" as="geometry" />
+          <mxGeometry x="351" y="30" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WVKmrfuQKgf4cDccPdw3-10" value="Tests 10 questions" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="300" y="130" width="200" height="30" as="geometry" />
@@ -50,13 +53,13 @@
           <mxGeometry x="630" y="30" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WVKmrfuQKgf4cDccPdw3-17" value="skin care" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="570" y="249" width="200" height="30" as="geometry" />
+          <mxGeometry x="570" y="250" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WVKmrfuQKgf4cDccPdw3-18" value="Count achievements" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="570" y="170" width="200" height="30" as="geometry" />
+          <mxGeometry x="570" y="90" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WVKmrfuQKgf4cDccPdw3-19" value="Plan new day" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="570" y="210" width="200" height="30" as="geometry" />
+          <mxGeometry x="570" y="130" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WVKmrfuQKgf4cDccPdw3-20" value="Health" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="20" y="420" width="200" height="30" as="geometry" />
@@ -83,22 +86,22 @@
           <mxGeometry x="450" y="461" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1ZCmfdHspoTfGGKNcwNe-3" value="Lead with kindness and ..." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="20" y="620" width="200" height="30" as="geometry" />
+          <mxGeometry x="20" y="600" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1ZCmfdHspoTfGGKNcwNe-4" value="Reading 5 pages" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="570" y="90" width="200" height="30" as="geometry" />
+          <mxGeometry x="570" y="169" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1ZCmfdHspoTfGGKNcwNe-5" value="Path diagram drawing and reading" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="32.5" y="249" width="200" height="30" as="geometry" />
+          <mxGeometry x="32.5" y="250" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1ZCmfdHspoTfGGKNcwNe-6" value="Effectiveness" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="450" y="420" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1ZCmfdHspoTfGGKNcwNe-7" value="Project planning 5 minutes" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="301" y="249" width="200" height="30" as="geometry" />
+          <mxGeometry x="301" y="250" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ij6RvB_23aXmXi2RIzXP-1" value="Eye exercises" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="570" y="130" width="200" height="30" as="geometry" />
+          <mxGeometry x="570" y="210" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
