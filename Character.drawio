@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-03-28T17:50:03.284Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="rd-qLYZ3q98GjRQBAmSz" version="12.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-29T19:16:44.126Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="LhkDaQcbRVWlIpoywx01" version="12.9.3" type="github">
   <diagram id="O-SDE2Yfm0KPrJIjMzby" name="Page-1">
-    <mxGraphModel dx="865" dy="443" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1730" dy="885" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -29,64 +29,64 @@
           <mxGeometry x="340" y="240" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="q5utwOKQCEjzr64VIf5K-3" value="int capacity;&lt;br&gt;List&amp;lt;Item&amp;gt; items;&lt;br&gt;String charId;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="630" y="321" width="160" height="59" as="geometry" />
+          <mxGeometry x="630" y="291" width="160" height="59" as="geometry" />
         </mxCell>
         <mxCell id="q5utwOKQCEjzr64VIf5K-4" value="Inventory" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="675" y="300" width="70" height="20" as="geometry" />
+          <mxGeometry x="675" y="270" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="q5utwOKQCEjzr64VIf5K-7" value="Enum type();&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="630" y="411" width="160" height="39" as="geometry" />
+        <mxCell id="q5utwOKQCEjzr64VIf5K-7" value="Enum rarity();&lt;br&gt;List&amp;lt;Bonus&amp;gt; bonuses;&lt;br&gt;&lt;br&gt;int reqLvl;&lt;br&gt;int reqStr;&lt;br&gt;int reqAgl;&lt;br&gt;int reqInt;&lt;br&gt;&lt;br&gt;Collection collection;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="630" y="381" width="160" height="149" as="geometry" />
         </mxCell>
         <mxCell id="q5utwOKQCEjzr64VIf5K-8" value="Item" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="390" width="40" height="20" as="geometry" />
+          <mxGeometry x="690" y="360" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="q5utwOKQCEjzr64VIf5K-9" value="Enum type();&lt;br&gt;Enum rarity;&lt;br&gt;int defence;&lt;br&gt;int critChance;&lt;br&gt;int critDamage;&lt;br&gt;&lt;br&gt;int reqLvl;&lt;br&gt;int reqStr;&lt;br&gt;int reqAgl;&lt;br&gt;int reqInt;&lt;br&gt;&lt;br&gt;Collection collection;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="540" y="491" width="160" height="189" as="geometry" />
+        <mxCell id="q5utwOKQCEjzr64VIf5K-9" value="Enum armorType();&lt;br&gt;int defence;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="780" y="611" width="160" height="49" as="geometry" />
         </mxCell>
         <mxCell id="q5utwOKQCEjzr64VIf5K-10" value="Armor" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="595" y="470" width="50" height="20" as="geometry" />
+          <mxGeometry x="835" y="590" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="q5utwOKQCEjzr64VIf5K-11" value="Enum type();&lt;br&gt;Enum rarity;&lt;br&gt;int dmg;&lt;br&gt;int critChance;&lt;br&gt;int critDamage;&lt;br&gt;&lt;br&gt;int reqLvl;&lt;br&gt;int reqStr;&lt;br&gt;int reqAgl;&lt;br&gt;int reqInt;&lt;br&gt;&lt;br&gt;Collection collection;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="710" y="491" width="160" height="189" as="geometry" />
+        <mxCell id="q5utwOKQCEjzr64VIf5K-11" value="Enum weaponType();&lt;br&gt;int dmg;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="950" y="611" width="160" height="49" as="geometry" />
         </mxCell>
         <mxCell id="q5utwOKQCEjzr64VIf5K-12" value="Weapon" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="470" width="60" height="20" as="geometry" />
+          <mxGeometry x="1000" y="590" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="q5utwOKQCEjzr64VIf5K-13" value="HELM, &lt;br&gt;ARMOR, LEG_PROTECTION,&lt;br&gt;ARM_PROTECTION,&lt;br&gt;SHOES,&lt;br&gt;CLOAK,&lt;br&gt;GLOVES&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="390" y="491" width="130" height="109" as="geometry" />
+          <mxGeometry x="630" y="611" width="130" height="109" as="geometry" />
         </mxCell>
         <mxCell id="q5utwOKQCEjzr64VIf5K-14" value="Armor types (ENUM)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="470" width="130" height="20" as="geometry" />
+          <mxGeometry x="630" y="590" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="q5utwOKQCEjzr64VIf5K-17" value="SWORD,&lt;br&gt;KNIFE,&lt;br&gt;AXE,&lt;br&gt;STAFF,&lt;br&gt;MACE,&lt;br&gt;BOW,&amp;nbsp;&lt;br&gt;CROSSBOW" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="890" y="491" width="130" height="119" as="geometry" />
+          <mxGeometry x="1130" y="611" width="130" height="119" as="geometry" />
         </mxCell>
         <mxCell id="q5utwOKQCEjzr64VIf5K-18" value="Weapon types (ENUM)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="885" y="470" width="140" height="20" as="geometry" />
+          <mxGeometry x="1125" y="590" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="q5utwOKQCEjzr64VIf5K-19" value="String collectionName;&lt;br&gt;List&amp;lt;Bonus&amp;gt; collectionBonuses;&lt;br&gt;List&amp;lt;Item&amp;gt; items;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="700" y="731" width="190" height="59" as="geometry" />
+          <mxGeometry x="1210" y="381" width="190" height="59" as="geometry" />
         </mxCell>
         <mxCell id="q5utwOKQCEjzr64VIf5K-20" value="Collection" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="710" width="70" height="20" as="geometry" />
+          <mxGeometry x="1270" y="360" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="q5utwOKQCEjzr64VIf5K-21" value="GRAY,&lt;br&gt;GREEN,&lt;br&gt;BLUE,&lt;br&gt;SILVER,&lt;br&gt;GOLD,&lt;br&gt;PURPLE,&lt;br&gt;RED,&lt;br&gt;MYTHICAL,&lt;br&gt;LEGEND,&lt;br&gt;GODDLY" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="515" y="731" width="160" height="159" as="geometry" />
+          <mxGeometry x="820" y="381" width="160" height="159" as="geometry" />
         </mxCell>
         <mxCell id="q5utwOKQCEjzr64VIf5K-22" value="Rarity (ENUM)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="710" width="90" height="20" as="geometry" />
+          <mxGeometry x="855" y="360" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="q5utwOKQCEjzr64VIf5K-23" value="String bonusName;&lt;br&gt;Rarity bonusRarity;&lt;br&gt;int dmgBoost;&lt;br&gt;int critChanceBoost;&lt;br&gt;int critDamageBoost;&lt;br&gt;int luckBoost;&lt;br&gt;int skill boost;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="910" y="731" width="190" height="119" as="geometry" />
+          <mxGeometry x="1000" y="381" width="190" height="119" as="geometry" />
         </mxCell>
         <mxCell id="q5utwOKQCEjzr64VIf5K-24" value="Bonus" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="980" y="710" width="50" height="20" as="geometry" />
+          <mxGeometry x="1070" y="360" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="q5utwOKQCEjzr64VIf5K-25" value="String skillName;&lt;br&gt;String description;&lt;br&gt;List&amp;lt;Bonus&amp;gt; bonuses;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="840" y="90" width="160" height="60" as="geometry" />
+          <mxGeometry x="820" y="90" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q5utwOKQCEjzr64VIf5K-26" value="Skill" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="69" width="40" height="20" as="geometry" />
+          <mxGeometry x="880" y="69" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
