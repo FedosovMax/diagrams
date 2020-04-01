@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-04-01T19:15:36.015Z" agent="5.0 (Windows)" etag="ncj0-qkWzrNiPN9QzWHa" version="12.9.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-01T19:30:43.846Z" agent="5.0 (Windows)" etag="8wDwK_CcN_wnl-cd0FHn" version="12.9.5" type="github">
   <diagram id="72BcZR0rlZjfZ5FAyjgI" name="Page-1">
-    <mxGraphModel dx="2926" dy="1150" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1560" dy="290" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -178,8 +178,8 @@
         <mxCell id="xvMoqlMjp2rzaihJ2d3--19" value="decrease level" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="-463" y="860" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="xvMoqlMjp2rzaihJ2d3--22" value="how to reuse routines and repetative todos from day to day?&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="-336.5" y="628" width="340" height="20" as="geometry" />
+        <mxCell id="xvMoqlMjp2rzaihJ2d3--22" value="&lt;div&gt;how to reuse routines and repetative todos from day to day? &lt;br&gt;&lt;/div&gt;&lt;div&gt;- made a controller to move not ready todos to the next day.&lt;/div&gt;&lt;div&gt;- make a routine a separate from block entity? &lt;br&gt;&lt;/div&gt;&lt;div&gt;- make a routine fabric? &lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="-331.5" y="608" width="330" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MWekD1bT6eHtkvow1qM9-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="40" width="790" height="1030" as="geometry" />
