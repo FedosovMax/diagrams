@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-04-01T17:33:33.317Z" agent="5.0 (Windows)" etag="rPucbJ-MWXaSNdlidni9" version="12.9.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-01T19:15:36.015Z" agent="5.0 (Windows)" etag="ncj0-qkWzrNiPN9QzWHa" version="12.9.5" type="github">
   <diagram id="72BcZR0rlZjfZ5FAyjgI" name="Page-1">
-    <mxGraphModel dx="2926" dy="1376" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2926" dy="1150" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -199,8 +199,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MWekD1bT6eHtkvow1qM9-6" value="Todo" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="122.5" y="70" width="40" height="20" as="geometry" />
+        <mxCell id="MWekD1bT6eHtkvow1qM9-6" value="Routine" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="112.5" y="70" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="MWekD1bT6eHtkvow1qM9-7" value="Experience" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="433.5" y="70" width="80" height="20" as="geometry" />
