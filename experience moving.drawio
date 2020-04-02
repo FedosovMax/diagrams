@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-04-01T19:30:43.846Z" agent="5.0 (Windows)" etag="8wDwK_CcN_wnl-cd0FHn" version="12.9.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-02T18:11:26.534Z" agent="5.0 (Windows)" etag="941hpodRYYxq3VM1cC_6" version="12.9.5" type="github">
   <diagram id="72BcZR0rlZjfZ5FAyjgI" name="Page-1">
-    <mxGraphModel dx="1560" dy="290" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1939" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -179,7 +179,7 @@
           <mxGeometry x="-463" y="860" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xvMoqlMjp2rzaihJ2d3--22" value="&lt;div&gt;how to reuse routines and repetative todos from day to day? &lt;br&gt;&lt;/div&gt;&lt;div&gt;- made a controller to move not ready todos to the next day.&lt;/div&gt;&lt;div&gt;- make a routine a separate from block entity? &lt;br&gt;&lt;/div&gt;&lt;div&gt;- make a routine fabric? &lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="-331.5" y="608" width="330" height="60" as="geometry" />
+          <mxGeometry x="1710" y="40" width="330" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MWekD1bT6eHtkvow1qM9-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="40" width="790" height="1030" as="geometry" />
@@ -366,6 +366,171 @@
         </mxCell>
         <mxCell id="MWekD1bT6eHtkvow1qM9-55" value="Make all routine todo not ready" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="153" y="516" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wB2bhxwX2nH6gLjDxcvd-1" value="&lt;div&gt;Routine&lt;/div&gt;&lt;div&gt;- String name&lt;/div&gt;&lt;div&gt;- Enum Hardness&lt;/div&gt;&lt;div&gt;- Enum Scariness&lt;/div&gt;&lt;div&gt;- LocalDate date&lt;br&gt;&lt;/div&gt;&lt;div&gt;- boolean ready&lt;br&gt;&lt;/div&gt;&lt;div&gt;- List&amp;lt;Todo&amp;gt; todos&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1761.5" y="122" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="wB2bhxwX2nH6gLjDxcvd-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="40" width="790" height="1030" as="geometry" />
+        </mxCell>
+        <mxCell id="wB2bhxwX2nH6gLjDxcvd-3" value="" style="endArrow=none;html=1;fillColor=#f5f5f5;strokeColor=#666666;dashed=1;dashPattern=1 2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1004" y="1080" as="sourcePoint" />
+            <mxPoint x="1003.5" y="100.00000000000023" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wB2bhxwX2nH6gLjDxcvd-4" value="" style="endArrow=none;html=1;fillColor=#f5f5f5;strokeColor=#666666;dashed=1;dashPattern=1 2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1324" y="1080" as="sourcePoint" />
+            <mxPoint x="1324.5" y="100.00000000000023" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1324.5" y="247" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wB2bhxwX2nH6gLjDxcvd-5" value="Routine" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="972.5" y="70" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wB2bhxwX2nH6gLjDxcvd-6" value="TodoBlock" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1298.5" y="70" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wB2bhxwX2nH6gLjDxcvd-10" value="" style="endArrow=none;html=1;fillColor=#f5f5f5;strokeColor=#666666;dashed=1;dashPattern=1 2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1553" y="1080" as="sourcePoint" />
+            <mxPoint x="1552.5" y="100.00000000000023" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1552.5" y="247" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wB2bhxwX2nH6gLjDxcvd-11" value="Todo" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1537.5" y="70" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wB2bhxwX2nH6gLjDxcvd-16" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1003.5" y="429.0000000000002" as="sourcePoint" />
+            <mxPoint x="1003.5" y="449.0000000000002" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1112.5" y="429" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wB2bhxwX2nH6gLjDxcvd-17" value="Create the new routine" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1013.5" y="409" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wB2bhxwX2nH6gLjDxcvd-22" value="Add todos to the routine" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1183" y="526" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wB2bhxwX2nH6gLjDxcvd-23" value="" style="endArrow=none;dashed=1;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="940" y="387" as="sourcePoint" />
+            <mxPoint x="1660" y="387" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wB2bhxwX2nH6gLjDxcvd-30" value="Save Routine" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1023" y="467" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wB2bhxwX2nH6gLjDxcvd-31" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1003" y="487" as="sourcePoint" />
+            <mxPoint x="1003" y="507" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1112" y="487" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wB2bhxwX2nH6gLjDxcvd-32" value="Update Routine" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1028" y="636" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wB2bhxwX2nH6gLjDxcvd-33" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1003" y="656" as="sourcePoint" />
+            <mxPoint x="1003" y="676" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1112" y="656" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wB2bhxwX2nH6gLjDxcvd-36" value="&lt;font style=&quot;font-size: 22px&quot;&gt;Routine interaction with other services&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="15" width="390" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wB2bhxwX2nH6gLjDxcvd-37" value="&lt;font style=&quot;font-size: 22px&quot;&gt;Routine interaction inside the todoService&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1065" y="10" width="420" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wB2bhxwX2nH6gLjDxcvd-38" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1325" y="120.00000000000023" as="sourcePoint" />
+            <mxPoint x="1325" y="140.00000000000023" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1434" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wB2bhxwX2nH6gLjDxcvd-39" value="Create block" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="100" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wB2bhxwX2nH6gLjDxcvd-45" value="" style="endArrow=classic;html=1;startArrow=classic;startFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1325" y="220" as="sourcePoint" />
+            <mxPoint x="1005" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wB2bhxwX2nH6gLjDxcvd-47" value="Get all routines from DB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="147" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wB2bhxwX2nH6gLjDxcvd-48" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1325" y="167.00000000000023" as="sourcePoint" />
+            <mxPoint x="1325" y="187.00000000000023" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1434" y="167" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wB2bhxwX2nH6gLjDxcvd-51" value="Create new routines with the same names" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1055" y="197" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wB2bhxwX2nH6gLjDxcvd-53" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1325" y="357.0000000000002" as="sourcePoint" />
+            <mxPoint x="1325" y="377.0000000000002" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1434" y="357" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wB2bhxwX2nH6gLjDxcvd-54" value="Save block to the DB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="337" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wB2bhxwX2nH6gLjDxcvd-57" value="" style="endArrow=none;dashed=1;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="940" y="587" as="sourcePoint" />
+            <mxPoint x="1660" y="587" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wB2bhxwX2nH6gLjDxcvd-60" value="" style="endArrow=classic;html=1;startArrow=classic;startFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1551" y="626" as="sourcePoint" />
+            <mxPoint x="1004" y="626" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wB2bhxwX2nH6gLjDxcvd-62" value="" style="endArrow=classic;html=1;startArrow=classic;startFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1550" y="546" as="sourcePoint" />
+            <mxPoint x="1003" y="546" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wB2bhxwX2nH6gLjDxcvd-63" value="Remove todos from the routine" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1139.5" y="606" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wB2bhxwX2nH6gLjDxcvd-66" value="" style="endArrow=classic;html=1;startArrow=classic;startFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1549" y="260" as="sourcePoint" />
+            <mxPoint x="1002" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wB2bhxwX2nH6gLjDxcvd-67" value="Create all todos with not ready status for each routine" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1124" y="240" width="290" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
