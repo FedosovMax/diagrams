@@ -1,1 +1,104 @@
-<mxfile host="app.diagrams.net" modified="2020-04-05T11:31:19.193Z" agent="5.0 (Windows)" version="12.9.5" etag="5pP9Rd93qKfYZpfRrjxl" type="github"><diagram id="AWmAm8-LNHxIUhdHW9r_">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-04-05T13:22:01.950Z" agent="5.0 (Windows)" etag="Ck_hL3Dd_j7r_EjWY9K1" version="12.9.5" type="github">
+  <diagram id="AWmAm8-LNHxIUhdHW9r_" name="Page-1">
+    <mxGraphModel dx="865" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ErbidwWF0pk0ownhwt76-1" value="Learn Do Teach Investigate Discover " style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="236" y="141" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ErbidwWF0pk0ownhwt76-2" value="Learn basics needed to start to do it. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ErbidwWF0pk0ownhwt76-3" value="Do that until you be able to teach it" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ErbidwWF0pk0ownhwt76-4" value="Teach it until you find things that you need to investigate" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ErbidwWF0pk0ownhwt76-5" value="&lt;div&gt;Investigate new things&lt;/div&gt;&lt;div&gt;which needed to make&lt;/div&gt;&lt;div&gt;a discovery&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ErbidwWF0pk0ownhwt76-6" value="Discover new things to lift it to another level" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ErbidwWF0pk0ownhwt76-7" value="Learn" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="65" y="170" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ErbidwWF0pk0ownhwt76-8" value="Do" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="170" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ErbidwWF0pk0ownhwt76-9" value="Teach" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="170" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ErbidwWF0pk0ownhwt76-10" value="Investigate" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="465" y="170" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ErbidwWF0pk0ownhwt76-11" value="Discover" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="170" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ErbidwWF0pk0ownhwt76-14" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="81" y="260" as="sourcePoint" />
+            <mxPoint x="700" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="81" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ErbidwWF0pk0ownhwt76-15" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="219.9999999999999" y="260" as="sourcePoint" />
+            <mxPoint x="700" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ErbidwWF0pk0ownhwt76-16" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="260" as="sourcePoint" />
+            <mxPoint x="700" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="360" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ErbidwWF0pk0ownhwt76-17" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="260" as="sourcePoint" />
+            <mxPoint x="700" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="500" y="330" />
+              <mxPoint x="670" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ErbidwWF0pk0ownhwt76-18" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="260" as="sourcePoint" />
+            <mxPoint x="700" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="640" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ErbidwWF0pk0ownhwt76-19" value="Programming cources until find a job" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ErbidwWF0pk0ownhwt76-20" value="Work until be able to teach others on courses or my yourself" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ErbidwWF0pk0ownhwt76-21" value="Teach until finding the field where I&#39;ll be interested to investigate deeply" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ErbidwWF0pk0ownhwt76-22" value="Choose a specialization in one field and investigate it deeply" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ErbidwWF0pk0ownhwt76-23" value="Find the most crucial things in a specialization to discover more diply" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
