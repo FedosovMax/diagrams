@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-05T13:22:01.950Z" agent="5.0 (Windows)" etag="Ck_hL3Dd_j7r_EjWY9K1" version="12.9.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-05T14:00:36.509Z" agent="5.0 (Windows)" etag="VJWVBEA4_Fh497RXlg18" version="12.9.5" type="github">
   <diagram id="AWmAm8-LNHxIUhdHW9r_" name="Page-1">
     <mxGraphModel dx="865" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -83,19 +83,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ErbidwWF0pk0ownhwt76-19" value="Programming cources until find a job" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ErbidwWF0pk0ownhwt76-19" value="Goal: First Job" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ErbidwWF0pk0ownhwt76-20" value="Work until be able to teach others on courses or my yourself" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ErbidwWF0pk0ownhwt76-20" value="Goal: become a teacher" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="165" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ErbidwWF0pk0ownhwt76-21" value="Teach until finding the field where I&#39;ll be interested to investigate deeply" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ErbidwWF0pk0ownhwt76-21" value="Goal: Find a specialization" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ErbidwWF0pk0ownhwt76-22" value="Choose a specialization in one field and investigate it deeply" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ErbidwWF0pk0ownhwt76-22" value="Goal: Find a path to discovery" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ErbidwWF0pk0ownhwt76-23" value="Find the most crucial things in a specialization to discover more diply" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ErbidwWF0pk0ownhwt76-23" value="Goal: Make discovery a start of your path" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
