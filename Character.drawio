@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-03T20:59:41.256Z" agent="5.0 (Windows)" etag="3rMi7z7R8bYEOlT-GkxO" version="12.9.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-06T20:04:50.837Z" agent="5.0 (Windows)" etag="AoAOMj-EbcMLdWSBYgKk" version="12.9.5" type="github">
   <diagram id="O-SDE2Yfm0KPrJIjMzby" name="Page-1">
     <mxGraphModel dx="1888" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -89,16 +89,16 @@
           <mxGeometry x="880" y="69" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6CGBruiivTMrT4uVMw9e-1" value="&amp;nbsp;Profession Controller" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-700" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="-820" y="155" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6CGBruiivTMrT4uVMw9e-2" value="getProfession()&lt;br&gt;updateProfession()&lt;br&gt;addProfession()" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-700" y="450" width="120" height="100" as="geometry" />
+          <mxGeometry x="-820" y="215" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="6CGBruiivTMrT4uVMw9e-3" value="Enum rarity();&lt;br&gt;&lt;div&gt;String name; &lt;br&gt;&lt;/div&gt;&lt;div&gt;Integer experience;&lt;/div&gt;&lt;div&gt;Integer level;&lt;/div&gt;&lt;div&gt;List&amp;lt;Skill&amp;gt; skills;&lt;br&gt;&lt;/div&gt;List&amp;lt;Quest&amp;gt; quests;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="-710" y="591" width="160" height="109" as="geometry" />
+          <mxGeometry x="-830" y="356" width="160" height="109" as="geometry" />
         </mxCell>
         <mxCell id="6CGBruiivTMrT4uVMw9e-4" value="Profession" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="-665" y="570" width="70" height="20" as="geometry" />
+          <mxGeometry x="-785" y="335" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6CGBruiivTMrT4uVMw9e-8" value="&lt;font style=&quot;font-size: 55px&quot;&gt;Story Service&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="-475" y="39" width="340" height="30" as="geometry" />
@@ -142,29 +142,59 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YS-HC_lw_nhmeFUCJO6V-1" value="&lt;div&gt;String name; &lt;br&gt;&lt;/div&gt;&lt;div&gt;Integer day; &lt;br&gt;&lt;/div&gt;&lt;div&gt;List&amp;lt;StoryDay&amp;gt; storyDays;&lt;/div&gt;&lt;div&gt; &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-240" y="376" width="160" height="109" as="geometry" />
+        <mxCell id="YS-HC_lw_nhmeFUCJO6V-1" value="&lt;div&gt;String name; &lt;br&gt;&lt;/div&gt;&lt;div&gt;List&amp;lt;StoryDay&amp;gt; storyDays;&lt;/div&gt;&lt;div&gt; &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="141" width="160" height="109" as="geometry" />
         </mxCell>
         <mxCell id="YS-HC_lw_nhmeFUCJO6V-2" value="Story" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="-180" y="355" width="40" height="20" as="geometry" />
+          <mxGeometry x="-180" y="120" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YS-HC_lw_nhmeFUCJO6V-5" value="&lt;div&gt;String name; &lt;br&gt;&lt;/div&gt;&lt;div&gt;String description;&lt;/div&gt;&lt;div&gt;Character character;&lt;br&gt;&lt;/div&gt;&lt;div&gt;List&amp;lt;Quest&amp;gt; availableQuests;&lt;/div&gt;&lt;div&gt;List&amp;lt;Quest&amp;gt; currentQuests;&lt;/div&gt;&lt;div&gt;String storyNode;&lt;/div&gt;&lt;div&gt;List&amp;lt;StoryDay&amp;gt; parentStoryDays;&lt;/div&gt;&lt;div&gt;List&amp;lt;StoryDay&amp;gt; childStoryDays;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-240" y="546" width="200" height="154" as="geometry" />
+          <mxGeometry x="-240" y="311" width="200" height="154" as="geometry" />
         </mxCell>
         <mxCell id="YS-HC_lw_nhmeFUCJO6V-6" value="StoryDay" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="-190" y="525" width="60" height="20" as="geometry" />
+          <mxGeometry x="-190" y="290" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YS-HC_lw_nhmeFUCJO6V-7" value="&amp;nbsp;Story Controller" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-545" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="-665" y="155" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YS-HC_lw_nhmeFUCJO6V-8" value="getStory()&lt;br&gt;updateStory()&lt;br&gt;&lt;div&gt;CreateStory()&lt;/div&gt;&lt;div&gt;DeleteStory()&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-545" y="450" width="120" height="100" as="geometry" />
+          <mxGeometry x="-665" y="215" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="YS-HC_lw_nhmeFUCJO6V-9" value="&amp;nbsp;StoryDay Controller" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-400" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="-520" y="155" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YS-HC_lw_nhmeFUCJO6V-10" value="&lt;div&gt;createStory()&lt;/div&gt;&lt;div&gt;getStoryDayById()&lt;/div&gt;updateStoryDay()&lt;br&gt;&lt;div&gt;getAllStorieDays()&lt;/div&gt;&lt;div&gt;DeleteStoryDay()&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-400" y="450" width="120" height="100" as="geometry" />
+          <mxGeometry x="-520" y="215" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="YS-HC_lw_nhmeFUCJO6V-11" value="&amp;nbsp;Shop Controller" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YS-HC_lw_nhmeFUCJO6V-12" value="getShop()&lt;br&gt;updateShop()&lt;br&gt;addShop()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="240" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="YS-HC_lw_nhmeFUCJO6V-13" value="&amp;nbsp;Location Controller" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="155" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YS-HC_lw_nhmeFUCJO6V-14" value="&lt;div&gt;createStory()&lt;/div&gt;&lt;div&gt;getStoryDayById()&lt;/div&gt;updateStoryDay()&lt;br&gt;&lt;div&gt;getAllStorieDays()&lt;/div&gt;&lt;div&gt;DeleteStoryDay()&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="215" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="YS-HC_lw_nhmeFUCJO6V-15" value="&lt;div&gt;String name;&lt;/div&gt;&lt;div&gt;String description;&lt;/div&gt;&lt;div&gt;List&amp;lt;Shop&amp;gt; shops;&lt;/div&gt;&lt;div&gt;List&amp;lt;Quest&amp;gt; quests;&lt;/div&gt;&lt;div&gt;List&amp;lt;Event&amp;gt; event;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-430" y="356.5" width="160" height="109" as="geometry" />
+        </mxCell>
+        <mxCell id="YS-HC_lw_nhmeFUCJO6V-16" value="Location" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="335.5" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YS-HC_lw_nhmeFUCJO6V-17" value="&lt;div&gt;String name; &lt;br&gt;&lt;/div&gt;&lt;div&gt;String description;&lt;/div&gt;&lt;div&gt;GameCharacter assigner;&lt;/div&gt;&lt;div&gt;QuestRequirements requirements;&lt;br&gt;&lt;/div&gt;&lt;div&gt;QuestReward reward;&lt;/div&gt;&lt;div&gt;List&amp;lt;StoryDay&amp;gt; days; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-460" y="521" width="200" height="154" as="geometry" />
+        </mxCell>
+        <mxCell id="YS-HC_lw_nhmeFUCJO6V-18" value="Quest" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="500" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YS-HC_lw_nhmeFUCJO6V-19" value="&lt;div&gt;String name; &lt;br&gt;&lt;/div&gt;&lt;div&gt;String description;&lt;/div&gt;&lt;div&gt;GameCharacter assigner;&lt;/div&gt;&lt;div&gt;QuestRequirements requirements;&lt;br&gt;&lt;/div&gt;&lt;div&gt;QuestReward reward;&lt;/div&gt;&lt;div&gt;List&amp;lt;StoryDay&amp;gt; days; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-460" y="711" width="200" height="154" as="geometry" />
+        </mxCell>
+        <mxCell id="YS-HC_lw_nhmeFUCJO6V-20" value="GameCharacter" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-410" y="690" width="100" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
