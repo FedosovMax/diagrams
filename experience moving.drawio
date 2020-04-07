@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-04-05T20:37:28.429Z" agent="5.0 (Windows)" etag="r4_-B_DZPYo2BPgYA_BS" version="12.9.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-07T15:11:49.587Z" agent="5.0 (Windows)" etag="UFnmjGBA3xIOOoAYIGtp" version="12.9.5" type="github">
   <diagram id="72BcZR0rlZjfZ5FAyjgI" name="Page-1">
-    <mxGraphModel dx="8110" dy="4060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2131" dy="716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -202,8 +202,8 @@
         <mxCell id="MWekD1bT6eHtkvow1qM9-6" value="Routine" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="112.5" y="70" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="MWekD1bT6eHtkvow1qM9-7" value="Experience" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="433.5" y="70" width="80" height="20" as="geometry" />
+        <mxCell id="MWekD1bT6eHtkvow1qM9-7" value="Day" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="453.5" y="70" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="MWekD1bT6eHtkvow1qM9-8" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -391,8 +391,8 @@
         <mxCell id="wB2bhxwX2nH6gLjDxcvd-5" value="Routine" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="972.5" y="70" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="wB2bhxwX2nH6gLjDxcvd-6" value="TodoBlock" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="1298.5" y="70" width="70" height="20" as="geometry" />
+        <mxCell id="wB2bhxwX2nH6gLjDxcvd-6" value="Day" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1313.5" y="70" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wB2bhxwX2nH6gLjDxcvd-10" value="" style="endArrow=none;html=1;fillColor=#f5f5f5;strokeColor=#666666;dashed=1;dashPattern=1 2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -466,8 +466,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wB2bhxwX2nH6gLjDxcvd-39" value="Create block" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="1360" y="100" width="80" height="20" as="geometry" />
+        <mxCell id="wB2bhxwX2nH6gLjDxcvd-39" value="Create Day" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1365" y="100" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wB2bhxwX2nH6gLjDxcvd-45" value="" style="endArrow=classic;html=1;startArrow=classic;startFill=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -490,7 +490,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wB2bhxwX2nH6gLjDxcvd-54" value="Save block to the DB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="wB2bhxwX2nH6gLjDxcvd-54" value="Save Day to the DB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="1360" y="280" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wB2bhxwX2nH6gLjDxcvd-57" value="" style="endArrow=none;dashed=1;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
@@ -706,8 +706,8 @@
             <mxPoint x="1325" y="1518.8200000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wB2bhxwX2nH6gLjDxcvd-134" value="&lt;div&gt;String name&lt;/div&gt;&lt;div&gt;LocalDate date&lt;/div&gt;&lt;div&gt;List&amp;lt;Todo&amp;gt; todos&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1700" y="1220" width="120" height="80" as="geometry" />
+        <mxCell id="wB2bhxwX2nH6gLjDxcvd-134" value="&lt;div&gt;String name&lt;/div&gt;&lt;div&gt;LocalDate date&lt;/div&gt;&lt;div&gt;List&amp;lt;Todo&amp;gt; todos&lt;/div&gt;&lt;div&gt;List&amp;lt;Routine&amp;gt; routines&lt;/div&gt;&lt;div&gt;List&amp;lt;Todo&amp;gt; repeatedTodos&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1700" y="1220" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="wB2bhxwX2nH6gLjDxcvd-135" value="Day" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="1741" y="1200" width="40" height="20" as="geometry" />
