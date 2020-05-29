@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2020-05-29T10:07:47.368Z" agent="5.0 (Windows)" version="13.1.3" etag="nBt0z5NRCvWkvnr6GhGT" type="github"><diagram id="laY-fVb17HLf7wiZozy-">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-05-29T11:13:33.344Z" agent="5.0 (Windows)" etag="ciRr2jR4fIOw438H86sQ" version="13.1.3" type="github">
+  <diagram id="laY-fVb17HLf7wiZozy-" name="Page-1">
+    <mxGraphModel dx="475" dy="264" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XyNdkiyIVKa8AsfBxNkg-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="175" width="340" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="XyNdkiyIVKa8AsfBxNkg-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="175" width="340" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="XyNdkiyIVKa8AsfBxNkg-4" value="General" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="150" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XyNdkiyIVKa8AsfBxNkg-5" value="Personal" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="565" y="150" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XyNdkiyIVKa8AsfBxNkg-8" value="General Income" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XyNdkiyIVKa8AsfBxNkg-9" value="Additional Income" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XyNdkiyIVKa8AsfBxNkg-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="190" width="320" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="XyNdkiyIVKa8AsfBxNkg-11" value="Food" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="195" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XyNdkiyIVKa8AsfBxNkg-12" value="Home food, daily eating at work" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="195" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XyNdkiyIVKa8AsfBxNkg-16" value="Bread, water, cookies, vegetables, fruits, cakes, eating out for less than 100hrn" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="220" width="305" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XyNdkiyIVKa8AsfBxNkg-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="270" width="320" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="XyNdkiyIVKa8AsfBxNkg-18" value="Home" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="275" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XyNdkiyIVKa8AsfBxNkg-19" value="Cleaning, washing, tiding up" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="275" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XyNdkiyIVKa8AsfBxNkg-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="300" width="305" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
