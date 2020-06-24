@@ -1,1 +1,70 @@
-<mxfile host="app.diagrams.net" modified="2020-06-24T07:14:09.916Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="LaZHwdURLWwN5l_J-4QB" version="12.9.6" type="github"><diagram id="UwxpvaZXYPHfgrwiP2s2" name="Page-1">3VjbctMwEP2aDO1DGF8SJzy2aaGFYWBoBxjeFGsdC2zJyDJO+Xp2JTu24zJchpRMXxJpJa1We3R2V56Eq3z7QrMifa04ZJPA49tJeDEJAj9ahPhHkjsnWS4iJ9howZtJneBGfIdG6DXSSnAoBxONUpkRxVAYKykhNgMZ01rVw2mJyoa7FmwDI8FNzLKx9IPgJm1OMfc6+RWITdru7HvNSM7ayY2gTBlXdU8UXk7ClVbKuFa+XUFGzmv94tY9/8nozjAN0vzOAjF9c/Xx7fTlp8h/dwHe4vPb92I6c1q+saxqDnybAhkLWrBMfGdGKEnbaBVDWZI6+uGQsCozTye0Z5Th/udrja0Nta6lAZ2wmPRMrSf0F9CNE8xd61mtKsmBjPNwUZ0KAzcFrQovarxLKEtNnmHPx2ZjJmgD25+e3995Fa8jqByMvsMp2x00bklzE/1l0687XINWlvYwXTQy1lylzU51521sNA7/A+fP/9j5ZaoqvMCBtwaHgpBgu3TOCtcRIn3/1wKPFnj2QoJJFSct6OuYpDX0VYq8yCAnZ2Jb9gXWDtQcsZxgkeuysJDs9/8zwLPg2AD2RwC3bEmU9XPnrehrpdqBaWnD4BkBFxTbbrBl2M3wgjiVaKHT6uaM4EDHmqHPUcVGYjsGujEoIPcLjH1nzUAuOKfl5xrQJLa2qgjMQglprLfm55P5BemqjHJm/zO+LodwRmM0/dk9aAaHQjM8EJqXW/S+fPR4zn4Dz+gh8YxGeF5T2FOaU7bCMsOGYkmxkdmB9WeqMFCIBtQpaGhjaGzHMc9hjqdtT9oIDqdkhIuoTp/RwHJSllDYxpBYWvW828vOSwRiE6zsBmvSaFIMp5vU7h5/AXPqRjkzbM1KoLh/lhhneMrM0LJKNradYC3VN82kNp3vTuYMwUTSmt0/KmR2nyOL+qO07o3v1fzZPfcqOtS9WhwoTtxqJkthE/TjjBD+cj6AcpeY+yHCf8gQsRxB+QrI4BqDxH4h5ahWVMaWZ4mynDG2oPvGkHPky8CTLIeW5EJy9L2BjrOWc1xBKZ8Y5zpERxRuji3KzLhCPH5OhlSA/t9KzDtUKUbVcfxYGTn3f83IxUMS0h+X1C0CO5aVAw6tIVNy01LO0aeXyZ3s7i9oN+k/zOwDrHsVHxkf919GR8DH4EB8vJZYrQjDJD1/Hycp9x9Gs3sqHj94UFaOn0bXyZhtwmFT2voWMvstItEq707fpdSOjf3vEruHr0umovvSseqqWavbJuk2AvSoC/z46LmfLmfh4eiJ3e6Tox3rfbgNL38A</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-06-24T07:37:43.158Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="ZoshhtlxbFz9psMoXTmH" version="12.9.6" type="github">
+  <diagram id="UwxpvaZXYPHfgrwiP2s2" name="Page-1">
+    <mxGraphModel dx="1422" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="i-OHXP-JZ61RDe07jPVi-4" value="The serialization process is default. &lt;br&gt;Interface - marker" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="180" width="280" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="i-OHXP-JZ61RDe07jPVi-5" value="The serialization process should be defined by user. Interface with 2 methods which we should implement in implementation.&amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="180" width="280" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="i-OHXP-JZ61RDe07jPVi-1" value="&lt;font style=&quot;font-size: 22px&quot;&gt;Serialization&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="60" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="i-OHXP-JZ61RDe07jPVi-3" value="&lt;font style=&quot;font-size: 22px&quot;&gt;Externalization&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="60" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="i-OHXP-JZ61RDe07jPVi-6" value="In order to send an object somewhere we can marshal (serialize) it into stream of bites and send to file, web (through socket), database. After that we can unmarshal(deserialize) this object and use it somewhere else.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="100" width="590" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i-OHXP-JZ61RDe07jPVi-7" value="&lt;font style=&quot;font-size: 22px&quot;&gt;Transient&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="185" y="270" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="i-OHXP-JZ61RDe07jPVi-8" value="Key word which we can put before the variable name to indicate that it doesn&#39;t participate in the serialization.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="302" width="280" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="i-OHXP-JZ61RDe07jPVi-10" value="&lt;font style=&quot;font-size: 22px&quot;&gt;Static&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="515" y="270" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="i-OHXP-JZ61RDe07jPVi-11" value="Static variables doesn&#39;t belong to the object so they doesn&#39;t participate in the serialization process by default.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="302" width="280" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="i-OHXP-JZ61RDe07jPVi-12" value="&lt;font style=&quot;font-size: 22px&quot;&gt;Inheritance&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="400" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="i-OHXP-JZ61RDe07jPVi-13" value="If the object inherits fields from parent which doesn&#39;t implement Serializable interface, this field won&#39;t be serialized.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="432" width="280" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xtHFvJC46J3k_mJUIoU7-1" value="&lt;span style=&quot;font-size: 22px&quot;&gt;&lt;font color=&quot;#67ab9f&quot;&gt;PATTERNS&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="30" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xtHFvJC46J3k_mJUIoU7-2" value="&lt;span style=&quot;font-size: 22px&quot;&gt;Gamma Categorization&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#97D077;" vertex="1" parent="1">
+          <mxGeometry x="1417.5" y="90" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xtHFvJC46J3k_mJUIoU7-3" value="&lt;span style=&quot;font-size: 22px&quot;&gt;Creational Patterns&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#B5739D;" vertex="1" parent="1">
+          <mxGeometry x="1142.5" y="150" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xtHFvJC46J3k_mJUIoU7-4" value="- Deal with creation of objects&lt;br&gt;- Can be explicit or implicit (DI, Reflection, etc.)&lt;br&gt;- Wholesale (single statement) vs. piecewise (step-by-step)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;labelBackgroundColor=none;fontColor=#A680B8;" vertex="1" parent="1">
+          <mxGeometry x="1107.5" y="180" width="270" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xtHFvJC46J3k_mJUIoU7-5" value="&lt;span style=&quot;font-size: 22px&quot;&gt;Structural Patterns&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#B5739D;" vertex="1" parent="1">
+          <mxGeometry x="1437.5" y="150" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xtHFvJC46J3k_mJUIoU7-6" value="- Deal with structure&lt;br&gt;- Many patterns are wrappers which mimic the underlying class&#39; interface&amp;nbsp;&lt;br&gt;- Stress the importance of good API design" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;labelBackgroundColor=none;fontColor=#A680B8;" vertex="1" parent="1">
+          <mxGeometry x="1402.5" y="180" width="270" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xtHFvJC46J3k_mJUIoU7-7" value="&lt;span style=&quot;font-size: 22px&quot;&gt;Behavioral Patterns&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#B5739D;" vertex="1" parent="1">
+          <mxGeometry x="1722.5" y="150" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xtHFvJC46J3k_mJUIoU7-8" value="- They all different&amp;nbsp;&lt;br&gt;- Unique and solve a particular problem each" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;labelBackgroundColor=none;fontColor=#A680B8;" vertex="1" parent="1">
+          <mxGeometry x="1692.5" y="180" width="270" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xtHFvJC46J3k_mJUIoU7-9" value="&lt;span style=&quot;font-size: 22px&quot;&gt;Builder&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1507.5" y="380" width="80" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
