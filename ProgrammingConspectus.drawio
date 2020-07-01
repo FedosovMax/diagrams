@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-07-01T15:09:58.921Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="fFU2ZfIjvg34SL8ISkfy" version="13.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-01T15:17:09.197Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="IYv2zAUGIuSMZZ8JXKk4" version="13.3.5" type="github">
   <diagram id="UwxpvaZXYPHfgrwiP2s2" name="Page-1">
-    <mxGraphModel dx="2031" dy="1064" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -109,7 +109,7 @@
         <mxCell id="kzJAw3_S8yXrCBRbw5C4-5" value="&lt;font color=&quot;#ea6b66&quot; style=&quot;font-size: 16px&quot;&gt;Examples&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#97D077;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="1645" y="695" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="kzJAw3_S8yXrCBRbw5C4-7" value="- &lt;b&gt;&amp;lt;ul&amp;gt; &amp;lt;li&amp;gt; &amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;&lt;/b&gt; tags using builder,&lt;br&gt;&lt;div&gt;- we can create a &lt;b&gt;fluent Builder&lt;/b&gt; Interface with returning the object of the Builder class (return this) in the add method.&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;- To preserve &lt;b&gt;fluent interface during inheritance&lt;/b&gt; of builders we need to use recursive Generic definition in a way like (ParentBuilder&amp;lt;SELF extends ParentBilder&amp;lt;SELF&amp;gt;&amp;gt; and return SELF and override method which returns SELF in child classes.&amp;nbsp;&lt;/div&gt;&lt;div&gt;- &lt;b&gt;Faceted Buider&lt;/b&gt; (using facade) just create a interface (facade) builder with methods that return child objects and inherit this builder with any amount of children.&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;labelBackgroundColor=none;fontColor=#A680B8;align=left;" parent="1" vertex="1">
+        <mxCell id="kzJAw3_S8yXrCBRbw5C4-7" value="- Two constructors of the same types which is impossible. (Need enum CoordinateSystem and switch). Ugly logic.&amp;nbsp;&lt;br&gt;- Create separate public static factory methods to create different types of the same object. Should be private constructor.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;labelBackgroundColor=none;fontColor=#A680B8;align=left;" parent="1" vertex="1">
           <mxGeometry x="1711" y="750" width="294" height="180" as="geometry" />
         </mxCell>
         <mxCell id="kzJAw3_S8yXrCBRbw5C4-8" value="&lt;font color=&quot;#ea6b66&quot; style=&quot;font-size: 16px&quot;&gt;Code Impl&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#97D077;rotation=-90;" parent="1" vertex="1">
