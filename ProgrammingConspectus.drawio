@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-03T08:10:11.162Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="Xa4-0YZZLwJ_02704xmp" version="13.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-07T08:40:38.747Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="PlJumR8rQkSc4addtToz" version="13.3.5" type="github">
   <diagram id="UwxpvaZXYPHfgrwiP2s2" name="Page-1">
     <mxGraphModel dx="1185" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -97,8 +97,8 @@
         <mxCell id="kzJAw3_S8yXrCBRbw5C4-1" value="&lt;span style=&quot;font-size: 22px&quot;&gt;Factory Method&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#97D077;" parent="1" vertex="1">
           <mxGeometry x="1760" y="420" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="kzJAw3_S8yXrCBRbw5C4-2" value="To create objects with complicating logic.&lt;br&gt;- Constructors aren&#39;t good because:&amp;nbsp;&lt;br&gt;- We can&#39;t name a constructor differently from the class name.&amp;nbsp;&lt;br&gt;- We can&#39;t overload a constructor with the same arguments.&amp;nbsp;&lt;br&gt;- Can turn into &#39;overloading hell&#39;&lt;br&gt;- Wholesale object creation (not piecewise like Builder)&lt;br&gt;- Separate function (Factory Method)&lt;br&gt;WHOLESALE CREATION OF OBJECTS&lt;br&gt;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;labelBackgroundColor=none;fontColor=#A680B8;" parent="1" vertex="1">
-          <mxGeometry x="1710" y="460" width="290" height="180" as="geometry" />
+        <mxCell id="kzJAw3_S8yXrCBRbw5C4-2" value="To create objects with complicating logic.&lt;br&gt;- Factory method doesn&#39;t expose instantiation logic, defer to subclasses and returns common interfaces.&amp;nbsp;&lt;br&gt;- Constructors aren&#39;t good because:&amp;nbsp;&lt;br&gt;- We can&#39;t name a constructor differently from the class name.&amp;nbsp;&lt;br&gt;- We can&#39;t overload a constructor with the same arguments.&amp;nbsp;&lt;br&gt;- Can turn into &#39;overloading hell&#39;&lt;br&gt;- Wholesale object creation (not piecewise like Builder)&lt;br&gt;- Separate function (Factory Method)&lt;br&gt;WHOLESALE CREATION OF OBJECTS&lt;br&gt;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;labelBackgroundColor=none;fontColor=#A680B8;" parent="1" vertex="1">
+          <mxGeometry x="1710" y="460" width="290" height="200" as="geometry" />
         </mxCell>
         <mxCell id="kzJAw3_S8yXrCBRbw5C4-3" value="&lt;font color=&quot;#ea6b66&quot; style=&quot;font-size: 16px&quot;&gt;Motivation&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#97D077;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="1645" y="500" width="90" height="20" as="geometry" />
