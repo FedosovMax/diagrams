@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2020-09-23T07:13:03.560Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="b65nY2MsLrbCjfXLHusz" version="13.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-23T07:34:28.379Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="5Kmjk5Fzr2O5f4y5mG0I" version="13.7.3" type="github">
   <diagram id="UbLcB4NzKO1tIRgpXMXI" name="Page-1">
-    <mxGraphModel dx="6440" dy="3747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4070" dy="2423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_RnZaY9VlX56kErWkotC-21" value="Размножение в неволе&lt;br&gt;&lt;br&gt;Филип Макгро - спасение отношений &lt;br&gt;&lt;br&gt;7 принципов счастливого брака - Джон Готтман&lt;br&gt;&lt;br&gt;Трактат о любви. как ее понимает зануда - Протопопов&lt;br&gt;&lt;br&gt;Секс на заре цивилизации - Жета, Райан&lt;br&gt;&lt;br&gt;5 языков любви - Чепмен&lt;br&gt;&lt;br&gt;Язык взаимоотношений почему мужчины хотят секса а женщины любви - Пиз (3 книги)&lt;br&gt;&lt;br&gt;Мужчины с Марса а женщины с Венеры&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-815" y="30" width="500" height="220" as="geometry" />
+        </mxCell>
         <mxCell id="mQYtg2DNW1GJG3t02Tvy-11" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-190" y="860" width="10" height="1030" as="geometry" />
         </mxCell>
@@ -150,6 +153,36 @@
         </mxCell>
         <mxCell id="_RnZaY9VlX56kErWkotC-19" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;direction=south;" vertex="1" parent="1">
           <mxGeometry x="-1210" y="-220" width="1030" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="_RnZaY9VlX56kErWkotC-20" value="&lt;font style=&quot;font-size: 21px&quot; color=&quot;#7EA6E0&quot;&gt;Books&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#B5739D;" vertex="1" parent="1">
+          <mxGeometry x="-840" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_RnZaY9VlX56kErWkotC-22" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;strokeColor=#67AB9F;fillColor=#67AB9F;" vertex="1" parent="1">
+          <mxGeometry x="-880" y="93.33333333333333" width="15.625" height="19.606666666666666" as="geometry" />
+        </mxCell>
+        <mxCell id="_RnZaY9VlX56kErWkotC-23" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-842.5" y="40" width="12.5" height="13.333333333333332" as="geometry" />
+        </mxCell>
+        <mxCell id="_RnZaY9VlX56kErWkotC-24" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-842.5" y="66.66666666666666" width="12.5" height="13.333333333333332" as="geometry" />
+        </mxCell>
+        <mxCell id="_RnZaY9VlX56kErWkotC-25" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-842.5" y="93.33333333333333" width="12.5" height="13.333333333333332" as="geometry" />
+        </mxCell>
+        <mxCell id="_RnZaY9VlX56kErWkotC-26" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-842.5" y="120" width="12.5" height="13.333333333333332" as="geometry" />
+        </mxCell>
+        <mxCell id="_RnZaY9VlX56kErWkotC-27" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-842.5" y="148.66666666666666" width="12.5" height="13.333333333333332" as="geometry" />
+        </mxCell>
+        <mxCell id="_RnZaY9VlX56kErWkotC-28" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-842.5" y="176.33333333333331" width="12.5" height="13.333333333333332" as="geometry" />
+        </mxCell>
+        <mxCell id="_RnZaY9VlX56kErWkotC-29" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-842.5" y="205" width="12.5" height="13.333333333333332" as="geometry" />
+        </mxCell>
+        <mxCell id="_RnZaY9VlX56kErWkotC-30" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-842.5" y="233.66666666666666" width="12.5" height="13.333333333333332" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
