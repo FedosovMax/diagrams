@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-25T07:44:42.465Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="N5Pxd1VvIQmkAK3-b-di" version="13.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-25T07:46:12.318Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="A_ubMOhu_sZRIHy2N27N" version="13.7.4" type="github">
   <diagram id="UbLcB4NzKO1tIRgpXMXI" name="Page-1">
-    <mxGraphModel dx="3363" dy="1554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5394" dy="2688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -215,34 +215,34 @@
           <mxGeometry x="-840" y="-260" width="220" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YwEwIEsaSzo_W7kYZ8YT-3" value="Homework" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="-1360" y="110" width="70" height="20" as="geometry" />
+          <mxGeometry x="-1200" y="110" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YwEwIEsaSzo_W7kYZ8YT-4" value="Me" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="-1550" y="170" width="30" height="20" as="geometry" />
+          <mxGeometry x="-1370" y="170" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YwEwIEsaSzo_W7kYZ8YT-5" value="She" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="-1130" y="170" width="40" height="20" as="geometry" />
+          <mxGeometry x="-1000" y="170" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YwEwIEsaSzo_W7kYZ8YT-6" value="Laundry&lt;br&gt;Cleaning home&lt;br&gt;Serving meals + cleaning up&lt;br&gt;Handle pets&lt;br&gt;Preparing food&lt;br&gt;Earn family money&lt;br&gt;Shopping" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="-1410" y="140" width="170" height="100" as="geometry" />
+          <mxGeometry x="-1250" y="140" width="170" height="100" as="geometry" />
         </mxCell>
         <mxCell id="YwEwIEsaSzo_W7kYZ8YT-7" value="100%&lt;br&gt;70%&lt;br&gt;50%&lt;br&gt;75%&lt;br&gt;100%&lt;br&gt;100%&lt;br&gt;100%" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="-1255" y="142" width="50" height="100" as="geometry" />
+          <mxGeometry x="-1095" y="142" width="50" height="100" as="geometry" />
         </mxCell>
         <mxCell id="YwEwIEsaSzo_W7kYZ8YT-8" value="0%&lt;br&gt;30%&lt;br&gt;50%&lt;br&gt;25%&lt;br&gt;0%&lt;br&gt;100%&lt;br&gt;0%" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="-1450" y="140" width="50" height="100" as="geometry" />
+          <mxGeometry x="-1290" y="140" width="50" height="100" as="geometry" />
         </mxCell>
         <mxCell id="YwEwIEsaSzo_W7kYZ8YT-9" value="2&lt;br&gt;2&lt;br&gt;3&lt;br&gt;4&lt;br&gt;3&lt;br&gt;0&lt;br&gt;5" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="-1195" y="142" width="20" height="100" as="geometry" />
+          <mxGeometry x="-1035" y="142" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="YwEwIEsaSzo_W7kYZ8YT-10" value="0&lt;br&gt;0.5&lt;br&gt;3&lt;br&gt;1&lt;br&gt;0&lt;br&gt;76&lt;br&gt;0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="-1477" y="141" width="30" height="100" as="geometry" />
+          <mxGeometry x="-1317" y="141" width="30" height="100" as="geometry" />
         </mxCell>
         <mxCell id="YwEwIEsaSzo_W7kYZ8YT-11" value="80.5" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="-1480" y="250" width="40" height="20" as="geometry" />
+          <mxGeometry x="-1320" y="250" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YwEwIEsaSzo_W7kYZ8YT-12" value="19" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="-1200" y="250" width="30" height="20" as="geometry" />
+          <mxGeometry x="-1040" y="250" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
