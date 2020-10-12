@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-12T07:36:59.110Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="KBdIyp0dFeGKJ_K5F3v4" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-12T07:50:15.829Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="cx2BuQF6aNmdzyswp7AJ" version="13.7.7" type="github">
   <diagram id="UbLcB4NzKO1tIRgpXMXI" name="Page-1">
-    <mxGraphModel dx="4213" dy="1554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5431" dy="2234" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -706,11 +706,11 @@
         <mxCell id="Hz88uCx44lFG6S9V91Fr-6" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;direction=south;" parent="1" vertex="1">
           <mxGeometry x="1820" y="120" width="10" height="1370" as="geometry" />
         </mxCell>
-        <mxCell id="Hz88uCx44lFG6S9V91Fr-7" value="I don&#39;t have enough time to do everything I need to do" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="1920" y="250" width="120" height="60" as="geometry" />
+        <mxCell id="Hz88uCx44lFG6S9V91Fr-7" value="I don&#39;t have enough time to do everything I need to do" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;verticalAlign=middle;strokeColor=#FF6666;" parent="1" vertex="1">
+          <mxGeometry x="4040" y="845" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Hz88uCx44lFG6S9V91Fr-8" value="I&#39;m can&#39;t organize myself to be effective" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="2060" y="250" width="120" height="60" as="geometry" />
+        <mxCell id="Hz88uCx44lFG6S9V91Fr-8" value="I&#39;m can&#39;t organize myself to be effective" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;verticalAlign=middle;strokeColor=#FF6666;" parent="1" vertex="1">
+          <mxGeometry x="4060" y="1130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Hz88uCx44lFG6S9V91Fr-9" value="Sometimes I feel physically tired" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="3395" y="580" width="120" height="60" as="geometry" />
@@ -721,32 +721,32 @@
         <mxCell id="Hz88uCx44lFG6S9V91Fr-11" value="I&#39;m wasting to much time at work" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="3585" y="1151.32" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Hz88uCx44lFG6S9V91Fr-12" value="I don&#39;t have enough energy to be productive" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF6666;" parent="1" vertex="1">
+        <mxCell id="Hz88uCx44lFG6S9V91Fr-12" value="I don&#39;t have enough mental energy to be productive" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="2365" y="660" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Hz88uCx44lFG6S9V91Fr-13" value="I&#39;m not able to work fast enough in the project" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;" parent="1" vertex="1">
-          <mxGeometry x="2220" y="410" width="120" height="60" as="geometry" />
+        <mxCell id="Hz88uCx44lFG6S9V91Fr-13" value="I&#39;m not able to work fast enough in the project" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF6666;" parent="1" vertex="1">
+          <mxGeometry x="4040" y="730" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Hz88uCx44lFG6S9V91Fr-14" value="I have to much things to care about" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;" parent="1" vertex="1">
-          <mxGeometry x="2220" y="330" width="120" height="60" as="geometry" />
+        <mxCell id="Hz88uCx44lFG6S9V91Fr-14" value="I have to much things to care about" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF6666;" parent="1" vertex="1">
+          <mxGeometry x="4050" y="1220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Hz88uCx44lFG6S9V91Fr-15" value="I don&#39;t believe that I can do everything in time" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="2220" y="250" width="120" height="60" as="geometry" />
+        <mxCell id="Hz88uCx44lFG6S9V91Fr-15" value="I don&#39;t believe that I can do everything in time" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;verticalAlign=middle;strokeColor=#FF6666;" parent="1" vertex="1">
+          <mxGeometry x="2680" y="570" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Hz88uCx44lFG6S9V91Fr-16" value="My life isn&#39;t planned properly" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="2370" y="250" width="120" height="60" as="geometry" />
+        <mxCell id="Hz88uCx44lFG6S9V91Fr-16" value="My life isn&#39;t planned properly" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;verticalAlign=middle;strokeColor=#FF6666;" parent="1" vertex="1">
+          <mxGeometry x="3910" y="1120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Hz88uCx44lFG6S9V91Fr-17" value="I don&#39;t have any investment plan" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF6666;" parent="1" vertex="1">
-          <mxGeometry x="2370" y="330" width="120" height="60" as="geometry" />
+          <mxGeometry x="2280" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Hz88uCx44lFG6S9V91Fr-18" value="Second job is rewarding but needs my time and leads elsewhere" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF6666;" parent="1" vertex="1">
-          <mxGeometry x="2370" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="2280" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Hz88uCx44lFG6S9V91Fr-19" value="I don&#39;t satisfied by my job" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="2510" y="250" width="120" height="60" as="geometry" />
+        <mxCell id="Hz88uCx44lFG6S9V91Fr-19" value="I don&#39;t satisfied with my job" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="2910" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Hz88uCx44lFG6S9V91Fr-20" value="I don&#39;t feel that my work helps me to grow&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF6666;" parent="1" vertex="1">
-          <mxGeometry x="2510" y="330" width="120" height="60" as="geometry" />
+          <mxGeometry x="2910" y="470" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Hz88uCx44lFG6S9V91Fr-21" value="I don&#39;t rest effectively enough" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="3465" y="820" width="120" height="60" as="geometry" />
@@ -760,8 +760,8 @@
         <mxCell id="Hz88uCx44lFG6S9V91Fr-24" value="I waste to much time to films, series, games to reboot my system" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="2685" y="990" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Hz88uCx44lFG6S9V91Fr-25" value="I don&#39;t have enough tools for self-management" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;" parent="1" vertex="1">
-          <mxGeometry x="2230" y="570" width="120" height="60" as="geometry" />
+        <mxCell id="Hz88uCx44lFG6S9V91Fr-25" value="I don&#39;t have effective tools for self-management" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF6666;" parent="1" vertex="1">
+          <mxGeometry x="3950" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Hz88uCx44lFG6S9V91Fr-26" value="I need to rest physically&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;" parent="1" vertex="1">
           <mxGeometry x="3610" y="820" width="120" height="60" as="geometry" />
@@ -971,7 +971,7 @@
             <Array as="points">
               <mxPoint x="3870" y="595" />
               <mxPoint x="3870" y="1590" />
-              <mxPoint x="3538" y="1590" />
+              <mxPoint x="3510" y="1590" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1009,10 +1009,10 @@
           <mxGeometry x="3350" y="1590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZkadXEe9M6uM8Bh_UyCY-23" value="It&#39;s difficult to work on the optimal plan" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF6666;" parent="1" vertex="1">
-          <mxGeometry x="3880" y="850" width="120" height="60" as="geometry" />
+          <mxGeometry x="3890" y="1337" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZkadXEe9M6uM8Bh_UyCY-24" value="I&#39;m or overdo it or underdo it" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF6666;" parent="1" vertex="1">
-          <mxGeometry x="3880" y="770" width="120" height="60" as="geometry" />
+          <mxGeometry x="2510" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZkadXEe9M6uM8Bh_UyCY-25" value="I prefer to do easier and less important staff when I&#39;m tired" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="3520" y="1487" width="120" height="60" as="geometry" />
@@ -1023,11 +1023,8 @@
         <mxCell id="ZkadXEe9M6uM8Bh_UyCY-27" value="I don&#39;t start my day from the most important and critical tasks" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="3345" y="1370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZkadXEe9M6uM8Bh_UyCY-28" value="I feel tired really fast" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF6666;" parent="1" vertex="1">
-          <mxGeometry x="4010" y="850" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ZkadXEe9M6uM8Bh_UyCY-29" value="My lifestyle doesn&#39;t help me to be productive" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF6666;" parent="1" vertex="1">
-          <mxGeometry x="2780" y="1190.0000000000002" width="120" height="60" as="geometry" />
+        <mxCell id="ZkadXEe9M6uM8Bh_UyCY-28" value="I have weak durability" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF6666;" parent="1" vertex="1">
+          <mxGeometry x="2915" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZkadXEe9M6uM8Bh_UyCY-30" value="I eat wrongly" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="3060" y="820.0000000000001" width="120" height="60" as="geometry" />
@@ -1242,6 +1239,45 @@
         </mxCell>
         <mxCell id="8cq2YMd5qG5OHkKQ4OR4-56" value="" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;gradientColor=none;align=center;" vertex="1" parent="1">
           <mxGeometry x="3430" y="1455" width="100" height="7.69" as="geometry" />
+        </mxCell>
+        <mxCell id="8cq2YMd5qG5OHkKQ4OR4-57" value="&lt;font color=&quot;#b5739d&quot;&gt;Should I decide it by myself?&amp;nbsp;&lt;br&gt;I&#39;m not sure that it&#39;s a good idea&lt;br&gt;we are a team.&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=21;fontColor=#7EA6E0;" vertex="1" parent="1">
+          <mxGeometry x="-2030" y="150" width="310" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8cq2YMd5qG5OHkKQ4OR4-58" value="I don&#39;t have a system to trait my discipline" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="3350" y="1810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8cq2YMd5qG5OHkKQ4OR4-59" value="I&#39;m not training my discipline" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="3350" y="1700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8cq2YMd5qG5OHkKQ4OR4-60" value="I need a plan to train my discipline" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;" vertex="1" parent="1">
+          <mxGeometry x="3515" y="1810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8cq2YMd5qG5OHkKQ4OR4-61" value="" style="endArrow=classic;html=1;exitX=0.4;exitY=-0.022;exitDx=0;exitDy=0;entryX=0.556;entryY=1.022;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" target="8cq2YMd5qG5OHkKQ4OR4-59">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3417.000000000001" y="1809.6999999999998" as="sourcePoint" />
+            <mxPoint x="3420.000000000001" y="1770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8cq2YMd5qG5OHkKQ4OR4-62" value="" style="endArrow=classic;html=1;exitX=0.4;exitY=-0.022;exitDx=0;exitDy=0;entryX=0.556;entryY=1.022;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3409.860000000002" y="1700.0000000000002" as="sourcePoint" />
+            <mxPoint x="3409.5800000000004" y="1651.6199999999997" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8cq2YMd5qG5OHkKQ4OR4-64" value="" style="endArrow=classic;html=1;exitX=0.632;exitY=0.008;exitDx=0;exitDy=0;entryX=0.681;entryY=1.022;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="8cq2YMd5qG5OHkKQ4OR4-60" target="8cq2YMd5qG5OHkKQ4OR4-59">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3427.000000000002" y="1819.7000000000003" as="sourcePoint" />
+            <mxPoint x="3426.7200000000003" y="1771.3199999999997" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8cq2YMd5qG5OHkKQ4OR4-66" value="" style="endArrow=classic;html=1;exitX=0.4;exitY=-0.022;exitDx=0;exitDy=0;entryX=0.361;entryY=1.003;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" target="ZkadXEe9M6uM8Bh_UyCY-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3440.000000000001" y="1589.9999999999998" as="sourcePoint" />
+            <mxPoint x="3443.000000000001" y="1550.3" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8cq2YMd5qG5OHkKQ4OR4-67" value="I have weak confidence in my ability to stick to the plan" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;verticalAlign=middle;strokeColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="2680" y="669.41" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
