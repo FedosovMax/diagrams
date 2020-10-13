@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-13T09:04:14.107Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="cTJ13fJX_hnXBcFhsoRG" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-13T09:09:58.590Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="mAB_r2YbUstaIGQW8adK" version="13.7.9" type="github">
   <diagram id="UbLcB4NzKO1tIRgpXMXI" name="Page-1">
-    <mxGraphModel dx="8140" dy="3747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4822" dy="1894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -203,7 +203,7 @@
           <mxGeometry x="950" y="130" width="490" height="230" as="geometry" />
         </mxCell>
         <mxCell id="_RnZaY9VlX56kErWkotC-41" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="910" y="100" width="10" height="910" as="geometry" />
+          <mxGeometry x="910" y="100" width="10" height="290" as="geometry" />
         </mxCell>
         <mxCell id="_RnZaY9VlX56kErWkotC-42" value="&lt;font color=&quot;#000000&quot;&gt;Работа над отношениями это то, что делает наши отношения лучше. &lt;br&gt;&lt;br&gt;Она должна быть постоянной и организованной. &lt;br&gt;&lt;br&gt;Мы&lt;br&gt; доджны быть одной командой чтобы строить отношения. У команды должна &lt;br&gt;быть общая цель и общее виденье, мы должны иметь общие цели и двигаться к&lt;br&gt; ним. &lt;br&gt;&lt;br&gt;Чтобы эффективно двигаться к цели мы должны друг-друга &lt;br&gt;понимать, поддерживать, делиться опытом, разделять обязательства и &lt;br&gt;делать каждый свою часть как можно лучше. &lt;br&gt;&lt;br&gt;Умение активно &lt;br&gt;слушать, конструктивно спорить, решать проблемы, решать конфликты, &lt;br&gt;строить доверительные отношения, уметь достигать решений &lt;br&gt;выиграл-выиграл, синергии в отношениях, планировать общее будущее. По &lt;br&gt;сути это софт-скиллы, нужно над ними работать.&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#67AB9F;" parent="1" vertex="1">
           <mxGeometry x="-840" y="510" width="470" height="260" as="geometry" />
@@ -1404,6 +1404,57 @@
         </mxCell>
         <mxCell id="npd6ka1OuBiYHZtQRwv0-23" value="I don&#39;t skip low priority things to work on high priority things" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF6666;" vertex="1" parent="1">
           <mxGeometry x="4120" y="1455" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="npd6ka1OuBiYHZtQRwv0-24" value="I always add things to my plans" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="4260" y="1455" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="npd6ka1OuBiYHZtQRwv0-25" value="I hardly ever remove something or postpone from my goals and plans" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="4400" y="1455" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="npd6ka1OuBiYHZtQRwv0-26" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="905" y="584.41" width="10" height="545.59" as="geometry" />
+        </mxCell>
+        <mxCell id="npd6ka1OuBiYHZtQRwv0-27" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="905" y="584.4100000000001" width="770" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="npd6ka1OuBiYHZtQRwv0-28" value="&lt;font style=&quot;font-size: 33px&quot; color=&quot;#b5739d&quot;&gt;PRIORITIES&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="524.4100000000001" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="npd6ka1OuBiYHZtQRwv0-29" value="English" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="npd6ka1OuBiYHZtQRwv0-30" value="Patterns Course" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="1165" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="npd6ka1OuBiYHZtQRwv0-31" value="Running" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="961" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="npd6ka1OuBiYHZtQRwv0-32" value="Relationships" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="npd6ka1OuBiYHZtQRwv0-33" value="Hobbies" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="1015" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="npd6ka1OuBiYHZtQRwv0-34" value="Self-improvement&lt;br&gt;Burhaev" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="npd6ka1OuBiYHZtQRwv0-35" value="Work improvement" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="1165" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="npd6ka1OuBiYHZtQRwv0-36" value="Soft-skills" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="npd6ka1OuBiYHZtQRwv0-37" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1000" y="860" as="sourcePoint" />
+            <mxPoint x="1680" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="npd6ka1OuBiYHZtQRwv0-38" value="&lt;font color=&quot;#97d077&quot; style=&quot;font-size: 25px&quot;&gt;ACTIVE&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="905" y="750" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="npd6ka1OuBiYHZtQRwv0-39" value="&lt;font style=&quot;font-size: 25px&quot; color=&quot;#ea6b66&quot;&gt;PASSIVE&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="900" y="981" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
