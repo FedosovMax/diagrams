@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-15T10:52:35.367Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="PzUkI8VmySqayl3BCqS3" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-15T10:59:48.084Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="H2CpHQeV0CO0SmwH33uv" version="13.8.0" type="github">
   <diagram id="UbLcB4NzKO1tIRgpXMXI" name="Page-1">
     <mxGraphModel dx="6955" dy="3085" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1533,6 +1533,51 @@
         </mxCell>
         <mxCell id="m7zqlv9JQfqwG9oIujCe-2" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;1. Wear closes and go out&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;2. Warm up somewhere near&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;3. Light jogging to the place for exercises&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;4. Do exercises&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;5. Run additionally home&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;6. Do yoga at home + legs stretching.&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=17;fontColor=#67AB9F;" vertex="1" parent="1">
           <mxGeometry x="240" y="2530" width="320" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="m7zqlv9JQfqwG9oIujCe-3" value="We don&#39;t see benefits in refactoring" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="3890" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m7zqlv9JQfqwG9oIujCe-4" value="" style="endArrow=classic;html=1;exitX=0.583;exitY=-0.017;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.592;entryY=1.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="m7zqlv9JQfqwG9oIujCe-3" target="npd6ka1OuBiYHZtQRwv0-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3960" y="933.9800000000001" as="sourcePoint" />
+            <mxPoint x="3963.2800000000007" y="880.6" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7zqlv9JQfqwG9oIujCe-5" value="I need to work more&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="4180" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m7zqlv9JQfqwG9oIujCe-6" value="I think that I can do more" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;" vertex="1" parent="1">
+          <mxGeometry x="4530" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m7zqlv9JQfqwG9oIujCe-7" value="I want to get more experience" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;" vertex="1" parent="1">
+          <mxGeometry x="4370" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m7zqlv9JQfqwG9oIujCe-8" value="I don&#39;t have much programming experience" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;" vertex="1" parent="1">
+          <mxGeometry x="4615" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m7zqlv9JQfqwG9oIujCe-9" value="" style="endArrow=classic;html=1;exitX=0.417;exitY=0.033;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="Hz88uCx44lFG6S9V91Fr-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4656.079999999998" y="820" as="sourcePoint" />
+            <mxPoint x="4380" y="743.48" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7zqlv9JQfqwG9oIujCe-10" value="" style="endArrow=classic;html=1;exitX=0.357;exitY=-0.018;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.843;entryY=1.071;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="m7zqlv9JQfqwG9oIujCe-7" target="m7zqlv9JQfqwG9oIujCe-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4826.079999999998" y="820" as="sourcePoint" />
+            <mxPoint x="4550" y="743.48" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7zqlv9JQfqwG9oIujCe-11" value="" style="endArrow=classic;html=1;exitX=0.357;exitY=-0.018;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.921;entryY=1.031;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="m7zqlv9JQfqwG9oIujCe-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4581.68" y="679.07" as="sourcePoint" />
+            <mxPoint x="4450" y="594.4100000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7zqlv9JQfqwG9oIujCe-12" value="" style="endArrow=classic;html=1;exitX=0.567;exitY=0.017;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.441;entryY=0.992;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="m7zqlv9JQfqwG9oIujCe-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4240.540000000001" y="680" as="sourcePoint" />
+            <mxPoint x="4240" y="600" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
