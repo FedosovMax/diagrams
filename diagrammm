@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-16T07:47:04.163Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="0z3aGg6KoKweBCF33FVh" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-16T07:47:22.260Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="Lonp8OPyX_LrobzgoE71" version="13.8.0" type="github">
   <diagram id="UbLcB4NzKO1tIRgpXMXI" name="Page-1">
-    <mxGraphModel dx="4381" dy="1648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="6244" dy="2688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1580,7 +1580,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="m7zqlv9JQfqwG9oIujCe-13" value="&lt;span style=&quot;font-size: 33px&quot;&gt;Course&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#7EA6E0;" vertex="1" parent="1">
-          <mxGeometry x="200" y="1317.21" width="120" height="30" as="geometry" />
+          <mxGeometry x="280" y="1317.21" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m7zqlv9JQfqwG9oIujCe-14" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="1">
           <mxGeometry x="-25" y="1377.21" width="770" height="10" as="geometry" />
@@ -1615,7 +1615,7 @@
         <mxCell id="m7zqlv9JQfqwG9oIujCe-39" value="110 / 22 = 5 weeks" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="1540" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="m7zqlv9JQfqwG9oIujCe-40" value="&lt;b&gt;Quite hardcore 5 weeks but it&#39;s most productive for studying patterns I suppose and to learn how to create video&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="m7zqlv9JQfqwG9oIujCe-40" value="&lt;b&gt;Quite &lt;font color=&quot;#ff6666&quot;&gt;hardcore &lt;/font&gt;5 weeks but it&#39;s most productive for studying patterns I suppose and to learn how to create video&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="1561.69" width="660" height="20" as="geometry" />
         </mxCell>
         <mxCell id="m7zqlv9JQfqwG9oIujCe-41" value="27.11" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
