@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-26T10:55:59.463Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="fKubOMu-2pS3lNzJMTlf" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-28T15:12:06.282Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="P13GVJgj1GN2lQDYPXaP" version="13.10.3" type="github">
   <diagram id="UbLcB4NzKO1tIRgpXMXI" name="Page-1">
-    <mxGraphModel dx="4213" dy="1535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5431" dy="2189" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2043,50 +2043,83 @@
         <mxCell id="_0hJ5tbWPzG8FBNlFMwP-29" value="&lt;font style=&quot;font-size: 33px&quot; color=&quot;#FF9933&quot;&gt;Crucial conversations&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="4070" y="3120" width="330" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2C8Qax135fPWXaSDu29u-1" value="&lt;font style=&quot;font-size: 33px&quot; color=&quot;#7ea6e0&quot;&gt;Strong points&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#B5739D;" vertex="1" parent="1">
+        <mxCell id="2C8Qax135fPWXaSDu29u-1" value="&lt;font style=&quot;font-size: 33px&quot; color=&quot;#7ea6e0&quot;&gt;Strong points&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#B5739D;" parent="1" vertex="1">
           <mxGeometry x="-1090" y="2900" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2C8Qax135fPWXaSDu29u-2" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;direction=south;" vertex="1" parent="1">
+        <mxCell id="2C8Qax135fPWXaSDu29u-2" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;direction=south;" parent="1" vertex="1">
           <mxGeometry x="-1920" y="2950" width="1290" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="2C8Qax135fPWXaSDu29u-3" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="2C8Qax135fPWXaSDu29u-3" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-640" y="2950" width="10" height="640" as="geometry" />
         </mxCell>
-        <mxCell id="2C8Qax135fPWXaSDu29u-4" value="How to use my strong points for the working tasks" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="2C8Qax135fPWXaSDu29u-4" value="How to use my strong points for the working tasks" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="-1190" y="3030" width="280" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="2C8Qax135fPWXaSDu29u-5" value="- Find a problem in the code when it&#39;s quite deep and complicated bug&lt;br&gt;- Do something big and scarry like the refactoring of the provisioning service. &lt;br&gt;- Reprodusing something when it includes many variables like devices and so on&lt;br&gt;- Do an investigation to find possible solutions when I don&#39;t know any of it" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="2C8Qax135fPWXaSDu29u-5" value="- Find a problem in the code when it&#39;s quite deep and complicated bug&lt;br&gt;- Do something big and scarry like the refactoring of the provisioning service. &lt;br&gt;- Reprodusing something when it includes many variables like devices and so on&lt;br&gt;- Do an investigation to find possible solutions when I don&#39;t know any of it" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="-1220" y="3080" width="440" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2C8Qax135fPWXaSDu29u-6" value="Ideation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="2C8Qax135fPWXaSDu29u-6" value="Ideation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-1330" y="3180" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2C8Qax135fPWXaSDu29u-7" value="Restorative" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="2C8Qax135fPWXaSDu29u-7" value="Restorative" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="-1330" y="3240" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2C8Qax135fPWXaSDu29u-8" value="Individualization" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="2C8Qax135fPWXaSDu29u-8" value="Individualization" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-1330" y="3310" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2C8Qax135fPWXaSDu29u-9" value="Learner" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="2C8Qax135fPWXaSDu29u-9" value="Learner" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-1330" y="3370" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2C8Qax135fPWXaSDu29u-10" value="Futuristic" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="2C8Qax135fPWXaSDu29u-10" value="Futuristic" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-1330" y="3440" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2C8Qax135fPWXaSDu29u-11" value="- Make a list of ideas how to make it in the most efficient way. During every stage of work&amp;nbsp;&lt;br&gt;look for an idea how to do it better.&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="2C8Qax135fPWXaSDu29u-11" value="- Make a list of ideas how to make it in the most efficient way. During every stage of work&amp;nbsp;&lt;br&gt;look for an idea how to do it better.&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="-1220" y="3185" width="490" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2C8Qax135fPWXaSDu29u-12" value="- Treat a bug like a problem that should be solved. Find the cause of the issue, it should be like &lt;br&gt;a process of searching and discovery of the way in which it&#39;s broken. Then find a solution.&amp;nbsp;&lt;br&gt;It looks like the perfectly match for this type of work.&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="2C8Qax135fPWXaSDu29u-12" value="- Treat a bug like a problem that should be solved. Find the cause of the issue, it should be like &lt;br&gt;a process of searching and discovery of the way in which it&#39;s broken. Then find a solution.&amp;nbsp;&lt;br&gt;It looks like the perfectly match for this type of work.&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="-1220" y="3230" width="520" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="2C8Qax135fPWXaSDu29u-13" value="- Think about who and how can help me to finish this task. And what is the best way to ask them&lt;br&gt;about it.&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="2C8Qax135fPWXaSDu29u-13" value="- Think about who and how can help me to finish this task. And what is the best way to ask them&lt;br&gt;about it.&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="-1220" y="3315" width="520" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2C8Qax135fPWXaSDu29u-14" value="- Make a list of things that I can learn from the task and during the process look at the result of it.&lt;br&gt;And also it&#39;s a good point to learn how to use my strong points and organize my work properly during&lt;br&gt;the work on the bug.&amp;nbsp;&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="2C8Qax135fPWXaSDu29u-14" value="- Make a list of things that I can learn from the task and during the process look at the result of it.&lt;br&gt;And also it&#39;s a good point to learn how to use my strong points and organize my work properly during&lt;br&gt;the work on the bug.&amp;nbsp;&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="-1220" y="3365" width="550" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="2C8Qax135fPWXaSDu29u-15" value="- Think about the result of the bug during the work on it. Make a vision first and then change it and improve&lt;br&gt;as much times as you need.&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="2C8Qax135fPWXaSDu29u-15" value="- Think about the result of the bug during the work on it. Make a vision first and then change it and improve&lt;br&gt;as much times as you need.&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="-1220" y="3445" width="580" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="09ddhn89egCGEEQ0n49u-1" value="Ideation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-2120" y="3170" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="09ddhn89egCGEEQ0n49u-2" value="Restorative" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-2120" y="3255" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="09ddhn89egCGEEQ0n49u-3" value="Individualization" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-2120" y="3440" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="09ddhn89egCGEEQ0n49u-4" value="Learner" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-2120" y="3525" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="09ddhn89egCGEEQ0n49u-5" value="Futuristic" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-2120" y="3620" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="09ddhn89egCGEEQ0n49u-6" value="- What if I make a challenge to work without distractions on the course and put a time-limit there.&amp;nbsp;&lt;br&gt;I suppose that it can become a good practice for my focus and I really need it.&amp;nbsp;&lt;br&gt;- How about thinking not about finishing it faster but about how to do it better, how to deliver idea&amp;nbsp;&lt;br&gt;in the best way? I think that it can help to get some energy from it. So the question for each lesson&amp;nbsp;&lt;br&gt;is: What is the idea of this pattern?&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-2010" y="3160" width="540" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="09ddhn89egCGEEQ0n49u-7" value="- Currently, I&#39;m not working on the topic because I&#39;m waiting for the response from another person.&amp;nbsp;&lt;br&gt;I think that it&#39;s pointless to work on something if I don&#39;t know rules of it. And I don&#39;t want to redo all&lt;br&gt;and while redoing quality becomes worse. How can I fix it?&amp;nbsp;&lt;br&gt;I have a basic understanding and materials. I have my courses, presentation course and code course.&amp;nbsp;&lt;br&gt;Also I have simple explanation course to help me explain everything properly.&amp;nbsp;&lt;br&gt;And I have two books, one is the original in C++ language, and another one is Java.&amp;nbsp;&lt;br&gt;I think that it&#39;s enough for me to work on the course. I just need to cover all topic in the video and find&lt;br&gt;something to tell in about 20 minutes. It&#39;s not a big of a challenge.&amp;nbsp;&lt;br&gt;So I need to create a plan to prepare a lesson and then divide it to some parts and figure out how to&lt;br&gt;organize my work properly so I can cover 1 lesson in 1 or 2 days.&amp;nbsp;&lt;br&gt;If I need to change something, I think that it will be not much work there and I will learn something from&amp;nbsp;&lt;br&gt;that.&amp;nbsp; So, it&#39;s even appreciated.&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-2010" y="3250" width="560" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="09ddhn89egCGEEQ0n49u-8" value="- I need to understand people that I&#39;m working with. At least, person who checks my lessons isn&#39;t&amp;nbsp;&lt;br&gt;arrogant idiot and incompetent bastard but quite tolerant person who knows in average about patterns&lt;br&gt;and ready to accept everything that looks decent enough. But I shouldn&#39;t make his life complicated and&lt;br&gt;cause him problems. And the problem is to those 20 minutes which I can&#39;t find there. I should find them,&amp;nbsp;&lt;br&gt;even if I repeat the same things over and over again. That&#39;s ok.&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-2010" y="3420" width="570" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="09ddhn89egCGEEQ0n49u-9" value="- All this process should be about learning. There are a lot of things that I can learn here:&amp;nbsp;&lt;br&gt;What those patterns mean, where to use them, how to use them, what cons and pros there, how to&amp;nbsp;&lt;br&gt;prepare a course, how to shoot and process a course. More or less, I&#39;m learning all about classical patterns&lt;br&gt;deeply and how to shoot a video briefly. I suppose, if I try to do it as good as it&#39;s possible, I&#39;ll learn how to&amp;nbsp;&lt;br&gt;do it well and next time I create it by myself as a part of my business. And really director of Foxminded said&amp;nbsp;&lt;br&gt;that it&#39;s easy to be a mentor but difficult to create a content like videos. I know it now.&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-2010" y="3515" width="590" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="09ddhn89egCGEEQ0n49u-10" value="Work on adapters" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-1995" y="3140" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="09ddhn89egCGEEQ0n49u-11" value="- I should imagine what will be my understanding of patterns and how I&#39;ll use them, maybe it&#39;ll be an interview,&amp;nbsp;&lt;br&gt;maybe a real project, maybe some presentation. But I should understand that I feel great there and this picture&lt;br&gt;should be clear and gorgeous.&amp;nbsp;&lt;br&gt;Also I should imagine the next course about something, what it&#39;ll be, how it&#39;ll be prepared and shoot, how it&#39;ll&amp;nbsp;&lt;br&gt;be processed. I should feel myself proud about it and understand every important detail of it from general&amp;nbsp;&lt;br&gt;understanding to the font in the presentation. Topic I should choose by myself." style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-2010" y="3609" width="600" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
