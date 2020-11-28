@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-28T15:12:06.282Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="P13GVJgj1GN2lQDYPXaP" version="13.10.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-28T15:21:01.417Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="WJTkrn64XWwVHh9lHfq0" version="13.10.3" type="github">
   <diagram id="UbLcB4NzKO1tIRgpXMXI" name="Page-1">
-    <mxGraphModel dx="5431" dy="2189" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4359" dy="1626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2049,8 +2049,8 @@
         <mxCell id="2C8Qax135fPWXaSDu29u-2" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;direction=south;" parent="1" vertex="1">
           <mxGeometry x="-1920" y="2950" width="1290" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="2C8Qax135fPWXaSDu29u-3" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-640" y="2950" width="10" height="640" as="geometry" />
+        <mxCell id="2C8Qax135fPWXaSDu29u-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#7EA6E0;" parent="1" vertex="1">
+          <mxGeometry x="-1380" y="3133" width="10" height="640" as="geometry" />
         </mxCell>
         <mxCell id="2C8Qax135fPWXaSDu29u-4" value="How to use my strong points for the working tasks" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="-1190" y="3030" width="280" height="20" as="geometry" />
@@ -2120,6 +2120,45 @@
         </mxCell>
         <mxCell id="09ddhn89egCGEEQ0n49u-11" value="- I should imagine what will be my understanding of patterns and how I&#39;ll use them, maybe it&#39;ll be an interview,&amp;nbsp;&lt;br&gt;maybe a real project, maybe some presentation. But I should understand that I feel great there and this picture&lt;br&gt;should be clear and gorgeous.&amp;nbsp;&lt;br&gt;Also I should imagine the next course about something, what it&#39;ll be, how it&#39;ll be prepared and shoot, how it&#39;ll&amp;nbsp;&lt;br&gt;be processed. I should feel myself proud about it and understand every important detail of it from general&amp;nbsp;&lt;br&gt;understanding to the font in the presentation. Topic I should choose by myself." style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="-2010" y="3609" width="600" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="09ddhn89egCGEEQ0n49u-12" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-630" y="2960" width="10" height="640" as="geometry" />
+        </mxCell>
+        <mxCell id="09ddhn89egCGEEQ0n49u-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#7EA6E0;" vertex="1" parent="1">
+          <mxGeometry x="-2190.75" y="3150" width="10" height="640" as="geometry" />
+        </mxCell>
+        <mxCell id="09ddhn89egCGEEQ0n49u-14" value="Ideation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-2930.75" y="3187" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="09ddhn89egCGEEQ0n49u-15" value="Restorative" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-2930.75" y="3272" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="09ddhn89egCGEEQ0n49u-16" value="Individualization" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-2930.75" y="3457" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="09ddhn89egCGEEQ0n49u-17" value="Learner" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-2930.75" y="3542" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="09ddhn89egCGEEQ0n49u-18" value="Futuristic" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-2930.75" y="3637" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="09ddhn89egCGEEQ0n49u-19" value="-&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-2820.75" y="3207" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="09ddhn89egCGEEQ0n49u-20" value="- Currently, I&#39;m not using my strong points properly in my life. It&#39;s like I have a good tool and I use it often&lt;br&gt;but in most situations I don&#39;t use it because I don&#39;t know how to do it. I want to learn how to use them in&amp;nbsp;&lt;br&gt;most of my life situations thou. And I&#39;m working on it, but still I need a plan and recourses for this.&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-2820.75" y="3270" width="570" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="09ddhn89egCGEEQ0n49u-21" value="- I need to understand people that I&#39;m working with. At least, person who checks my lessons isn&#39;t&amp;nbsp;&lt;br&gt;arrogant idiot and incompetent bastard but quite tolerant person who knows in average about patterns&lt;br&gt;and ready to accept everything that looks decent enough. But I shouldn&#39;t make his life complicated and&lt;br&gt;cause him problems. And the problem is to those 20 minutes which I can&#39;t find there. I should find them,&amp;nbsp;&lt;br&gt;even if I repeat the same things over and over again. That&#39;s ok.&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-2820.75" y="3437" width="570" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="09ddhn89egCGEEQ0n49u-22" value="- All this process should be about learning. There are a lot of things that I can learn here:&amp;nbsp;&lt;br&gt;What those patterns mean, where to use them, how to use them, what cons and pros there, how to&amp;nbsp;&lt;br&gt;prepare a course, how to shoot and process a course. More or less, I&#39;m learning all about classical patterns&lt;br&gt;deeply and how to shoot a video briefly. I suppose, if I try to do it as good as it&#39;s possible, I&#39;ll learn how to&amp;nbsp;&lt;br&gt;do it well and next time I create it by myself as a part of my business. And really director of Foxminded said&amp;nbsp;&lt;br&gt;that it&#39;s easy to be a mentor but difficult to create a content like videos. I know it now.&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-2820.75" y="3532" width="590" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="09ddhn89egCGEEQ0n49u-23" value="Strong points" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-2795.75" y="3157" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="09ddhn89egCGEEQ0n49u-24" value="- I should imagine what will be my understanding of patterns and how I&#39;ll use them, maybe it&#39;ll be an interview,&amp;nbsp;&lt;br&gt;maybe a real project, maybe some presentation. But I should understand that I feel great there and this picture&lt;br&gt;should be clear and gorgeous.&amp;nbsp;&lt;br&gt;Also I should imagine the next course about something, what it&#39;ll be, how it&#39;ll be prepared and shoot, how it&#39;ll&amp;nbsp;&lt;br&gt;be processed. I should feel myself proud about it and understand every important detail of it from general&amp;nbsp;&lt;br&gt;understanding to the font in the presentation. Topic I should choose by myself." style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-2820.75" y="3626" width="600" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
