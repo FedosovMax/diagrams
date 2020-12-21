@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-21T17:55:29.780Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="8xVe05b70qU_TnQdgvFG" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-21T18:03:12.242Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="PVI7tfQ5H62y4zW5xazo" version="14.1.1" type="github">
   <diagram id="WUpxlR8k2EQ9UZFX5srS" name="Page-1">
-    <mxGraphModel dx="3220" dy="2370" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2523" dy="1996" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="1510" y="-340" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="hsKuTv7uM1HQG2t65gZN-2" value="the actual sphere isn&#39;t particularly interesting to me" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
-          <mxGeometry x="420" y="-160" width="210" height="70" as="geometry" />
+          <mxGeometry x="390" y="-160" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="hsKuTv7uM1HQG2t65gZN-3" value="I&#39;m loosing interest fast while working on the difficult tasks" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="305" y="-430" width="210" height="70" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry x="-40" y="-160" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="hsKuTv7uM1HQG2t65gZN-7" value="the idea of the project isn&#39;t interesting for me. " style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
-          <mxGeometry x="530" y="-240" width="210" height="70" as="geometry" />
+          <mxGeometry x="300" y="-240" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="hsKuTv7uM1HQG2t65gZN-9" value="I&#39;m not sure if they will pay me even 3000 in spring" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="300" y="-810" width="210" height="70" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry x="730" y="880" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="hsKuTv7uM1HQG2t65gZN-12" value="I&#39;m not sure I can use knowledge about this sphere in the future" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
-          <mxGeometry x="300" y="-240" width="210" height="70" as="geometry" />
+          <mxGeometry x="490" y="-80" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="hsKuTv7uM1HQG2t65gZN-13" value="I don&#39;t have plans for my project where experience from this project will be useful for my future projects " style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="70" y="-240" width="210" height="70" as="geometry" />
@@ -114,6 +114,18 @@
         </mxCell>
         <mxCell id="O8VqAymTgSMGC3aaRRMs-19" value=" Work in another project can be more beneficial for my career and future" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="780" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="O8VqAymTgSMGC3aaRRMs-20" value="Project wasn&#39;t well chosen&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="640" y="60" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="O8VqAymTgSMGC3aaRRMs-22" value="Company isn&#39;t prepared to raise people" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="60" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="O8VqAymTgSMGC3aaRRMs-23" value=" I don&#39;t have enough working experience" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="850" y="-250" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="O8VqAymTgSMGC3aaRRMs-24" value=" I didn&#39;t learn project by myself" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="-250" width="210" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
