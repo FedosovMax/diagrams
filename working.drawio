@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-21T18:10:32.724Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="eEitg0PAIPEMyYmquDZx" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-21T18:14:21.785Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="bFHWRgpjjSpS4yWWKpz1" version="14.1.1" type="github">
   <diagram id="WUpxlR8k2EQ9UZFX5srS" name="Page-1">
-    <mxGraphModel dx="2523" dy="1996" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2881" dy="2189" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -60,6 +60,19 @@
         </mxCell>
         <mxCell id="hsKuTv7uM1HQG2t65gZN-20" value=" I don&#39;t have the skills to do some tasks " style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="740" y="-340" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="O8VqAymTgSMGC3aaRRMs-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1.001;exitY=0.586;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="hsKuTv7uM1HQG2t65gZN-4" target="O8VqAymTgSMGC3aaRRMs-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="405" y="-479" />
+              <mxPoint x="405" y="-530" />
+              <mxPoint x="850" y="-530" />
+              <mxPoint x="850" y="-620" />
+              <mxPoint x="2370" y="-620" />
+              <mxPoint x="2370" y="150" />
+              <mxPoint x="1985" y="150" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="hsKuTv7uM1HQG2t65gZN-21" value="I don&#39;t write any code here " style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="300" y="-610" width="210" height="70" as="geometry" />
@@ -124,8 +137,14 @@
         <mxCell id="O8VqAymTgSMGC3aaRRMs-23" value=" I don&#39;t have enough working experience" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" vertex="1" parent="1">
           <mxGeometry x="850" y="-250" width="210" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="O8VqAymTgSMGC3aaRRMs-24" value=" I didn&#39;t learn project by myself" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1640" y="-250" width="210" height="70" as="geometry" />
+        <mxCell id="O8VqAymTgSMGC3aaRRMs-24" value=" I didn&#39;t learn project by myself" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="-250" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="O8VqAymTgSMGC3aaRRMs-25" value="I&#39;m wasting to much of my working time" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="1880" y="60" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="O8VqAymTgSMGC3aaRRMs-26" value="I can work and learn a lot during my working time" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="2110" y="60" width="210" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
