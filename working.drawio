@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-21T18:14:21.785Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="bFHWRgpjjSpS4yWWKpz1" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-21T18:15:55.682Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="wBM3qsWgpPG6CjS-NM9f" version="14.1.1" type="github">
   <diagram id="WUpxlR8k2EQ9UZFX5srS" name="Page-1">
-    <mxGraphModel dx="2881" dy="2189" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5590" dy="3640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -32,7 +32,7 @@
           <mxGeometry x="-160" y="-240" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="hsKuTv7uM1HQG2t65gZN-11" value="What I&#39;m doing here&amp;nbsp;&amp;nbsp;&lt;br&gt;isn&#39;t significant from my view" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="730" y="880" width="210" height="70" as="geometry" />
+          <mxGeometry x="580" y="260" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="hsKuTv7uM1HQG2t65gZN-12" value="I&#39;m not sure I can use knowledge about this sphere in the future" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="490" y="-80" width="210" height="70" as="geometry" />
@@ -44,16 +44,16 @@
           <mxGeometry x="190" y="-340" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="hsKuTv7uM1HQG2t65gZN-15" value="I think that I can learn more in another project " style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="500" y="880" width="210" height="70" as="geometry" />
+          <mxGeometry x="350" y="260" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="hsKuTv7uM1HQG2t65gZN-16" value="I think I can earn 3500 in another project" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="370" y="680" width="210" height="70" as="geometry" />
+          <mxGeometry x="220" y="60" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="hsKuTv7uM1HQG2t65gZN-17" value="The topic of another project can be more interesting to me." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="270" y="880" width="210" height="70" as="geometry" />
+          <mxGeometry x="120" y="260" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="hsKuTv7uM1HQG2t65gZN-18" value="technologies in another project can be more advanced" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="880" width="210" height="70" as="geometry" />
+          <mxGeometry x="-110" y="260" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="hsKuTv7uM1HQG2t65gZN-19" value="I don&#39;t have confidence in solving tasks in the project as well as solving bugs  " style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="850" y="-430" width="210" height="70" as="geometry" />
@@ -126,7 +126,7 @@
           <mxGeometry x="530" y="-910" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="O8VqAymTgSMGC3aaRRMs-19" value=" Work in another project can be more beneficial for my career and future" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="780" width="210" height="70" as="geometry" />
+          <mxGeometry x="220" y="160" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="O8VqAymTgSMGC3aaRRMs-20" value="Project wasn&#39;t well chosen&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=#FF6666;" vertex="1" parent="1">
           <mxGeometry x="640" y="60" width="210" height="70" as="geometry" />
