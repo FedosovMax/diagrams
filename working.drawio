@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-22T17:03:36.542Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="VO0BMn6MZdTDtuMohSlE" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-22T17:09:26.486Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="V8RC2vDvYufOzA7hP-gt" version="14.1.1" type="github">
   <diagram id="WUpxlR8k2EQ9UZFX5srS" name="Page-1">
     <mxGraphModel dx="2523" dy="1996" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -213,6 +213,30 @@
         </mxCell>
         <mxCell id="HTZsyqOTiVEYKU-8HGOa-16" value="I&#39;m not motivated to work on the project" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=#FF6666;" vertex="1" parent="1">
           <mxGeometry x="1880" y="170" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HTZsyqOTiVEYKU-8HGOa-18" value="" style="endArrow=classic;html=1;dashed=1;strokeColor=#FF6666;exitX=0.154;exitY=-0.044;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.602;entryY=1.04;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="O8VqAymTgSMGC3aaRRMs-20" target="HTZsyqOTiVEYKU-8HGOa-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="130" as="sourcePoint" />
+            <mxPoint x="410" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HTZsyqOTiVEYKU-8HGOa-19" value="Old projects are often not using new technologies and best practices" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7EA6E0;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="40" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HTZsyqOTiVEYKU-8HGOa-21" value="" style="endArrow=classic;html=1;dashed=1;strokeColor=#FF6666;exitX=0.299;exitY=0.007;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="O8VqAymTgSMGC3aaRRMs-20" target="HTZsyqOTiVEYKU-8HGOa-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="382.3399999999997" y="166.92000000000007" as="sourcePoint" />
+            <mxPoint x="-23.579999999999927" y="12.800000000000182" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HTZsyqOTiVEYKU-8HGOa-22" value="Old code should be updated and refactored" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7EA6E0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="20" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HTZsyqOTiVEYKU-8HGOa-23" value="" style="endArrow=classic;html=1;dashed=1;strokeColor=#FF6666;entryX=0.168;entryY=1.057;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="O8VqAymTgSMGC3aaRRMs-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="160" as="sourcePoint" />
+            <mxPoint x="184.99999999999955" y="10" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
