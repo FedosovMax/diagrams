@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-22T17:38:28.920Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="0Ly74Pd-YBLzNSzCmRVH" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-22T17:47:34.028Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="qervWr4rTab3Hh5vWpfP" version="14.1.1" type="github">
   <diagram id="WUpxlR8k2EQ9UZFX5srS" name="Page-1">
-    <mxGraphModel dx="3373" dy="1996" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5590" dy="3640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -41,9 +41,6 @@
         <mxCell id="hsKuTv7uM1HQG2t65gZN-10" value="I&#39;m not sure I&#39;m getting the right experience" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="-160" y="-240" width="210" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="hsKuTv7uM1HQG2t65gZN-11" value="What I&#39;m doing here&amp;nbsp;&amp;nbsp;&lt;br&gt;isn&#39;t significant from my view" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="580" y="510" width="210" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="hsKuTv7uM1HQG2t65gZN-12" value="I&#39;m not sure I can use knowledge about this sphere in the future" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="490" y="-80" width="210" height="70" as="geometry" />
         </mxCell>
@@ -55,18 +52,6 @@
         </mxCell>
         <mxCell id="hsKuTv7uM1HQG2t65gZN-14" value=" I&#39;m not sure that working on this project is a worthy investment of time " style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="190" y="-340" width="210" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="hsKuTv7uM1HQG2t65gZN-15" value="I think that I can learn more in another project " style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="350" y="510" width="210" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="hsKuTv7uM1HQG2t65gZN-16" value="I think I can earn 3500 in another project" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="220" y="310" width="210" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="hsKuTv7uM1HQG2t65gZN-17" value="The topic of another project can be more interesting to me." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="510" width="210" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="hsKuTv7uM1HQG2t65gZN-18" value="technologies in another project can be more advanced" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-110" y="510" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="hsKuTv7uM1HQG2t65gZN-19" value="I don&#39;t have confidence in solving tasks in the project as well as solving bugs  " style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="850" y="-430" width="210" height="70" as="geometry" />
@@ -157,9 +142,6 @@
         <mxCell id="O8VqAymTgSMGC3aaRRMs-16" value=" I&#39;m not sure about continue working here after an assessment" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="380" y="-910" width="210" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="O8VqAymTgSMGC3aaRRMs-19" value=" Work in another project can be more beneficial for my career and future" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="220" y="410" width="210" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="O8VqAymTgSMGC3aaRRMs-20" value="Project wasn&#39;t well chosen&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="340" y="160" width="210" height="70" as="geometry" />
         </mxCell>
@@ -238,126 +220,153 @@
             <mxPoint x="184.99999999999955" y="10" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HTZsyqOTiVEYKU-8HGOa-24" value="Project has been chosen well" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=#7EA6E0;" vertex="1" parent="1">
-          <mxGeometry x="-870" y="290" width="210" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="HTZsyqOTiVEYKU-8HGOa-25" value="big companies have good training programs for raising people" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=#7EA6E0;" vertex="1" parent="1">
-          <mxGeometry x="-620" y="210" width="210" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="HTZsyqOTiVEYKU-8HGOa-26" value="small companies have better conditions, wages and less stress" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=#7EA6E0;" vertex="1" parent="1">
-          <mxGeometry x="-620" y="360" width="210" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="HTZsyqOTiVEYKU-8HGOa-27" value="Go to the big company" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=#7EA6E0;" vertex="1" parent="1">
-          <mxGeometry x="-370" y="210" width="210" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="HTZsyqOTiVEYKU-8HGOa-28" value="Go to small company" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=#7EA6E0;" vertex="1" parent="1">
-          <mxGeometry x="-370" y="360" width="210" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="HTZsyqOTiVEYKU-8HGOa-29" value="" style="endArrow=classic;startArrow=classic;html=1;dashed=1;strokeColor=#FF6666;entryX=0.542;entryY=1.023;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.542;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="HTZsyqOTiVEYKU-8HGOa-28" target="HTZsyqOTiVEYKU-8HGOa-27">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-280" y="350" as="sourcePoint" />
-            <mxPoint x="-230" y="300" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-240" y="320" />
-              <mxPoint x="-280" y="320" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="HTZsyqOTiVEYKU-8HGOa-30" value="Project has been chosen well" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=#97D077;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="1450" width="210" height="70" as="geometry" />
+          <mxGeometry x="630" y="1720" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HTZsyqOTiVEYKU-8HGOa-31" value="the project is new" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#97D077;" vertex="1" parent="1">
-          <mxGeometry x="890" y="1340" width="210" height="70" as="geometry" />
+          <mxGeometry x="390" y="1610" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HTZsyqOTiVEYKU-8HGOa-32" value="Company is going to invest in raising people" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=#97D077;" vertex="1" parent="1">
-          <mxGeometry x="1580" y="1340" width="210" height="70" as="geometry" />
+          <mxGeometry x="1080" y="1610" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HTZsyqOTiVEYKU-8HGOa-33" value="There are new advanced technologies in the project" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#97D077;" vertex="1" parent="1">
-          <mxGeometry x="770" y="1260" width="210" height="70" as="geometry" />
+          <mxGeometry x="270" y="1530" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HTZsyqOTiVEYKU-8HGOa-34" value="Code is well written" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#97D077;" vertex="1" parent="1">
-          <mxGeometry x="990" y="1260" width="210" height="70" as="geometry" />
+          <mxGeometry x="490" y="1530" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HTZsyqOTiVEYKU-8HGOa-35" value="It should be high demands to the specialist for such project" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" vertex="1" parent="1">
-          <mxGeometry x="550" y="1260" width="210" height="70" as="geometry" />
+          <mxGeometry x="50" y="1530" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HTZsyqOTiVEYKU-8HGOa-36" value="Teamlead is helping to grow" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=#97D077;" vertex="1" parent="1">
-          <mxGeometry x="1350" y="1250" width="210" height="70" as="geometry" />
+          <mxGeometry x="850" y="1520" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HTZsyqOTiVEYKU-8HGOa-37" value="There is official program to help specialists to grow" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=#97D077;" vertex="1" parent="1">
-          <mxGeometry x="1580" y="1250" width="210" height="70" as="geometry" />
+          <mxGeometry x="1080" y="1520" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HTZsyqOTiVEYKU-8HGOa-38" value="I&#39;m accountable" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=#97D077;" vertex="1" parent="1">
-          <mxGeometry x="1580" y="1160" width="210" height="70" as="geometry" />
+          <mxGeometry x="1080" y="1430" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HTZsyqOTiVEYKU-8HGOa-39" value="I&#39;m growing constantly" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=#97D077;" vertex="1" parent="1">
-          <mxGeometry x="1580" y="1070" width="210" height="70" as="geometry" />
+          <mxGeometry x="1080" y="1340" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HTZsyqOTiVEYKU-8HGOa-40" value="We have 1 on 1 meetings" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=#97D077;" vertex="1" parent="1">
-          <mxGeometry x="1810" y="1250" width="210" height="70" as="geometry" />
+          <mxGeometry x="1310" y="1520" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HTZsyqOTiVEYKU-8HGOa-41" value="I get useful feedbacks" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=#97D077;" vertex="1" parent="1">
-          <mxGeometry x="1350" y="1160" width="210" height="70" as="geometry" />
+          <mxGeometry x="850" y="1430" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HTZsyqOTiVEYKU-8HGOa-42" value="I get help in growing" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=#97D077;" vertex="1" parent="1">
-          <mxGeometry x="1810" y="1160" width="210" height="70" as="geometry" />
+          <mxGeometry x="1310" y="1430" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HTZsyqOTiVEYKU-8HGOa-43" value="I&#39;m interested" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=#97D077;" vertex="1" parent="1">
-          <mxGeometry x="1810" y="1070" width="210" height="70" as="geometry" />
+          <mxGeometry x="1310" y="1340" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HTZsyqOTiVEYKU-8HGOa-44" value="It&#39;ll be a lot of stress" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=#FF6666;" vertex="1" parent="1">
-          <mxGeometry x="2040" y="1110" width="210" height="70" as="geometry" />
+          <mxGeometry x="1540" y="1380" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HTZsyqOTiVEYKU-8HGOa-45" value="I&#39;m getting right experience" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#97D077;" vertex="1" parent="1">
-          <mxGeometry x="880" y="1170" width="210" height="70" as="geometry" />
+          <mxGeometry x="500" y="1360" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HTZsyqOTiVEYKU-8HGOa-46" value="I can use this experience in my project" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#97D077;" vertex="1" parent="1">
-          <mxGeometry x="660" y="1170" width="210" height="70" as="geometry" />
+          <mxGeometry x="380" y="1440" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HTZsyqOTiVEYKU-8HGOa-47" value="I&#39;m learning the project with interest" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=#97D077;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="1000" width="210" height="70" as="geometry" />
+          <mxGeometry x="700" y="1270" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HTZsyqOTiVEYKU-8HGOa-48" value="I have enough income from the main job" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=#97D077;" vertex="1" parent="1">
-          <mxGeometry x="2390" y="1340" width="210" height="70" as="geometry" />
+          <mxGeometry x="1890" y="1610" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HTZsyqOTiVEYKU-8HGOa-49" value="I work on my pet project at home" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=#97D077;" vertex="1" parent="1">
-          <mxGeometry x="2260" y="1250" width="210" height="70" as="geometry" />
+          <mxGeometry x="1760" y="1520" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HTZsyqOTiVEYKU-8HGOa-50" value="I&#39;m getting experience fast" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=#97D077;" vertex="1" parent="1">
-          <mxGeometry x="2380" y="1160" width="210" height="70" as="geometry" />
+          <mxGeometry x="1880" y="1430" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HTZsyqOTiVEYKU-8HGOa-51" value="I&#39;m using the same technologies that are in my main project" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="2490" y="1250" width="210" height="70" as="geometry" />
+          <mxGeometry x="1990" y="1520" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HTZsyqOTiVEYKU-8HGOa-52" value="I&#39;m getting better in doing tasks" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=#97D077;" vertex="1" parent="1">
-          <mxGeometry x="2380" y="1070" width="210" height="70" as="geometry" />
+          <mxGeometry x="1880" y="1340" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HTZsyqOTiVEYKU-8HGOa-53" value="I have confidence in solving tasks in the project as well as solving bugs  " style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#97D077;" vertex="1" parent="1">
-          <mxGeometry x="2270" y="980" width="210" height="70" as="geometry" />
+          <mxGeometry x="1770" y="1250" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HTZsyqOTiVEYKU-8HGOa-54" value="I&#39;m not afraid of difficult tasks&amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#97D077;" vertex="1" parent="1">
-          <mxGeometry x="2160" y="890" width="210" height="70" as="geometry" />
+          <mxGeometry x="1660" y="1160" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HTZsyqOTiVEYKU-8HGOa-55" value="I write quite a lot of code in the main project" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#97D077;" vertex="1" parent="1">
-          <mxGeometry x="1630" y="800" width="210" height="70" as="geometry" />
+          <mxGeometry x="1130" y="1070" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HTZsyqOTiVEYKU-8HGOa-56" value="It&#39;s interesting to solve difficult tasks&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=#97D077;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="910" width="210" height="70" as="geometry" />
+          <mxGeometry x="800" y="1180" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HTZsyqOTiVEYKU-8HGOa-57" value="I&#39;m useful for the project" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#97D077;" vertex="1" parent="1">
-          <mxGeometry x="1630" y="700" width="210" height="70" as="geometry" />
+          <mxGeometry x="1130" y="970" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HTZsyqOTiVEYKU-8HGOa-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;strokeColor=#FF6666;" edge="1" parent="1" source="HTZsyqOTiVEYKU-8HGOa-58" target="HTZsyqOTiVEYKU-8HGOa-48">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2750" y="635" />
-              <mxPoint x="2750" y="1430" />
-              <mxPoint x="2495" y="1430" />
+              <mxPoint x="2250" y="905" />
+              <mxPoint x="2250" y="1700" />
+              <mxPoint x="1995" y="1700" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="HTZsyqOTiVEYKU-8HGOa-58" value="I&#39;m sure if they will pay me even 5000 in a year or two" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#97D077;" vertex="1" parent="1">
-          <mxGeometry x="1630" y="600" width="210" height="70" as="geometry" />
+          <mxGeometry x="1130" y="870" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HTZsyqOTiVEYKU-8HGOa-60" value="Prepare as good as possible to be able to choose a project&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B5739D;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="1440" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HTZsyqOTiVEYKU-8HGOa-61" value="Project has been chosen well" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=#7EA6E0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="520" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HTZsyqOTiVEYKU-8HGOa-62" value="Looking for a good project requires good preparation and time" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=#7EA6E0;" vertex="1" parent="1">
+          <mxGeometry x="950" y="440" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HTZsyqOTiVEYKU-8HGOa-63" value="I know the project, people aren&#39;t bad, company is good, conditions are comfortable and I can do a lot of things at work" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=#7EA6E0;" vertex="1" parent="1">
+          <mxGeometry x="950" y="590" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HTZsyqOTiVEYKU-8HGOa-64" value="Start looking for a new project as soon as possible" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=#7EA6E0;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="440" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HTZsyqOTiVEYKU-8HGOa-65" value="Try to grow in the current company" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=#7EA6E0;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="590" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HTZsyqOTiVEYKU-8HGOa-66" value="" style="endArrow=classic;startArrow=classic;html=1;dashed=1;strokeColor=#FF6666;entryX=0.542;entryY=1.023;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.542;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="HTZsyqOTiVEYKU-8HGOa-65" target="HTZsyqOTiVEYKU-8HGOa-64" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1290" y="580" as="sourcePoint" />
+            <mxPoint x="1340" y="530" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1330" y="550" />
+              <mxPoint x="1290" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HTZsyqOTiVEYKU-8HGOa-67" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.17;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HTZsyqOTiVEYKU-8HGOa-61" target="HTZsyqOTiVEYKU-8HGOa-62">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="890" y="540" as="sourcePoint" />
+            <mxPoint x="940" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HTZsyqOTiVEYKU-8HGOa-68" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.87;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.571;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HTZsyqOTiVEYKU-8HGOa-61" target="HTZsyqOTiVEYKU-8HGOa-63">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="920" y="541.9000000000001" as="sourcePoint" />
+            <mxPoint x="960" y="485" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HTZsyqOTiVEYKU-8HGOa-69" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HTZsyqOTiVEYKU-8HGOa-62" target="HTZsyqOTiVEYKU-8HGOa-64">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="920" y="541.9000000000001" as="sourcePoint" />
+            <mxPoint x="960" y="485" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HTZsyqOTiVEYKU-8HGOa-70" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1160" y="624.66" as="sourcePoint" />
+            <mxPoint x="1200" y="624.66" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
