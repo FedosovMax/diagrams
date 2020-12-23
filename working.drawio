@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-22T17:49:22.981Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="13slXW9rNsJXPlkyu4R7" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-23T12:11:12.775Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="_YXOnPGPIKNTyO0LkQD6" version="14.1.1" type="github">
   <diagram id="WUpxlR8k2EQ9UZFX5srS" name="Page-1">
-    <mxGraphModel dx="1663" dy="1535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4405" dy="3005" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -42,7 +42,7 @@
           <mxGeometry x="-160" y="-240" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="hsKuTv7uM1HQG2t65gZN-12" value="I&#39;m not sure I can use knowledge about this sphere in the future" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
-          <mxGeometry x="490" y="-80" width="210" height="70" as="geometry" />
+          <mxGeometry x="510" y="-80" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="hsKuTv7uM1HQG2t65gZN-13" value="I don&#39;t have plans for my project where experience from this project will be useful for my future projects " style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="70" y="-240" width="210" height="70" as="geometry" />
@@ -313,60 +313,78 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HTZsyqOTiVEYKU-8HGOa-58" value="I&#39;m sure if they will pay me even 5000 in a year or two" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#97D077;" vertex="1" parent="1">
+        <mxCell id="HTZsyqOTiVEYKU-8HGOa-58" value="I&#39;m sure if they will pay me even 5000 per month in a year or two" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#97D077;" vertex="1" parent="1">
           <mxGeometry x="1130" y="870" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HTZsyqOTiVEYKU-8HGOa-60" value="Prepare as good as possible to be able to choose a project&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B5739D;" vertex="1" parent="1">
           <mxGeometry x="-180" y="1440" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HTZsyqOTiVEYKU-8HGOa-61" value="Project has been chosen well" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=#7EA6E0;" vertex="1" parent="1">
-          <mxGeometry x="700" y="520" width="210" height="70" as="geometry" />
+          <mxGeometry x="1300" y="510" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HTZsyqOTiVEYKU-8HGOa-62" value="Looking for a good project requires good preparation and time" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=#7EA6E0;" vertex="1" parent="1">
-          <mxGeometry x="950" y="440" width="210" height="70" as="geometry" />
+          <mxGeometry x="1550" y="430" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HTZsyqOTiVEYKU-8HGOa-63" value="I know the project, people aren&#39;t bad, company is good, conditions are comfortable and I can do a lot of things at work" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=#7EA6E0;" vertex="1" parent="1">
-          <mxGeometry x="950" y="590" width="210" height="70" as="geometry" />
+          <mxGeometry x="1550" y="580" width="210" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="HTZsyqOTiVEYKU-8HGOa-64" value="Start looking for a new project as soon as possible" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=#7EA6E0;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="440" width="210" height="70" as="geometry" />
+        <mxCell id="HTZsyqOTiVEYKU-8HGOa-64" value="Start preparing for looking for a new project as soon as possible" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=#7EA6E0;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="430" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HTZsyqOTiVEYKU-8HGOa-65" value="Try to grow in the current company" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=#7EA6E0;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="590" width="210" height="70" as="geometry" />
+          <mxGeometry x="1800" y="580" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HTZsyqOTiVEYKU-8HGOa-66" value="" style="endArrow=classic;startArrow=classic;html=1;dashed=1;strokeColor=#FF6666;entryX=0.542;entryY=1.023;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.542;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="HTZsyqOTiVEYKU-8HGOa-65" target="HTZsyqOTiVEYKU-8HGOa-64" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1290" y="580" as="sourcePoint" />
-            <mxPoint x="1340" y="530" as="targetPoint" />
+            <mxPoint x="1890" y="570" as="sourcePoint" />
+            <mxPoint x="1940" y="520" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1330" y="550" />
-              <mxPoint x="1290" y="550" />
+              <mxPoint x="1930" y="540" />
+              <mxPoint x="1890" y="540" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="HTZsyqOTiVEYKU-8HGOa-67" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.17;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HTZsyqOTiVEYKU-8HGOa-61" target="HTZsyqOTiVEYKU-8HGOa-62">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="890" y="540" as="sourcePoint" />
-            <mxPoint x="940" y="490" as="targetPoint" />
+            <mxPoint x="1490" y="530" as="sourcePoint" />
+            <mxPoint x="1540" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HTZsyqOTiVEYKU-8HGOa-68" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.87;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.571;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HTZsyqOTiVEYKU-8HGOa-61" target="HTZsyqOTiVEYKU-8HGOa-63">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="920" y="541.9000000000001" as="sourcePoint" />
-            <mxPoint x="960" y="485" as="targetPoint" />
+            <mxPoint x="1520" y="531.9000000000001" as="sourcePoint" />
+            <mxPoint x="1560" y="475" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HTZsyqOTiVEYKU-8HGOa-69" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HTZsyqOTiVEYKU-8HGOa-62" target="HTZsyqOTiVEYKU-8HGOa-64">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="920" y="541.9000000000001" as="sourcePoint" />
-            <mxPoint x="960" y="485" as="targetPoint" />
+            <mxPoint x="1520" y="531.9000000000001" as="sourcePoint" />
+            <mxPoint x="1560" y="475" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HTZsyqOTiVEYKU-8HGOa-70" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1160" y="624.66" as="sourcePoint" />
-            <mxPoint x="1200" y="624.66" as="targetPoint" />
+            <mxPoint x="1760" y="614.66" as="sourcePoint" />
+            <mxPoint x="1800" y="614.66" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="HTZsyqOTiVEYKU-8HGOa-71" value="Find where to use technologies of the project in my pet project or &lt;br&gt;another one. Ask for providing me with a mentor. Ask for an education &lt;br&gt;program and some growing plan in order to be able to get a good pay &lt;br&gt;rise. Try to encourage refactoring in the project starting from tests &lt;br&gt;fixing. Learn the project to deeps. Need to start talkin about pay rise as soon as possible to be sure that it&#39;s not in vain" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="660" width="210" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="HTZsyqOTiVEYKU-8HGOa-72" value="I don&#39;t have a good preparing program for this" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="380" y="1720" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HTZsyqOTiVEYKU-8HGOa-73" value="There are new technologies and microservices in my pet project with docker and so on" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="-80" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HTZsyqOTiVEYKU-8HGOa-74" value="I don&#39;t have requirements from the new project" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="220" y="300" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HTZsyqOTiVEYKU-8HGOa-75" value="I&#39;m not preparing to interviews during the year" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="450" y="400" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HTZsyqOTiVEYKU-8HGOa-76" value="I&#39;m looking the new job in a hurry because" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="450" y="300" width="210" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
