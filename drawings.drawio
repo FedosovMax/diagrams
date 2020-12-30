@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2020-12-26T16:44:17.806Z" agent="5.0 (Windows)" etag="lkX8V7jKPXE78ypuZOJt" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-30T11:17:07.614Z" agent="5.0 (Windows)" etag="-fJfvAljNWs-H46n1Qlr" version="14.1.1" type="github">
   <diagram id="6sXWkbplTSW0TdqBarLm" name="Page-1">
     <mxGraphModel dx="3384" dy="958" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="GMbDUPj0tV4HR4Pzrffr-37" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=27;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1570" y="1169" width="1060" height="291" as="geometry" />
+        </mxCell>
         <mxCell id="SIMHASHuIf-kfnJbrsUP-4" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="-780" y="225" width="755" height="40" as="geometry" />
         </mxCell>
@@ -399,6 +402,15 @@
         </mxCell>
         <mxCell id="GMbDUPj0tV4HR4Pzrffr-33" value="&lt;div align=&quot;left&quot;&gt;Удаляет из коллекции последний элемент, возвращенный&lt;/div&gt;&lt;div align=&quot;left&quot;&gt; итератором&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-1162" y="871" width="660" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GMbDUPj0tV4HR4Pzrffr-34" value="Вид дизайна сайта" style="rounded=0;whiteSpace=wrap;html=1;fontSize=27;" vertex="1" parent="1">
+          <mxGeometry x="-1530" y="1224" width="310" height="166" as="geometry" />
+        </mxCell>
+        <mxCell id="GMbDUPj0tV4HR4Pzrffr-35" value="Вид HTML " style="rounded=0;whiteSpace=wrap;html=1;fontSize=27;" vertex="1" parent="1">
+          <mxGeometry x="-1200" y="1225.12" width="310" height="166" as="geometry" />
+        </mxCell>
+        <mxCell id="GMbDUPj0tV4HR4Pzrffr-36" value="Вид страницу для мобильного телефона " style="rounded=0;whiteSpace=wrap;html=1;fontSize=27;" vertex="1" parent="1">
+          <mxGeometry x="-870" y="1225.12" width="310" height="166" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
