@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2020-12-31T20:19:41.830Z" agent="5.0 (Windows)" etag="2IDY9E_olF03HRwKUOqy" version="14.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-31T20:24:01.972Z" agent="5.0 (Windows)" etag="nJQWZDhny6rnZWOGvA7d" version="14.1.5" type="github">
   <diagram id="6sXWkbplTSW0TdqBarLm" name="Page-1">
     <mxGraphModel dx="3462" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="AgiOHSdb-ITd_OApQujz-14" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1660" y="1720" width="570" height="390" as="geometry" />
+          <mxGeometry x="-1660" y="1720" width="570" height="360" as="geometry" />
         </mxCell>
         <mxCell id="GMbDUPj0tV4HR4Pzrffr-37" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=27;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1570" y="1169" width="1060" height="291" as="geometry" />
@@ -416,42 +416,42 @@
           <mxGeometry x="-870" y="1225.12" width="310" height="166" as="geometry" />
         </mxCell>
         <mxCell id="AgiOHSdb-ITd_OApQujz-1" value="DeviceConnection" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="-1500" y="1754" width="230" height="140" as="geometry" />
+          <mxGeometry x="-1500" y="1744" width="230" height="130" as="geometry" />
         </mxCell>
         <mxCell id="AgiOHSdb-ITd_OApQujz-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="AgiOHSdb-ITd_OApQujz-1">
           <mxGeometry y="26" width="230" height="8" as="geometry" />
         </mxCell>
         <mxCell id="AgiOHSdb-ITd_OApQujz-4" value="+ connectExternalDevice: void&#xa;- checkValidity: boolean&#xa;- checkConnectingProperties: void&#xa;- connectDevice: boolean&#xa;- buildReport: boolean" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="AgiOHSdb-ITd_OApQujz-1">
-          <mxGeometry y="34" width="230" height="106" as="geometry" />
+          <mxGeometry y="34" width="230" height="96" as="geometry" />
         </mxCell>
         <mxCell id="AgiOHSdb-ITd_OApQujz-5" value="SimpleDeviceConnection" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="-1620" y="1940" width="230" height="140" as="geometry" />
+          <mxGeometry x="-1620" y="1930" width="230" height="120" as="geometry" />
         </mxCell>
         <mxCell id="AgiOHSdb-ITd_OApQujz-6" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="AgiOHSdb-ITd_OApQujz-5">
           <mxGeometry y="26" width="230" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="AgiOHSdb-ITd_OApQujz-7" value="+ connectExternalDevice: void&#xa;- checkValidity: boolean&#xa;- checkConnectingProperties: void&#xa;- connectDevice: boolean&#xa;- buildReport: boolean" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="AgiOHSdb-ITd_OApQujz-5">
-          <mxGeometry y="34" width="230" height="106" as="geometry" />
+        <mxCell id="AgiOHSdb-ITd_OApQujz-7" value="- checkValidity: boolean&#xa;- checkConnectingProperties: void&#xa;- connectDevice: boolean&#xa;- buildReport: boolean" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="AgiOHSdb-ITd_OApQujz-5">
+          <mxGeometry y="34" width="230" height="86" as="geometry" />
         </mxCell>
         <mxCell id="AgiOHSdb-ITd_OApQujz-8" value="AdvancedDeviceConnection" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="-1355" y="1940" width="230" height="140" as="geometry" />
+          <mxGeometry x="-1355" y="1930" width="230" height="120" as="geometry" />
         </mxCell>
         <mxCell id="AgiOHSdb-ITd_OApQujz-9" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="AgiOHSdb-ITd_OApQujz-8">
           <mxGeometry y="26" width="230" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="AgiOHSdb-ITd_OApQujz-10" value="+ connectExternalDevice: void&#xa;- checkValidity: boolean&#xa;- checkConnectingProperties: void&#xa;- connectDevice: boolean&#xa;- buildReport: boolean" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="AgiOHSdb-ITd_OApQujz-8">
-          <mxGeometry y="34" width="230" height="106" as="geometry" />
+        <mxCell id="AgiOHSdb-ITd_OApQujz-10" value="- checkValidity: boolean&#xa;- checkConnectingProperties: void&#xa;- connectDevice: boolean&#xa;- buildReport: boolean" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="AgiOHSdb-ITd_OApQujz-8">
+          <mxGeometry y="34" width="230" height="86" as="geometry" />
         </mxCell>
         <mxCell id="AgiOHSdb-ITd_OApQujz-12" value="" style="endArrow=block;html=1;endFill=0;entryX=0.288;entryY=1.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="AgiOHSdb-ITd_OApQujz-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1480" y="1940" as="sourcePoint" />
-            <mxPoint x="-1420" y="1870" as="targetPoint" />
+            <mxPoint x="-1480" y="1930" as="sourcePoint" />
+            <mxPoint x="-1420" y="1860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AgiOHSdb-ITd_OApQujz-13" value="" style="endArrow=block;html=1;exitX=0.309;exitY=0.005;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.69;entryY=1.021;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" edge="1" parent="1" source="AgiOHSdb-ITd_OApQujz-8" target="AgiOHSdb-ITd_OApQujz-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1470" y="1950" as="sourcePoint" />
-            <mxPoint x="-1410" y="1880" as="targetPoint" />
+            <mxPoint x="-1470" y="1940" as="sourcePoint" />
+            <mxPoint x="-1410" y="1870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
