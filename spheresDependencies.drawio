@@ -1,1 +1,67 @@
-<mxfile host="app.diagrams.net" modified="2021-01-19T16:48:25.929Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" version="14.2.4" etag="F1_a_v03W0y_sPQ3WKOc" type="github"><diagram id="DJ9-_ddOUYUHQFPEdcVO">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-19T18:01:41.329Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="n0bgJCuTrtH5OmtIqbFw" version="14.2.4" type="github">
+  <diagram id="DJ9-_ddOUYUHQFPEdcVO" name="Page-1">
+    <mxGraphModel dx="1312" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LYr8p_JjXjSX1QbG3yEF-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LYr8p_JjXjSX1QbG3yEF-1" target="LYr8p_JjXjSX1QbG3yEF-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LYr8p_JjXjSX1QbG3yEF-1" value="Family" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LYr8p_JjXjSX1QbG3yEF-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LYr8p_JjXjSX1QbG3yEF-2" target="LYr8p_JjXjSX1QbG3yEF-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LYr8p_JjXjSX1QbG3yEF-2" value="Health" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LYr8p_JjXjSX1QbG3yEF-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LYr8p_JjXjSX1QbG3yEF-3" target="LYr8p_JjXjSX1QbG3yEF-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LYr8p_JjXjSX1QbG3yEF-3" value="Effectiveness" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LYr8p_JjXjSX1QbG3yEF-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LYr8p_JjXjSX1QbG3yEF-4" target="LYr8p_JjXjSX1QbG3yEF-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LYr8p_JjXjSX1QbG3yEF-4" value="Learning" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LYr8p_JjXjSX1QbG3yEF-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LYr8p_JjXjSX1QbG3yEF-5" target="LYr8p_JjXjSX1QbG3yEF-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LYr8p_JjXjSX1QbG3yEF-5" value="Career" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LYr8p_JjXjSX1QbG3yEF-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LYr8p_JjXjSX1QbG3yEF-6" target="LYr8p_JjXjSX1QbG3yEF-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LYr8p_JjXjSX1QbG3yEF-6" value="Money" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LYr8p_JjXjSX1QbG3yEF-7" value="Self-investment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LYr8p_JjXjSX1QbG3yEF-14" value="&lt;font style=&quot;font-size: 8px&quot;&gt;- If I&#39;m unhappy in the family I feel bad&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="370" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LYr8p_JjXjSX1QbG3yEF-15" value="&lt;font style=&quot;font-size: 8px&quot;&gt;- If I&#39;m sick or tired, I can&#39;t be effective&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="370" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LYr8p_JjXjSX1QbG3yEF-16" value="&lt;font style=&quot;font-size: 8px&quot;&gt;- If I&#39;m not effective I don&#39;t have time to learn&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="370" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LYr8p_JjXjSX1QbG3yEF-17" value="&lt;font style=&quot;font-size: 8px&quot;&gt;- If I&#39;m not learning nothing is changing&lt;br&gt;&amp;nbsp; in my career&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="370" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LYr8p_JjXjSX1QbG3yEF-18" value="&lt;font style=&quot;font-size: 8px&quot;&gt;- If my career isn&#39;t growing I don&#39;t earn&lt;br&gt;much money&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="370" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LYr8p_JjXjSX1QbG3yEF-19" value="&lt;font style=&quot;font-size: 8px&quot;&gt;- I can&#39;t invest more in me if I don&#39;t &lt;br&gt;&amp;nbsp; have money&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="370" width="140" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
