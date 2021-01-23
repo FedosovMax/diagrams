@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-22T16:32:07.023Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="jJ-MgvOcJyXvXSLDuiRF" version="14.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-23T16:14:21.055Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="pbIoU7thmfayk1RSykqu" version="14.2.4" type="github">
   <diagram id="DJ9-_ddOUYUHQFPEdcVO" name="Page-1">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="981" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -104,10 +104,10 @@
           <mxGeometry x="600" y="490" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="00tfdcvLLPrU-U2BGuaB-16" value="We don&#39;t respect each other" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
-          <mxGeometry x="1800" y="1240" width="120" height="60" as="geometry" />
+          <mxGeometry x="1700" y="1320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="00tfdcvLLPrU-U2BGuaB-17" value="We don&#39;t trust each other" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
-          <mxGeometry x="1930" y="1070" width="120" height="60" as="geometry" />
+          <mxGeometry x="2320" y="1330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="00tfdcvLLPrU-U2BGuaB-18" value="We don&#39;t want to understand each other" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="1860" y="980" width="120" height="60" as="geometry" />
@@ -116,16 +116,16 @@
           <mxGeometry x="2080" y="890" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="00tfdcvLLPrU-U2BGuaB-20" value="We are insulting each other " style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
-          <mxGeometry x="1930" y="1160" width="120" height="60" as="geometry" />
+          <mxGeometry x="1700" y="1240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="00tfdcvLLPrU-U2BGuaB-21" value="We aren&#39;t tolerant to each other" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
-          <mxGeometry x="2080" y="1070" width="120" height="60" as="geometry" />
+          <mxGeometry x="1990" y="1320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="00tfdcvLLPrU-U2BGuaB-22" value="We don&#39;t know how to give a feedback in a right way" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
-          <mxGeometry x="1930" y="1240" width="120" height="60" as="geometry" />
+        <mxCell id="00tfdcvLLPrU-U2BGuaB-22" value="We don&#39;t give a feedback in a right way" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
+          <mxGeometry x="1990" y="1240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="00tfdcvLLPrU-U2BGuaB-23" value="We aren&#39;t working on our bad habits in building relationships" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
-          <mxGeometry x="2000" y="1330" width="120" height="60" as="geometry" />
+          <mxGeometry x="2005" y="1410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="00tfdcvLLPrU-U2BGuaB-24" value="We aren&#39;t working on our relationships together " style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="1920" y="890" width="120" height="60" as="geometry" />
@@ -140,7 +140,7 @@
           <mxGeometry x="1455" y="1110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="00tfdcvLLPrU-U2BGuaB-28" value="We often have a defensive position " style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
-          <mxGeometry x="2065" y="1240" width="120" height="60" as="geometry" />
+          <mxGeometry x="2320" y="1240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="00tfdcvLLPrU-U2BGuaB-29" value="We don&#39;t have Mutual plans and goals " style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="1690" y="1050" width="120" height="60" as="geometry" />
@@ -152,7 +152,7 @@
           <mxGeometry x="1690" y="890" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="00tfdcvLLPrU-U2BGuaB-32" value="We rely to much on stereotypes rather than relying on experience and learning " style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
-          <mxGeometry x="2000" y="1410" width="120" height="80" as="geometry" />
+          <mxGeometry x="2005" y="1490" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="00tfdcvLLPrU-U2BGuaB-33" value="We have different views on our relationships " style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="1800" y="800" width="120" height="60" as="geometry" />
@@ -160,8 +160,14 @@
         <mxCell id="00tfdcvLLPrU-U2BGuaB-34" value="We aren&#39;t ready to openly discuss our views on relationships.  " style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="2010" y="980" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="T9ISC0xVuCYEU8GKYNPe-2" value="Obligations are part of the role in relationships&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="T9ISC0xVuCYEU8GKYNPe-2" value="Obligations are part of the role in relationships&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1400" y="1290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sOV_pKNVG9P2FTH4Zfgg-1" value="It&#39;s important to be tolerant to each other to give a kind feedback or reminder" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1860" y="1320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sOV_pKNVG9P2FTH4Zfgg-2" value="We don&#39;t know how to give a feedback in a right way" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="2125" y="1320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
