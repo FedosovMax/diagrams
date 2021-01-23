@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-23T17:58:59.418Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="QDdBjJT0i2ULNe8MNd32" version="14.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-23T18:00:12.384Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="DJfCEYnX-yxnBxQlpEOQ" version="14.2.4" type="github">
   <diagram id="DJ9-_ddOUYUHQFPEdcVO" name="Page-1">
-    <mxGraphModel dx="3555" dy="1905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="981" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -82,8 +82,8 @@
         <mxCell id="00tfdcvLLPrU-U2BGuaB-7" value="Self-investment" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="350" y="480" width="250" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="00tfdcvLLPrU-U2BGuaB-8" value="&lt;font style=&quot;font-size: 8px&quot;&gt;Family should support health care culture&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="600" y="730" width="160" height="20" as="geometry" />
+        <mxCell id="00tfdcvLLPrU-U2BGuaB-8" value="&lt;font style=&quot;font-size: 8px&quot;&gt;Family should provide positive&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="730" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="00tfdcvLLPrU-U2BGuaB-10" value="&lt;font style=&quot;font-size: 8px&quot;&gt;Health should provide energy&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="690" width="120" height="20" as="geometry" />
