@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-02T14:58:58.590Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="byZGsLFkd0ultjfly5u9" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-02T17:26:38.068Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="bfOk2SiekBgo8N49eeb-" version="14.2.7" type="github">
   <diagram id="DJ9-_ddOUYUHQFPEdcVO" name="Page-1">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2076" dy="1096" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -247,7 +247,7 @@
         <mxCell id="Zmv7tB-Ae4RG4BNqRWOU-7" value="We are trying to be passive and sweep everything under the rag" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="3438" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Zmv7tB-Ae4RG4BNqRWOU-8" value="We are afraid of fights" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
+        <mxCell id="Zmv7tB-Ae4RG4BNqRWOU-8" value="We are afraid of conflicts" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="3108" y="1160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Zmv7tB-Ae4RG4BNqRWOU-9" value="We are avoiding difficult topics" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
@@ -475,6 +475,9 @@
         </mxCell>
         <mxCell id="3LwuBaPG_M0YYdpSXuYX-34" value="it&#39;s much easier to be tolerant when you know them closer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2590" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3LwuBaPG_M0YYdpSXuYX-37" value="I&#39;m not working on relationships by myself&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="3360" y="520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
