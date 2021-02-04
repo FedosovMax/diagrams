@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-04T14:45:17.472Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="r2bYjagkxOuNetkTtELv" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-04T14:59:34.450Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="w4iwX5uvpEcS6VVyfuUx" version="14.2.9" type="github">
   <diagram id="DJ9-_ddOUYUHQFPEdcVO" name="Page-1">
     <mxGraphModel dx="1185" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -380,13 +380,13 @@
           <mxGeometry x="2922" y="2140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3LwuBaPG_M0YYdpSXuYX-5" value="We don&#39;t think that relationships building is an urgent matter" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
-          <mxGeometry x="2710" y="2230" width="120" height="60" as="geometry" />
+          <mxGeometry x="2771" y="2230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3LwuBaPG_M0YYdpSXuYX-7" value="It&#39;s a common way of thinking that relationships should be built by itself&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3340" y="2320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3LwuBaPG_M0YYdpSXuYX-8" value="It&#39;s easy to believe that relationships will work by itself and there is no need to work on it" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="3480" y="2320" width="120" height="80" as="geometry" />
+          <mxGeometry x="3060" y="2320" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3LwuBaPG_M0YYdpSXuYX-9" value="We think that we&#39;re doing well while everything is OK" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="2770" y="2320" width="120" height="60" as="geometry" />
@@ -442,7 +442,7 @@
         <mxCell id="3LwuBaPG_M0YYdpSXuYX-22" value="I don&#39;t share what I need with my wife" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="3198" y="1490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3LwuBaPG_M0YYdpSXuYX-6" value="We hope that it&#39;ll work by itself somehow" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
+        <mxCell id="3LwuBaPG_M0YYdpSXuYX-6" value="We hope that our relationships will work by itself somehow" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="3140" y="2230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3LwuBaPG_M0YYdpSXuYX-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="3LwuBaPG_M0YYdpSXuYX-31" target="3LwuBaPG_M0YYdpSXuYX-11" edge="1">
@@ -492,7 +492,7 @@
           <mxGeometry x="2633" y="2320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3LwuBaPG_M0YYdpSXuYX-4" value="We don&#39;t understand an importance in building our relationships" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
-          <mxGeometry x="3060" y="2320" width="120" height="60" as="geometry" />
+          <mxGeometry x="2905" y="2320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
