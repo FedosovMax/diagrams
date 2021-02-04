@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-04T15:02:29.866Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="wzYwhtlU_Zc8F7kZhSla" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-04T15:11:50.519Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="72iae3eJbSrdV59xAXgX" version="14.2.9" type="github">
   <diagram id="DJ9-_ddOUYUHQFPEdcVO" name="Page-1">
     <mxGraphModel dx="1185" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -167,7 +167,7 @@
           <mxGeometry x="3318" y="750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="00tfdcvLLPrU-U2BGuaB-32" value="We rely to much on stereotypes rather than relying on experience and learning " style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
-          <mxGeometry x="3200" y="2320" width="120" height="80" as="geometry" />
+          <mxGeometry x="3150" y="2320" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="00tfdcvLLPrU-U2BGuaB-33" value="We have different views on our relationships " style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="3200" y="670" width="120" height="60" as="geometry" />
@@ -202,11 +202,11 @@
         <mxCell id="sOV_pKNVG9P2FTH4Zfgg-4" value="We don&#39;t learn how to build a family effectively" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="2785" y="1890" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="sOV_pKNVG9P2FTH4Zfgg-5" value="We don&#39;t have a good place or tool to learn how to build a good family" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
-          <mxGeometry x="2855" y="1970" width="120" height="60" as="geometry" />
+        <mxCell id="sOV_pKNVG9P2FTH4Zfgg-5" value="We don&#39;t have a good system to learn how to build a good family" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
+          <mxGeometry x="2855" y="1973" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sOV_pKNVG9P2FTH4Zfgg-6" value="it&#39;s important to have good tools and system to learn to do anything" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2990" y="1970" width="120" height="60" as="geometry" />
+        <mxCell id="sOV_pKNVG9P2FTH4Zfgg-6" value="it&#39;s important to have good system to learn how to do anything" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2990" y="1973" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sOV_pKNVG9P2FTH4Zfgg-7" value="We have negative experience in our relationships" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="3604" y="1410" width="120" height="60" as="geometry" />
@@ -370,53 +370,53 @@
         <mxCell id="vEPXqQitPNpgmS91bXZF-20" value="We don&#39;t understand the importance of family vision" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="2780" y="1800" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vEPXqQitPNpgmS91bXZF-21" value="Learning is needed for understanding of importance of many things" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="vEPXqQitPNpgmS91bXZF-21" value="Learning is needed for understanding importance of many things" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2920" y="1890" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3LwuBaPG_M0YYdpSXuYX-1" value="We aren&#39;t looking for effective tools and solutions for building families" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
+        <mxCell id="3LwuBaPG_M0YYdpSXuYX-1" value="We aren&#39;t looking for effective system for building families" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="2922" y="2060" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3LwuBaPG_M0YYdpSXuYX-3" value="We aren&#39;t ready to invest time and money in our relationships" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
-          <mxGeometry x="2922" y="2140" width="120" height="60" as="geometry" />
+        <mxCell id="3LwuBaPG_M0YYdpSXuYX-3" value="We don&#39;t invest time and money in our relationships" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
+          <mxGeometry x="2850" y="2140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3LwuBaPG_M0YYdpSXuYX-5" value="We don&#39;t think that relationships building is an urgent matter" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
-          <mxGeometry x="2771" y="2230" width="120" height="60" as="geometry" />
+          <mxGeometry x="2721" y="2230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3LwuBaPG_M0YYdpSXuYX-7" value="It&#39;s a common way of thinking that relationships should be built by itself&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="3340" y="2320" width="120" height="60" as="geometry" />
+          <mxGeometry x="3290" y="2320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3LwuBaPG_M0YYdpSXuYX-8" value="It&#39;s easy to believe that relationships will work by itself and there is no need to work on it" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="3060" y="2320" width="120" height="80" as="geometry" />
+          <mxGeometry x="3010" y="2320" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3LwuBaPG_M0YYdpSXuYX-9" value="We think that we&#39;re doing well while everything is OK" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
-          <mxGeometry x="2770" y="2320" width="120" height="60" as="geometry" />
+          <mxGeometry x="2720" y="2320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3LwuBaPG_M0YYdpSXuYX-10" value="We aren&#39;t measuring our relationships&lt;br&gt;effectiveness" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
-          <mxGeometry x="2832" y="2410" width="120" height="60" as="geometry" />
+          <mxGeometry x="2782" y="2410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3LwuBaPG_M0YYdpSXuYX-11" value="We don&#39;t have a goal in our relationships" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
-          <mxGeometry x="2753" y="2500" width="120" height="60" as="geometry" />
+          <mxGeometry x="2703" y="2500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3LwuBaPG_M0YYdpSXuYX-12" value="It&#39;s important to have a goal in order to be effective in terms of something" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2891" y="2500" width="120" height="60" as="geometry" />
+          <mxGeometry x="2841" y="2500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3LwuBaPG_M0YYdpSXuYX-15" value="It&#39;s not a common practice to have a goal for relationships" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="3010" y="2590" width="120" height="60" as="geometry" />
+          <mxGeometry x="2960" y="2590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3LwuBaPG_M0YYdpSXuYX-16" value="We&#39;re not innovative in building relationships" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
-          <mxGeometry x="2870" y="2590" width="120" height="60" as="geometry" />
+          <mxGeometry x="2820" y="2590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3LwuBaPG_M0YYdpSXuYX-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3LwuBaPG_M0YYdpSXuYX-17" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2911" y="2651" as="targetPoint" />
+            <mxPoint x="2861" y="2651" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="2915" y="2670" />
-              <mxPoint x="2911" y="2670" />
+              <mxPoint x="2865" y="2670" />
+              <mxPoint x="2861" y="2670" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="3LwuBaPG_M0YYdpSXuYX-17" value="Innovations require trust and understanding" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2875" y="2680" width="120" height="60" as="geometry" />
+          <mxGeometry x="2825" y="2680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3LwuBaPG_M0YYdpSXuYX-18" value="Neither of us know how to build a good relationships" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="3467" y="1410" width="120" height="60" as="geometry" />
@@ -443,18 +443,18 @@
           <mxGeometry x="3198" y="1490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3LwuBaPG_M0YYdpSXuYX-6" value="We hope that our relationships will work by itself somehow" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
-          <mxGeometry x="3140" y="2230" width="120" height="60" as="geometry" />
+          <mxGeometry x="3148" y="2230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3LwuBaPG_M0YYdpSXuYX-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="3LwuBaPG_M0YYdpSXuYX-31" target="3LwuBaPG_M0YYdpSXuYX-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2783" y="2580" />
-              <mxPoint x="2783" y="2580" />
+              <mxPoint x="2733" y="2580" />
+              <mxPoint x="2733" y="2580" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="3LwuBaPG_M0YYdpSXuYX-31" value="Goals of all family should be included" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2740" y="2590" width="120" height="60" as="geometry" />
+          <mxGeometry x="2690" y="2590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="00tfdcvLLPrU-U2BGuaB-20" value="We are insulting each other " style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="2910" y="1324" width="120" height="60" as="geometry" />
@@ -462,13 +462,13 @@
         <mxCell id="3LwuBaPG_M0YYdpSXuYX-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.121;entryY=1.028;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="3LwuBaPG_M0YYdpSXuYX-33" target="3LwuBaPG_M0YYdpSXuYX-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2660" y="2580" />
-              <mxPoint x="2768" y="2580" />
+              <mxPoint x="2610" y="2580" />
+              <mxPoint x="2718" y="2580" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="3LwuBaPG_M0YYdpSXuYX-33" value="I don&#39;t know what goals my wife has about relationships" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="2600" y="2590" width="120" height="60" as="geometry" />
+          <mxGeometry x="2550" y="2590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3LwuBaPG_M0YYdpSXuYX-34" value="it&#39;s much easier to be tolerant when you know them closer" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2590" y="920" width="120" height="60" as="geometry" />
@@ -486,16 +486,19 @@
           <mxGeometry x="3360" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Bc-SZ7N8A4xLQ5Tqbq3g-1" value="We aren&#39;t in touch without measurements" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2690" y="2410" width="120" height="60" as="geometry" />
+          <mxGeometry x="2640" y="2410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Bc-SZ7N8A4xLQ5Tqbq3g-3" value="There is no need to fix something that aren&#39;t broken" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2633" y="2320" width="120" height="60" as="geometry" />
+          <mxGeometry x="2583" y="2320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3LwuBaPG_M0YYdpSXuYX-4" value="We don&#39;t understand an importance in building our relationships" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
-          <mxGeometry x="2905" y="2320" width="120" height="60" as="geometry" />
+          <mxGeometry x="2855" y="2320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Bc-SZ7N8A4xLQ5Tqbq3g-4" value="It&#39;s a common way of thinking that relationships should be built by itself&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2952" y="2230" width="120" height="60" as="geometry" />
+        <mxCell id="Bc-SZ7N8A4xLQ5Tqbq3g-4" value="No urgent, might work by itself, why to do anything" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2923" y="2230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Bc-SZ7N8A4xLQ5Tqbq3g-5" value="Investigation and solutions need time and money" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2988" y="2140" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
