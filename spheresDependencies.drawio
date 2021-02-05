@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-05T18:00:01.262Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="5A-Ye4OUz4LLP3LDNQn8" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-05T18:25:10.827Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="NT_WQ-VRtIdHjTHdtzwF" version="14.2.9" type="github">
   <diagram id="DJ9-_ddOUYUHQFPEdcVO" name="Page-1">
     <mxGraphModel dx="1185" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -199,6 +199,29 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="Bc-SZ7N8A4xLQ5Tqbq3g-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeColor=#FF6666;" edge="1" parent="1" source="sOV_pKNVG9P2FTH4Zfgg-4" target="3LwuBaPG_M0YYdpSXuYX-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2870" y="1880" />
+              <mxPoint x="3228" y="1880" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bc-SZ7N8A4xLQ5Tqbq3g-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#FF6666;" edge="1" parent="1" source="sOV_pKNVG9P2FTH4Zfgg-4" target="vEPXqQitPNpgmS91bXZF-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2700" y="1900" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bc-SZ7N8A4xLQ5Tqbq3g-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF6666;" edge="1" parent="1" source="sOV_pKNVG9P2FTH4Zfgg-4" target="vEPXqQitPNpgmS91bXZF-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2845" y="1870" />
+              <mxPoint x="2990" y="1870" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="sOV_pKNVG9P2FTH4Zfgg-4" value="We don&#39;t learn how to build a family effectively" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="2785" y="1890" width="120" height="50" as="geometry" />
         </mxCell>
@@ -329,25 +352,25 @@
           <mxGeometry x="2920" y="1480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vEPXqQitPNpgmS91bXZF-6" value="We don&#39;t have a good family culture" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
-          <mxGeometry x="2850" y="1560" width="120" height="60" as="geometry" />
+          <mxGeometry x="2845" y="1560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vEPXqQitPNpgmS91bXZF-7" value="family culture should provide an understanding of what important" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2990" y="1560" width="120" height="60" as="geometry" />
+        <mxCell id="vEPXqQitPNpgmS91bXZF-7" value="family culture provides an understanding of values and rules" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2985" y="1560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vEPXqQitPNpgmS91bXZF-8" value="It&#39;s important to understand what means respect to respect" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2780" y="1480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vEPXqQitPNpgmS91bXZF-9" value="We don&#39;t have an example or a vision of a good family" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
-          <mxGeometry x="2848" y="1720" width="120" height="60" as="geometry" />
+        <mxCell id="vEPXqQitPNpgmS91bXZF-9" value="We don&#39;t have an example of a good family vision" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
+          <mxGeometry x="2640" y="1800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vEPXqQitPNpgmS91bXZF-10" value="It&#39;s difficult to create a family vision without an example or guidence" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2708" y="1720" width="120" height="60" as="geometry" />
+          <mxGeometry x="2786" y="1800" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vEPXqQitPNpgmS91bXZF-11" value="Family culture is a part of the family vision" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2918" y="1640" width="120" height="60" as="geometry" />
+        <mxCell id="vEPXqQitPNpgmS91bXZF-11" value="Directions, restrictions and values form a core of the family culture" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2930" y="1636" width="120" height="64" as="geometry" />
         </mxCell>
         <mxCell id="vEPXqQitPNpgmS91bXZF-12" value="We don&#39;t have a vision for our family" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
-          <mxGeometry x="2788" y="1640" width="120" height="60" as="geometry" />
+          <mxGeometry x="2788" y="1710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vEPXqQitPNpgmS91bXZF-13" value="We aren&#39;t studying each other" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="2410" y="1000" width="120" height="60" as="geometry" />
@@ -364,11 +387,8 @@
         <mxCell id="vEPXqQitPNpgmS91bXZF-14" value="We don&#39;t understand an importance of studying each other" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="2350" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vEPXqQitPNpgmS91bXZF-18" value="We need an example of family vision to understand what do we need" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2920" y="1800" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="vEPXqQitPNpgmS91bXZF-20" value="We don&#39;t understand the importance of family vision" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
-          <mxGeometry x="2780" y="1800" width="120" height="60" as="geometry" />
+          <mxGeometry x="2930" y="1800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vEPXqQitPNpgmS91bXZF-21" value="Learning is needed for understanding importance of many things" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2920" y="1890" width="120" height="60" as="geometry" />
@@ -499,6 +519,15 @@
         </mxCell>
         <mxCell id="Bc-SZ7N8A4xLQ5Tqbq3g-5" value="Investigation and solutions need time and money" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2988" y="2140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Bc-SZ7N8A4xLQ5Tqbq3g-11" value="We don&#39;t have directions, restrictions or values" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="2790" y="1636" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Bc-SZ7N8A4xLQ5Tqbq3g-12" value="Family value" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7EA6E0;" vertex="1" parent="1">
+          <mxGeometry x="2490" y="1480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Bc-SZ7N8A4xLQ5Tqbq3g-13" value="Family value" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7EA6E0;" vertex="1" parent="1">
+          <mxGeometry x="2630" y="1480" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
