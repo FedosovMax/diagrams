@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-09T16:33:58.743Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="x4bK0uyldmQ7N0VXuo4T" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-10T12:39:38.944Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="HZr0p9-8SX-2YJs0Dnu0" version="14.2.9" type="github">
   <diagram id="DJ9-_ddOUYUHQFPEdcVO" name="Page-1">
-    <mxGraphModel dx="813" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="981" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -106,11 +106,11 @@
         <mxCell id="00tfdcvLLPrU-U2BGuaB-16" value="We don&#39;t respect each other" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="2840" y="1407" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3LwuBaPG_M0YYdpSXuYX-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#f8cecc;" parent="1" source="00tfdcvLLPrU-U2BGuaB-17" target="3LwuBaPG_M0YYdpSXuYX-16" edge="1">
+        <mxCell id="3LwuBaPG_M0YYdpSXuYX-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#FF6666;" parent="1" source="00tfdcvLLPrU-U2BGuaB-17" target="3LwuBaPG_M0YYdpSXuYX-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="3330" y="1350" />
-              <mxPoint x="3330" y="2670" />
+              <mxPoint x="3380" y="1350" />
+              <mxPoint x="3380" y="2670" />
               <mxPoint x="2880" y="2670" />
             </Array>
           </mxGeometry>
@@ -164,20 +164,28 @@
         <mxCell id="00tfdcvLLPrU-U2BGuaB-27" value="We don&#39;t know how we are investing in relationships" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="3415.5" y="750" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="00tfdcvLLPrU-U2BGuaB-28" value="We often have a defensive position " style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
+        <mxCell id="00tfdcvLLPrU-U2BGuaB-28" value="We often have a defensive position " style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d6b656;fillColor=#fff2cc;" parent="1" vertex="1">
           <mxGeometry x="3780" y="1240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="00tfdcvLLPrU-U2BGuaB-29" value="We don&#39;t have Mutual plans and goals " style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
+        <mxCell id="00tfdcvLLPrU-U2BGuaB-29" value="We don&#39;t have Mutual plans and goals " style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;" parent="1" vertex="1">
           <mxGeometry x="3616" y="830" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="00tfdcvLLPrU-U2BGuaB-30" value="We don&#39;t have any mutual roadmap for two of us " style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="3616" y="750" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="00tfdcvLLPrU-U2BGuaB-31" value="Our expectations aren&#39;t clear " style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
+        <mxCell id="00tfdcvLLPrU-U2BGuaB-31" value="Our expectations aren&#39;t clear " style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;" parent="1" vertex="1">
           <mxGeometry x="3616" y="670" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Hi7dQYCk58TvH-89NMs--22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1" source="00tfdcvLLPrU-U2BGuaB-32" target="3LwuBaPG_M0YYdpSXuYX-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3300" y="2750" />
+              <mxPoint x="2610" y="2750" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="00tfdcvLLPrU-U2BGuaB-32" value="We rely to much on stereotypes rather than relying on experience and learning " style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
-          <mxGeometry x="3150" y="2320" width="120" height="80" as="geometry" />
+          <mxGeometry x="3250" y="2410" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="00tfdcvLLPrU-U2BGuaB-33" value="We have different views on our relationships " style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="3510" y="590" width="120" height="60" as="geometry" />
@@ -197,10 +205,10 @@
         <mxCell id="sOV_pKNVG9P2FTH4Zfgg-3" value="It&#39;s difficult to work on something if you don&#39;t get a feedback in a right way" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2381" y="760" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vEPXqQitPNpgmS91bXZF-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" source="sOV_pKNVG9P2FTH4Zfgg-4" target="vEPXqQitPNpgmS91bXZF-14" edge="1">
+        <mxCell id="vEPXqQitPNpgmS91bXZF-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#FF6666;" parent="1" source="sOV_pKNVG9P2FTH4Zfgg-4" target="vEPXqQitPNpgmS91bXZF-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vEPXqQitPNpgmS91bXZF-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" source="sOV_pKNVG9P2FTH4Zfgg-4" target="sOV_pKNVG9P2FTH4Zfgg-2" edge="1">
+        <mxCell id="vEPXqQitPNpgmS91bXZF-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#f8cecc;" parent="1" source="sOV_pKNVG9P2FTH4Zfgg-4" target="sOV_pKNVG9P2FTH4Zfgg-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2320" y="1930" />
@@ -219,7 +227,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Bc-SZ7N8A4xLQ5Tqbq3g-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#FF6666;" parent="1" source="sOV_pKNVG9P2FTH4Zfgg-4" target="vEPXqQitPNpgmS91bXZF-9" edge="1">
+        <mxCell id="Bc-SZ7N8A4xLQ5Tqbq3g-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="sOV_pKNVG9P2FTH4Zfgg-4" target="vEPXqQitPNpgmS91bXZF-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2700" y="1900" />
@@ -243,6 +251,24 @@
               <mxPoint x="3130" y="1876" />
               <mxPoint x="3130" y="1490" />
               <mxPoint x="3080" y="1490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hi7dQYCk58TvH-89NMs--23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.587;entryY=1.043;entryDx=0;entryDy=0;strokeColor=#FF6666;entryPerimeter=0;" edge="1" parent="1" source="sOV_pKNVG9P2FTH4Zfgg-4" target="3LwuBaPG_M0YYdpSXuYX-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2845" y="1960" />
+              <mxPoint x="2460" y="1960" />
+              <mxPoint x="2460" y="2670" />
+              <mxPoint x="2620" y="2670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hi7dQYCk58TvH-89NMs--33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.383;entryY=0.983;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF6666;" edge="1" parent="1" source="sOV_pKNVG9P2FTH4Zfgg-4" target="3LwuBaPG_M0YYdpSXuYX-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2800" y="2220" />
+              <mxPoint x="2896" y="2220" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -291,7 +317,7 @@
         <mxCell id="Zmv7tB-Ae4RG4BNqRWOU-6" value="We expect inadequate reaction to our initiative&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="3780" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Zmv7tB-Ae4RG4BNqRWOU-7" value="We are trying to be passive and sweep everything under the rag" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
+        <mxCell id="Zmv7tB-Ae4RG4BNqRWOU-7" value="We are trying to be passive and sweep everything under the rag" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="3748" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Hi7dQYCk58TvH-89NMs--19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="Zmv7tB-Ae4RG4BNqRWOU-8">
@@ -391,7 +417,7 @@
         <mxCell id="vEPXqQitPNpgmS91bXZF-4" value="We don&#39;t really know what does respect mean" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="2940" y="1480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vEPXqQitPNpgmS91bXZF-6" value="We don&#39;t have a good family culture" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
+        <mxCell id="vEPXqQitPNpgmS91bXZF-6" value="We don&#39;t have a good family culture" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="2845" y="1560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vEPXqQitPNpgmS91bXZF-7" value="family culture provides an understanding of values and rules" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -400,7 +426,7 @@
         <mxCell id="vEPXqQitPNpgmS91bXZF-8" value="It&#39;s important to understand what means to respect" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2810" y="1480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vEPXqQitPNpgmS91bXZF-9" value="We don&#39;t have an example of a good family vision" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
+        <mxCell id="vEPXqQitPNpgmS91bXZF-9" value="We don&#39;t have an example of a good family vision" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;strokeWidth=4;" parent="1" vertex="1">
           <mxGeometry x="2640" y="1800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vEPXqQitPNpgmS91bXZF-10" value="It&#39;s difficult to create a family vision without an example or guidence" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -420,14 +446,14 @@
             <Array as="points">
               <mxPoint x="2520" y="1110" />
               <mxPoint x="2520" y="2660" />
-              <mxPoint x="2630" y="2660" />
+              <mxPoint x="2580" y="2660" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="vEPXqQitPNpgmS91bXZF-14" value="We don&#39;t understand an importance of studying each other" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="2350" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vEPXqQitPNpgmS91bXZF-20" value="We don&#39;t understand the importance of family vision" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
+        <mxCell id="vEPXqQitPNpgmS91bXZF-20" value="We don&#39;t understand the importance of family vision" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;strokeWidth=4;" parent="1" vertex="1">
           <mxGeometry x="2930" y="1800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vEPXqQitPNpgmS91bXZF-21" value="Learning is needed for understanding importance of many things" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -439,14 +465,14 @@
         <mxCell id="3LwuBaPG_M0YYdpSXuYX-3" value="We don&#39;t invest time and money in our relationships" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="2850" y="2140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3LwuBaPG_M0YYdpSXuYX-5" value="We don&#39;t think that relationships building is an urgent matter" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
-          <mxGeometry x="2721" y="2230" width="120" height="60" as="geometry" />
+        <mxCell id="3LwuBaPG_M0YYdpSXuYX-5" value="We don&#39;t think that relationships building is a priority" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
+          <mxGeometry x="2910" y="2230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3LwuBaPG_M0YYdpSXuYX-7" value="It&#39;s a common way of thinking that relationships should be built by itself&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="3290" y="2320" width="120" height="60" as="geometry" />
+          <mxGeometry x="3530" y="2410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3LwuBaPG_M0YYdpSXuYX-8" value="It&#39;s easy to believe that relationships will work by itself and there is no need to work on it" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="3010" y="2320" width="120" height="80" as="geometry" />
+          <mxGeometry x="3390" y="2410" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3LwuBaPG_M0YYdpSXuYX-9" value="We think that we&#39;re doing well while everything is OK" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="2720" y="2320" width="120" height="60" as="geometry" />
@@ -489,7 +515,7 @@
             <Array as="points">
               <mxPoint x="3190" y="1600" />
               <mxPoint x="3190" y="2580" />
-              <mxPoint x="2800" y="2580" />
+              <mxPoint x="2750" y="2580" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -500,7 +526,7 @@
           <mxGeometry x="3480" y="1485" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3LwuBaPG_M0YYdpSXuYX-6" value="We hope that our relationships will work by itself somehow" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
-          <mxGeometry x="3148" y="2230" width="120" height="60" as="geometry" />
+          <mxGeometry x="3250" y="2320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3LwuBaPG_M0YYdpSXuYX-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="3LwuBaPG_M0YYdpSXuYX-31" target="3LwuBaPG_M0YYdpSXuYX-11" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -510,7 +536,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3LwuBaPG_M0YYdpSXuYX-31" value="Goals of all family should be included" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="3LwuBaPG_M0YYdpSXuYX-31" value="Goals of all family should be included in the mutual goal" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2690" y="2590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="00tfdcvLLPrU-U2BGuaB-20" value="We are insulting each other " style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
@@ -540,7 +566,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3LwuBaPG_M0YYdpSXuYX-37" value="I&#39;m not working on relationships by myself&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
+        <mxCell id="3LwuBaPG_M0YYdpSXuYX-37" value="I&#39;m not working on relationships by myself&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;strokeWidth=4;" parent="1" vertex="1">
           <mxGeometry x="3670" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Bc-SZ7N8A4xLQ5Tqbq3g-1" value="We aren&#39;t in touch without measurements" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -549,16 +575,16 @@
         <mxCell id="Bc-SZ7N8A4xLQ5Tqbq3g-3" value="There is no need to fix something that aren&#39;t broken" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2583" y="2320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3LwuBaPG_M0YYdpSXuYX-4" value="We don&#39;t understand an importance in building our relationships" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
-          <mxGeometry x="2855" y="2320" width="120" height="60" as="geometry" />
+        <mxCell id="3LwuBaPG_M0YYdpSXuYX-4" value="We don&#39;t understand an importance in building our relationships" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="3120" y="2320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Bc-SZ7N8A4xLQ5Tqbq3g-4" value="No urgent, might work by itself, why to do anything" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2923" y="2230" width="120" height="60" as="geometry" />
+        <mxCell id="Bc-SZ7N8A4xLQ5Tqbq3g-4" value="Not a priority, might work by itself, why to do anything" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3060" y="2230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Bc-SZ7N8A4xLQ5Tqbq3g-5" value="Investigation and solutions need time and money" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2988" y="2140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Bc-SZ7N8A4xLQ5Tqbq3g-11" value="We don&#39;t have directions, restrictions or values" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
+        <mxCell id="Bc-SZ7N8A4xLQ5Tqbq3g-11" value="We don&#39;t have directions, restrictions or values" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="2790" y="1636" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Hi7dQYCk58TvH-89NMs--2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Bc-SZ7N8A4xLQ5Tqbq3g-12" target="Zmv7tB-Ae4RG4BNqRWOU-19">
@@ -596,7 +622,7 @@
         <mxCell id="Hi7dQYCk58TvH-89NMs--6" value="We are trying to protect ourselves" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" vertex="1" parent="1">
           <mxGeometry x="3150" y="1485" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Hi7dQYCk58TvH-89NMs--9" value="We have defensive positions" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" vertex="1" parent="1">
+        <mxCell id="Hi7dQYCk58TvH-89NMs--9" value="We have defensive positions" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
           <mxGeometry x="3120" y="1407" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Hi7dQYCk58TvH-89NMs--15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hi7dQYCk58TvH-89NMs--10">
@@ -632,6 +658,60 @@
         </mxCell>
         <mxCell id="Hi7dQYCk58TvH-89NMs--21" value="Clear expectations are important for a trust" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3760" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hi7dQYCk58TvH-89NMs--26" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Goals&amp;nbsp; Vision Culture&lt;br&gt;for the family&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1635" y="1715" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hi7dQYCk58TvH-89NMs--27" value="We are trying to atack" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="2770" y="1324" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hi7dQYCk58TvH-89NMs--28" value="Run or fight" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="2620" y="1324" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hi7dQYCk58TvH-89NMs--30" value="We expect inadequate reaction to our initiative&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="3780" y="1160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hi7dQYCk58TvH-89NMs--31" value="We don&#39;t have any education related to relationships" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="2980" y="2410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hi7dQYCk58TvH-89NMs--32" value="We don&#39;t have an examples in our families" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="3115" y="2410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hi7dQYCk58TvH-89NMs--34" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Goals&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1575" y="1830" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hi7dQYCk58TvH-89NMs--35" value="What do we &lt;b&gt;want&lt;/b&gt; to achieve?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1525" y="1860" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hi7dQYCk58TvH-89NMs--36" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Vision&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1575" y="1910" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hi7dQYCk58TvH-89NMs--37" value="Who we want to be?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="1940" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hi7dQYCk58TvH-89NMs--38" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Culture&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1570" y="1990" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hi7dQYCk58TvH-89NMs--39" value="What our &lt;b&gt;values&lt;/b&gt; and role in society?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1505" y="2020" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hi7dQYCk58TvH-89NMs--40" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Goals&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1825" y="1830" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hi7dQYCk58TvH-89NMs--41" value="What do I&amp;nbsp;&lt;b&gt;want&lt;/b&gt; to achieve?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1780" y="1860" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hi7dQYCk58TvH-89NMs--42" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Vision&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1825" y="1910" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hi7dQYCk58TvH-89NMs--43" value="&lt;b&gt;Who&lt;/b&gt; I want to be?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1805" y="1940" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hi7dQYCk58TvH-89NMs--44" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Culture&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="1990" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hi7dQYCk58TvH-89NMs--45" value="What &lt;b&gt;environment &lt;/b&gt;I want to live in?&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1755" y="2020" width="210" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
