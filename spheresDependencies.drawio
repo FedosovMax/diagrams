@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-10T12:47:21.089Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="ETG5WUKT_fR3qkTvMQGB" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-10T12:52:13.887Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="UwTAnAZmtLoPVvv-NBw_" version="14.2.9" type="github">
   <diagram id="DJ9-_ddOUYUHQFPEdcVO" name="Page-1">
-    <mxGraphModel dx="1185" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="981" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -235,7 +235,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Bc-SZ7N8A4xLQ5Tqbq3g-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF6666;" parent="1" source="sOV_pKNVG9P2FTH4Zfgg-4" target="vEPXqQitPNpgmS91bXZF-20" edge="1">
+        <mxCell id="Bc-SZ7N8A4xLQ5Tqbq3g-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sOV_pKNVG9P2FTH4Zfgg-4" target="vEPXqQitPNpgmS91bXZF-20" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2845" y="1870" />
@@ -427,7 +427,7 @@
         <mxCell id="vEPXqQitPNpgmS91bXZF-8" value="It&#39;s important to understand what means to respect" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2810" y="1480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vEPXqQitPNpgmS91bXZF-9" value="We don&#39;t have an example of a good family vision" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;strokeWidth=4;" parent="1" vertex="1">
+        <mxCell id="vEPXqQitPNpgmS91bXZF-9" value="We don&#39;t have an example of a good family vision" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="2640" y="1800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vEPXqQitPNpgmS91bXZF-10" value="It&#39;s difficult to create a family vision without an example or guidence" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -437,7 +437,7 @@
           <mxGeometry x="2930" y="1636" width="120" height="64" as="geometry" />
         </mxCell>
         <mxCell id="vEPXqQitPNpgmS91bXZF-12" value="We don&#39;t have a vision for our family" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
-          <mxGeometry x="2788" y="1710" width="120" height="60" as="geometry" />
+          <mxGeometry x="2788" y="1720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vEPXqQitPNpgmS91bXZF-13" value="We aren&#39;t studying each other" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="2410" y="1000" width="120" height="60" as="geometry" />
@@ -454,7 +454,7 @@
         <mxCell id="vEPXqQitPNpgmS91bXZF-14" value="We don&#39;t understand an importance of studying each other" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="2350" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vEPXqQitPNpgmS91bXZF-20" value="We don&#39;t understand the importance of family vision" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;strokeWidth=4;" parent="1" vertex="1">
+        <mxCell id="vEPXqQitPNpgmS91bXZF-20" value="We don&#39;t understand the importance of family vision" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="2930" y="1800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3LwuBaPG_M0YYdpSXuYX-1" value="We aren&#39;t looking for effective system for building families" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" parent="1" vertex="1">
@@ -728,6 +728,36 @@
         </mxCell>
         <mxCell id="Hi7dQYCk58TvH-89NMs--53" value="What my&amp;nbsp;&lt;b&gt;values&amp;nbsp;&lt;/b&gt;are? &lt;br&gt;What I value and &lt;br&gt;what should be removed?&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="1775" y="1998" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Hi7dQYCk58TvH-89NMs--54" value="We don&#39;t have a mission" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="2620" y="1640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hi7dQYCk58TvH-89NMs--55" value="Without a vision of the family it&#39;s difficult to understand our mission" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2650" y="1720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hi7dQYCk58TvH-89NMs--56" value="Goals" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d6b656;strokeWidth=1;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="2070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hi7dQYCk58TvH-89NMs--57" value="Vision" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;strokeWidth=1;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="1983" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hi7dQYCk58TvH-89NMs--58" value="Mission" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#b85450;strokeWidth=1;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="1900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hi7dQYCk58TvH-89NMs--59" value="Culture" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="1810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hi7dQYCk58TvH-89NMs--60" value="Society" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1185" y="1830" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hi7dQYCk58TvH-89NMs--61" value="Family" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1185" y="1920" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hi7dQYCk58TvH-89NMs--62" value="Personal" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="2095" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hi7dQYCk58TvH-89NMs--63" value="Couple" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1185" y="2003" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
