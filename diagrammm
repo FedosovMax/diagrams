@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-10T15:48:15.693Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="sAAy3qji-5b7JuZDZ7B_" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-11T17:35:21.720Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="y8d7Njg9fX1cZq3b15wb" version="14.3.0" type="github">
   <diagram id="UbLcB4NzKO1tIRgpXMXI" name="Page-1">
-    <mxGraphModel dx="4585" dy="1735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4822" dy="1862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -712,16 +712,13 @@
         <mxCell id="Hz88uCx44lFG6S9V91Fr-6" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;direction=south;" parent="1" vertex="1">
           <mxGeometry x="1820" y="120" width="10" height="1370" as="geometry" />
         </mxCell>
-        <mxCell id="Hz88uCx44lFG6S9V91Fr-7" value="I don&#39;t have enough time to do everything I need to do" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;verticalAlign=middle;strokeColor=#FF6666;" parent="1" vertex="1">
-          <mxGeometry x="4180" y="933.98" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="Hz88uCx44lFG6S9V91Fr-9" value="Sometimes I feel physically tired" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="3395" y="580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Hz88uCx44lFG6S9V91Fr-10" value="Sometimes I feel mentally exhausted" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="2335" y="860" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ukWqfXKOWdEXH3gKVpfa-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hz88uCx44lFG6S9V91Fr-11" target="ukWqfXKOWdEXH3gKVpfa-3">
+        <mxCell id="ukWqfXKOWdEXH3gKVpfa-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Hz88uCx44lFG6S9V91Fr-11" target="ukWqfXKOWdEXH3gKVpfa-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3690" y="1140" />
@@ -736,15 +733,15 @@
           <mxGeometry x="2335" y="750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Hz88uCx44lFG6S9V91Fr-13" value="I&#39;m not able to work fast enough in the project" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF6666;" parent="1" vertex="1">
-          <mxGeometry x="4180" y="680" width="120" height="60" as="geometry" />
+          <mxGeometry x="4747.5" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Hz88uCx44lFG6S9V91Fr-14" value="I have to much things to care about" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF6666;" parent="1" vertex="1">
-          <mxGeometry x="4180" y="1040" width="120" height="60" as="geometry" />
+          <mxGeometry x="4580" y="1188.1699999999998" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Hz88uCx44lFG6S9V91Fr-15" value="I don&#39;t believe that I can do everything in time" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;verticalAlign=middle;strokeColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="2727.5" y="165.3" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ukWqfXKOWdEXH3gKVpfa-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hz88uCx44lFG6S9V91Fr-16">
+        <mxCell id="ukWqfXKOWdEXH3gKVpfa-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Hz88uCx44lFG6S9V91Fr-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3040" y="1280" as="targetPoint" />
             <Array as="points">
@@ -1091,7 +1088,7 @@
         <mxCell id="8cq2YMd5qG5OHkKQ4OR4-6" value="I&#39;m can&#39;t organize myself to be effective" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="3705" y="1437" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ukWqfXKOWdEXH3gKVpfa-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.696;entryY=1.015;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8cq2YMd5qG5OHkKQ4OR4-8" target="ukWqfXKOWdEXH3gKVpfa-16">
+        <mxCell id="ukWqfXKOWdEXH3gKVpfa-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.696;entryY=1.015;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="8cq2YMd5qG5OHkKQ4OR4-8" target="ukWqfXKOWdEXH3gKVpfa-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3380" y="1460" />
@@ -1260,36 +1257,36 @@
           <mxGeometry x="2727.5" y="264.71" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8cq2YMd5qG5OHkKQ4OR4-68" value="I&#39;m not doing many tasks at work" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF6666;" parent="1" vertex="1">
-          <mxGeometry x="4346" y="936" width="120" height="60" as="geometry" />
+          <mxGeometry x="4913.5" y="936" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8cq2YMd5qG5OHkKQ4OR4-69" value="" style="endArrow=classic;html=1;exitX=0.567;exitY=0.017;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.558;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Hz88uCx44lFG6S9V91Fr-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4233.879999999999" y="943.98" as="sourcePoint" />
-            <mxPoint x="4246.959999999999" y="880" as="targetPoint" />
+            <mxPoint x="4801.379999999999" y="943.98" as="sourcePoint" />
+            <mxPoint x="4814.459999999999" y="880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8cq2YMd5qG5OHkKQ4OR4-70" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="8cq2YMd5qG5OHkKQ4OR4-68" target="Hz88uCx44lFG6S9V91Fr-13" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4371.080000000001" y="850" as="sourcePoint" />
-            <mxPoint x="4369.999999999999" y="795" as="targetPoint" />
+            <mxPoint x="4938.580000000001" y="850" as="sourcePoint" />
+            <mxPoint x="4937.499999999999" y="795" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8cq2YMd5qG5OHkKQ4OR4-71" value="I don&#39;t have enough time to work when I&#39;m in the office" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;verticalAlign=middle;strokeColor=#FF6666;" parent="1" vertex="1">
-          <mxGeometry x="4180" y="820" width="120" height="60" as="geometry" />
+          <mxGeometry x="4747.5" y="820" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8cq2YMd5qG5OHkKQ4OR4-72" value="" style="endArrow=classic;html=1;exitX=0.567;exitY=0.017;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="Hz88uCx44lFG6S9V91Fr-13" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4240.540000000001" y="820" as="sourcePoint" />
-            <mxPoint x="4239.459999999999" y="765" as="targetPoint" />
+            <mxPoint x="4808.040000000001" y="820" as="sourcePoint" />
+            <mxPoint x="4806.959999999999" y="765" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8cq2YMd5qG5OHkKQ4OR4-73" value="I don&#39;t know a project&amp;nbsp; well enough" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF6666;" parent="1" vertex="1">
-          <mxGeometry x="4480" y="820" width="120" height="60" as="geometry" />
+          <mxGeometry x="5047.5" y="820" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8cq2YMd5qG5OHkKQ4OR4-74" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.941;entryY=1.041;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="Hz88uCx44lFG6S9V91Fr-13" edge="1" source="8cq2YMd5qG5OHkKQ4OR4-73">
+        <mxCell id="8cq2YMd5qG5OHkKQ4OR4-74" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.941;entryY=1.041;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="8cq2YMd5qG5OHkKQ4OR4-73" target="Hz88uCx44lFG6S9V91Fr-13" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4569.000000000001" y="818.98" as="sourcePoint" />
-            <mxPoint x="4460.000000000001" y="740.0000000000005" as="targetPoint" />
+            <mxPoint x="5136.500000000001" y="818.98" as="sourcePoint" />
+            <mxPoint x="5027.500000000001" y="740.0000000000005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="npd6ka1OuBiYHZtQRwv0-8" value="" style="endArrow=classic;html=1;exitX=0.653;exitY=-0.006;exitDx=0;exitDy=0;entryX=0.583;entryY=1.031;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" parent="1" source="Hz88uCx44lFG6S9V91Fr-25" target="8cq2YMd5qG5OHkKQ4OR4-6" edge="1">
@@ -1337,7 +1334,7 @@
             <mxPoint x="3300" y="1550.48" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="npd6ka1OuBiYHZtQRwv0-17" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.111;entryY=1.003;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="8cq2YMd5qG5OHkKQ4OR4-8" edge="1" source="npd6ka1OuBiYHZtQRwv0-12">
+        <mxCell id="npd6ka1OuBiYHZtQRwv0-17" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.111;entryY=1.003;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="npd6ka1OuBiYHZtQRwv0-12" target="8cq2YMd5qG5OHkKQ4OR4-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2986.6799999999994" y="1600" as="sourcePoint" />
             <mxPoint x="3205" y="1549.6399999999999" as="targetPoint" />
@@ -1346,10 +1343,10 @@
         <mxCell id="npd6ka1OuBiYHZtQRwv0-18" value="" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;gradientColor=none;align=center;" parent="1" vertex="1">
           <mxGeometry x="3240" y="1554" width="100" height="7.69" as="geometry" />
         </mxCell>
-        <mxCell id="ukWqfXKOWdEXH3gKVpfa-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="npd6ka1OuBiYHZtQRwv0-20" target="ukWqfXKOWdEXH3gKVpfa-9">
+        <mxCell id="ukWqfXKOWdEXH3gKVpfa-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="npd6ka1OuBiYHZtQRwv0-20" target="ukWqfXKOWdEXH3gKVpfa-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ukWqfXKOWdEXH3gKVpfa-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="npd6ka1OuBiYHZtQRwv0-20" target="8cq2YMd5qG5OHkKQ4OR4-58">
+        <mxCell id="ukWqfXKOWdEXH3gKVpfa-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="npd6ka1OuBiYHZtQRwv0-20" target="8cq2YMd5qG5OHkKQ4OR4-58" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3160" y="2030" />
@@ -1367,16 +1364,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="npd6ka1OuBiYHZtQRwv0-22" value="I&#39;m not prioritizing thins I&#39;m working on" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF6666;" parent="1" vertex="1">
-          <mxGeometry x="4040" y="1146.02" width="120" height="60" as="geometry" />
+          <mxGeometry x="4290" y="1264.85" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="npd6ka1OuBiYHZtQRwv0-23" value="I don&#39;t skip low priority things to work on high priority things" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF6666;" parent="1" vertex="1">
-          <mxGeometry x="4040" y="1040" width="120" height="60" as="geometry" />
+          <mxGeometry x="4370" y="1188.1699999999998" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="npd6ka1OuBiYHZtQRwv0-24" value="I always add things to my plans" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF6666;" parent="1" vertex="1">
-          <mxGeometry x="4180" y="1146.02" width="120" height="60" as="geometry" />
+          <mxGeometry x="4580" y="1266.85" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="npd6ka1OuBiYHZtQRwv0-25" value="I don&#39;t remove anything from my plans" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF6666;" parent="1" vertex="1">
-          <mxGeometry x="4320" y="1146.02" width="120" height="60" as="geometry" />
+          <mxGeometry x="4430" y="1264.85" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="npd6ka1OuBiYHZtQRwv0-26" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;direction=south;" parent="1" vertex="1">
           <mxGeometry x="905" y="584.41" width="10" height="545.59" as="geometry" />
@@ -1502,39 +1499,39 @@
           <mxGeometry x="240" y="2530" width="320" height="130" as="geometry" />
         </mxCell>
         <mxCell id="m7zqlv9JQfqwG9oIujCe-5" value="I&#39;m not effective at work" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF6666;" parent="1" vertex="1">
-          <mxGeometry x="4180" y="530" width="120" height="60" as="geometry" />
+          <mxGeometry x="4747.5" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m7zqlv9JQfqwG9oIujCe-6" value="I think that I can do more" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;" parent="1" vertex="1">
-          <mxGeometry x="4530" y="680" width="120" height="60" as="geometry" />
+          <mxGeometry x="5097.5" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m7zqlv9JQfqwG9oIujCe-7" value="I want to get more experience" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;" parent="1" vertex="1">
-          <mxGeometry x="4370" y="680" width="120" height="60" as="geometry" />
+          <mxGeometry x="4937.5" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m7zqlv9JQfqwG9oIujCe-8" value="I don&#39;t have much programming experience" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF6666;" parent="1" vertex="1">
-          <mxGeometry x="4615" y="820" width="120" height="60" as="geometry" />
+          <mxGeometry x="5182.5" y="820" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m7zqlv9JQfqwG9oIujCe-9" value="" style="endArrow=classic;html=1;exitX=0.417;exitY=0.033;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="1" target="Hz88uCx44lFG6S9V91Fr-13" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4656.079999999998" y="820" as="sourcePoint" />
-            <mxPoint x="4380" y="743.48" as="targetPoint" />
+            <mxPoint x="5223.579999999998" y="820" as="sourcePoint" />
+            <mxPoint x="4947.5" y="743.48" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="m7zqlv9JQfqwG9oIujCe-10" value="" style="endArrow=classic;html=1;exitX=0.357;exitY=-0.018;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.843;entryY=1.071;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="m7zqlv9JQfqwG9oIujCe-7" target="m7zqlv9JQfqwG9oIujCe-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4826.079999999998" y="820" as="sourcePoint" />
-            <mxPoint x="4550" y="743.48" as="targetPoint" />
+            <mxPoint x="5393.579999999998" y="820" as="sourcePoint" />
+            <mxPoint x="5117.5" y="743.48" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="m7zqlv9JQfqwG9oIujCe-11" value="" style="endArrow=classic;html=1;exitX=0.357;exitY=-0.018;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.921;entryY=1.031;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="m7zqlv9JQfqwG9oIujCe-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4581.68" y="679.07" as="sourcePoint" />
-            <mxPoint x="4450" y="594.4100000000002" as="targetPoint" />
+            <mxPoint x="5149.18" y="679.07" as="sourcePoint" />
+            <mxPoint x="5017.5" y="594.4100000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="m7zqlv9JQfqwG9oIujCe-12" value="" style="endArrow=classic;html=1;exitX=0.567;exitY=0.017;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.441;entryY=0.992;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="m7zqlv9JQfqwG9oIujCe-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4240.540000000001" y="680" as="sourcePoint" />
-            <mxPoint x="4240" y="600" as="targetPoint" />
+            <mxPoint x="4808.040000000001" y="680" as="sourcePoint" />
+            <mxPoint x="4807.5" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="m7zqlv9JQfqwG9oIujCe-13" value="&lt;span style=&quot;font-size: 33px&quot;&gt;Course&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#7EA6E0;" parent="1" vertex="1">
@@ -2109,43 +2106,52 @@
         <mxCell id="UwFk0UDxJSsbe4i9ULS1-2" value="&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Computer Science&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;└Основы (что такое компьютер, и как его можно программировать)&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&amp;nbsp;└Архитектура ЭВМ(процессор, память, контроллеры и т.д.)&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&amp;nbsp;└Что такое язык программирования(и как процессор понимает его)&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&amp;nbsp; └Что такое компилятор, интерпретатор&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&amp;nbsp; └Уровни языков программирования&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&amp;nbsp; └Парадигмы языков программирования&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&amp;nbsp; └Базовые понятния языков программирования&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&amp;nbsp; &amp;nbsp;└Ветвления&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&amp;nbsp; &amp;nbsp;└Циклы&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&amp;nbsp; &amp;nbsp;└Переменные&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&amp;nbsp; &amp;nbsp;└Лямбда выражения&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&amp;nbsp; &amp;nbsp;└Рекурсия&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&amp;nbsp;└Системы счисления&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&amp;nbsp;└Типы кодирования данных&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&amp;nbsp;└Теория типов&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&amp;nbsp;└Базы данных&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&amp;nbsp; └Виды баз данных&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&amp;nbsp; &amp;nbsp;└Как хранится информация в базах данных&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&amp;nbsp;└Математика&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&amp;nbsp;└Сети&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&amp;nbsp; └Что такое интернет и как он работает&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&amp;nbsp; &amp;nbsp;└TCP/IP&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&amp;nbsp; &amp;nbsp;└OSI&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&amp;nbsp; &amp;nbsp;└Сокеты&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&amp;nbsp; &amp;nbsp;└Модели протокола&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&amp;nbsp; &amp;nbsp; └HTTP&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&amp;nbsp; &amp;nbsp; └SSL/TLS&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&amp;nbsp;└Операционные системы&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&amp;nbsp; └Что такое операционная система&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&amp;nbsp; └Как операционная система работает с компьютером&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&amp;nbsp; └Виды операционных систем&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&amp;nbsp; └Типовые утилиты&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&amp;nbsp; └API&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&amp;nbsp; └shell&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;└Практически применимые знания&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&amp;nbsp;└Программирование&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&amp;nbsp; └Структуры данных и алгоритмы&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&amp;nbsp; &amp;nbsp;└Асимптотический анализ&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&amp;nbsp; └Паттерны проектирования&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&amp;nbsp; └WEB&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&amp;nbsp; └Мобильная разработка&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&amp;nbsp; └Системное программирование&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&amp;nbsp; └Разработка игр&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;└Дополнительно&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&amp;nbsp;└Нейронные сети&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&amp;nbsp;└Анализ данных&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&amp;nbsp;└Компьютерная графика&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&amp;nbsp;└Теории счисления&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="-3179.5" y="1650" width="590" height="710" as="geometry" />
         </mxCell>
-        <mxCell id="ukWqfXKOWdEXH3gKVpfa-1" value="I&#39;m not satisfying by my work" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF00FF;" vertex="1" parent="1">
-          <mxGeometry x="4100" y="440" width="120" height="60" as="geometry" />
+        <mxCell id="Z71BEQJfKX3GQm4i1d2E-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;strokeColor=#FF6666;" edge="1" parent="1" source="ukWqfXKOWdEXH3gKVpfa-1" target="ukWqfXKOWdEXH3gKVpfa-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5390" y="470" />
+              <mxPoint x="5390" y="1100" />
+              <mxPoint x="5148" y="1100" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="ukWqfXKOWdEXH3gKVpfa-2" value="without getting things done there is no endorphins" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;" vertex="1" parent="1">
-          <mxGeometry x="4040" y="530" width="120" height="60" as="geometry" />
+        <mxCell id="ukWqfXKOWdEXH3gKVpfa-1" value="I&#39;m not satisfying by my work" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF00FF;" parent="1" vertex="1">
+          <mxGeometry x="4667.5" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ukWqfXKOWdEXH3gKVpfa-3" value="I have a feeling that I&#39;m wasting my time at work" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF00FF;" vertex="1" parent="1">
+        <mxCell id="ukWqfXKOWdEXH3gKVpfa-2" value="without getting things done there is no endorphins" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;" parent="1" vertex="1">
+          <mxGeometry x="4607.5" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ukWqfXKOWdEXH3gKVpfa-3" value="I have a feeling that I&#39;m wasting my time at work" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF00FF;" parent="1" vertex="1">
           <mxGeometry x="3734" y="1030" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ukWqfXKOWdEXH3gKVpfa-6" value="I&#39;m not planning my time" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF00FF;" vertex="1" parent="1">
+        <mxCell id="ukWqfXKOWdEXH3gKVpfa-6" value="I&#39;m not planning my time" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF00FF;" parent="1" vertex="1">
           <mxGeometry x="3680" y="1835" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ukWqfXKOWdEXH3gKVpfa-7" value="I&#39;m using my planner like a reminder" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF00FF;" vertex="1" parent="1">
+        <mxCell id="ukWqfXKOWdEXH3gKVpfa-7" value="I&#39;m using my planner like a reminder" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF00FF;" parent="1" vertex="1">
           <mxGeometry x="2900" y="1820" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ukWqfXKOWdEXH3gKVpfa-8" value="I don&#39;t have priorities" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF00FF;" vertex="1" parent="1">
+        <mxCell id="ukWqfXKOWdEXH3gKVpfa-8" value="I don&#39;t have priorities" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF00FF;" parent="1" vertex="1">
           <mxGeometry x="2670" y="1910" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ukWqfXKOWdEXH3gKVpfa-9" value="I don&#39;t have long-term plans" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF00FF;" vertex="1" parent="1">
+        <mxCell id="ukWqfXKOWdEXH3gKVpfa-9" value="I don&#39;t have long-term plans" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF00FF;" parent="1" vertex="1">
           <mxGeometry x="3060" y="1820" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ukWqfXKOWdEXH3gKVpfa-10" value="I don&#39;t have motivation to do more" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF00FF;" vertex="1" parent="1">
+        <mxCell id="ukWqfXKOWdEXH3gKVpfa-10" value="I don&#39;t have motivation to do more" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF00FF;" parent="1" vertex="1">
           <mxGeometry x="3265" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ukWqfXKOWdEXH3gKVpfa-13" value="I&#39;m not working on reducing bad habits" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF00FF;" vertex="1" parent="1">
+        <mxCell id="ukWqfXKOWdEXH3gKVpfa-13" value="I&#39;m not working on reducing bad habits" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF00FF;" parent="1" vertex="1">
           <mxGeometry x="3365" y="2110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ukWqfXKOWdEXH3gKVpfa-14" value="I didn&#39;t have enough physical activity for a long time" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF6666;" vertex="1" parent="1">
+        <mxCell id="ukWqfXKOWdEXH3gKVpfa-14" value="I didn&#39;t have enough physical activity for a long time" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="3204" y="1010.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ukWqfXKOWdEXH3gKVpfa-15" value="I didn&#39;t have any nutrition program for a long time" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF6666;" vertex="1" parent="1">
+        <mxCell id="ukWqfXKOWdEXH3gKVpfa-15" value="I didn&#39;t have any nutrition program for a long time" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="3070" y="1010.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ukWqfXKOWdEXH3gKVpfa-16" value="I wasn&#39;t into my health at all" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF6666;" vertex="1" parent="1">
+        <mxCell id="ukWqfXKOWdEXH3gKVpfa-16" value="I wasn&#39;t into my health at all" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="3140" y="1091.3200000000002" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ukWqfXKOWdEXH3gKVpfa-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.333;entryY=1.054;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ukWqfXKOWdEXH3gKVpfa-19" target="ukWqfXKOWdEXH3gKVpfa-16">
+        <mxCell id="ukWqfXKOWdEXH3gKVpfa-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.333;entryY=1.054;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ukWqfXKOWdEXH3gKVpfa-19" target="ukWqfXKOWdEXH3gKVpfa-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3070" y="1200" />
@@ -2153,80 +2159,134 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ukWqfXKOWdEXH3gKVpfa-19" value="I didn&#39;t plan working on my health" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF6666;" vertex="1" parent="1">
+        <mxCell id="ukWqfXKOWdEXH3gKVpfa-19" value="I didn&#39;t plan working on my health" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="3010" y="1220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ukWqfXKOWdEXH3gKVpfa-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.137;entryY=1.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ukWqfXKOWdEXH3gKVpfa-21" target="ukWqfXKOWdEXH3gKVpfa-19">
+        <mxCell id="ukWqfXKOWdEXH3gKVpfa-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.137;entryY=1.007;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ukWqfXKOWdEXH3gKVpfa-21" target="ukWqfXKOWdEXH3gKVpfa-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ukWqfXKOWdEXH3gKVpfa-21" value="Plan should include health" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;" vertex="1" parent="1">
+        <mxCell id="ukWqfXKOWdEXH3gKVpfa-21" value="Plan should include health" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;" parent="1" vertex="1">
           <mxGeometry x="2910" y="1600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ukWqfXKOWdEXH3gKVpfa-26" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="ukWqfXKOWdEXH3gKVpfa-26" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;strokeWidth=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="3013" y="1307.21" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ukWqfXKOWdEXH3gKVpfa-27" value="I&#39;m a part of the team and it&#39;s difficult to work strictly" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF00FF;" vertex="1" parent="1">
+        <mxCell id="ukWqfXKOWdEXH3gKVpfa-27" value="I&#39;m a part of the team and it&#39;s difficult to work strictly" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF00FF;" parent="1" vertex="1">
           <mxGeometry x="3680" y="1950" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ukWqfXKOWdEXH3gKVpfa-28" value="I don&#39;t really want to work without flexibility.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF00FF;" vertex="1" parent="1">
+        <mxCell id="ukWqfXKOWdEXH3gKVpfa-28" value="I don&#39;t really want to work without flexibility.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF00FF;" parent="1" vertex="1">
           <mxGeometry x="3820" y="1950" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ukWqfXKOWdEXH3gKVpfa-29" value="I don&#39;t have a mandatory things that I should do today to make this day be succesful" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeWidth=3;strokeColor=#FF6666;" vertex="1" parent="1">
+        <mxCell id="ukWqfXKOWdEXH3gKVpfa-29" value="I don&#39;t have a mandatory things that I should do today to make this day be succesful" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeWidth=3;strokeColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="3740" y="2080" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ukWqfXKOWdEXH3gKVpfa-30" value="It&#39;s important to have a clear plan to train a discipline" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF6666;" vertex="1" parent="1">
+        <mxCell id="ukWqfXKOWdEXH3gKVpfa-30" value="It&#39;s important to have a clear plan to train a discipline" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="3485" y="1720" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ukWqfXKOWdEXH3gKVpfa-32" value="I have bad habits that harm my productivity" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF6666;" vertex="1" parent="1">
+        <mxCell id="ukWqfXKOWdEXH3gKVpfa-32" value="I have bad habits that harm my productivity" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="3365" y="2210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ukWqfXKOWdEXH3gKVpfa-33" value="I&#39;m not planning breaks" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF6666;" vertex="1" parent="1">
+        <mxCell id="ukWqfXKOWdEXH3gKVpfa-33" value="I&#39;m not planning breaks" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="3680" y="1750" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ukWqfXKOWdEXH3gKVpfa-34" value="I need to plan time for rest" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;" vertex="1" parent="1">
+        <mxCell id="ukWqfXKOWdEXH3gKVpfa-34" value="I need to plan time for rest" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;" parent="1" vertex="1">
           <mxGeometry x="3825" y="1835" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ukWqfXKOWdEXH3gKVpfa-35" value="I treat planning like a strict chain of tacks I have to do no matter what" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF00FF;" vertex="1" parent="1">
+        <mxCell id="ukWqfXKOWdEXH3gKVpfa-35" value="I treat planning like a strict chain of tacks I have to do no matter what" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF00FF;" parent="1" vertex="1">
           <mxGeometry x="3960" y="1950" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ukWqfXKOWdEXH3gKVpfa-36" value="I don&#39;t know my everyday capacity" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF6666;" vertex="1" parent="1">
-          <mxGeometry x="4460" y="1232.02" width="120" height="60" as="geometry" />
+        <mxCell id="ukWqfXKOWdEXH3gKVpfa-36" value="I don&#39;t know my everyday capacity" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF6666;" parent="1" vertex="1">
+          <mxGeometry x="4717.5" y="1188.1699999999998" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ukWqfXKOWdEXH3gKVpfa-37" value="I can&#39;t plan my day effectively" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF6666;" vertex="1" parent="1">
-          <mxGeometry x="4460" y="1146" width="120" height="60" as="geometry" />
+        <mxCell id="ukWqfXKOWdEXH3gKVpfa-37" value="I can&#39;t plan my day effectively" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF6666;" parent="1" vertex="1">
+          <mxGeometry x="4477.5" y="1100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ukWqfXKOWdEXH3gKVpfa-38" value="I&#39;m trying to do my personal things first" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF6666;" vertex="1" parent="1">
-          <mxGeometry x="4350" y="1040" width="120" height="60" as="geometry" />
+        <mxCell id="ukWqfXKOWdEXH3gKVpfa-38" value="I&#39;m trying to do things that are important for my growth first" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF6666;" parent="1" vertex="1">
+          <mxGeometry x="4917.5" y="1120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ukWqfXKOWdEXH3gKVpfa-39" value="" style="endArrow=classic;html=1;exitX=0.567;exitY=0.017;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="ukWqfXKOWdEXH3gKVpfa-39" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" edge="1" source="ukWqfXKOWdEXH3gKVpfa-38">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4410.769999999999" y="1040" as="sourcePoint" />
-            <mxPoint x="4409.23" y="995" as="targetPoint" />
+            <mxPoint x="4978.269999999999" y="1040" as="sourcePoint" />
+            <mxPoint x="4976.73" y="995" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ukWqfXKOWdEXH3gKVpfa-40" value="" style="endArrow=classic;html=1;exitX=0.167;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ukWqfXKOWdEXH3gKVpfa-38" target="8cq2YMd5qG5OHkKQ4OR4-71">
+        <mxCell id="ukWqfXKOWdEXH3gKVpfa-40" value="" style="endArrow=classic;html=1;exitX=0.167;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="ukWqfXKOWdEXH3gKVpfa-38" target="8cq2YMd5qG5OHkKQ4OR4-71" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4380.539999999998" y="933.98" as="sourcePoint" />
-            <mxPoint x="4379.46" y="878.98" as="targetPoint" />
+            <mxPoint x="4948.039999999998" y="933.98" as="sourcePoint" />
+            <mxPoint x="4946.96" y="878.98" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ukWqfXKOWdEXH3gKVpfa-41" value="" style="endArrow=classic;html=1;exitX=0.567;exitY=0.017;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.361;entryY=0.986;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="8cq2YMd5qG5OHkKQ4OR4-73">
+        <mxCell id="ukWqfXKOWdEXH3gKVpfa-41" value="" style="endArrow=classic;html=1;exitX=0.567;exitY=0.017;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.361;entryY=0.986;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="8cq2YMd5qG5OHkKQ4OR4-73" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4431.079999999999" y="936" as="sourcePoint" />
-            <mxPoint x="4429.999999999999" y="881" as="targetPoint" />
+            <mxPoint x="4998.579999999999" y="936" as="sourcePoint" />
+            <mxPoint x="4997.499999999999" y="881" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ukWqfXKOWdEXH3gKVpfa-42" value="Every task I do requires me to learn the project better" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;" vertex="1" parent="1">
-          <mxGeometry x="4490" y="936" width="120" height="60" as="geometry" />
+        <mxCell id="ukWqfXKOWdEXH3gKVpfa-42" value="Every task I do requires me to learn the project better" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;" parent="1" vertex="1">
+          <mxGeometry x="5057.5" y="936" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ukWqfXKOWdEXH3gKVpfa-43" value="" style="endArrow=classic;html=1;exitX=0.567;exitY=0.017;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.558;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="ukWqfXKOWdEXH3gKVpfa-43" value="" style="endArrow=classic;html=1;exitX=0.567;exitY=0.017;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.558;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4540.539999999999" y="936" as="sourcePoint" />
-            <mxPoint x="4539.459999999999" y="881" as="targetPoint" />
+            <mxPoint x="5108.039999999999" y="936" as="sourcePoint" />
+            <mxPoint x="5106.959999999999" y="881" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ukWqfXKOWdEXH3gKVpfa-44" value="I don&#39;t have a motivation to do more at work" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF6666;" vertex="1" parent="1">
-          <mxGeometry x="4600" y="1140" width="120" height="60" as="geometry" />
+        <mxCell id="ukWqfXKOWdEXH3gKVpfa-44" value="I don&#39;t have a motivation to do more at work" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF6666;" parent="1" vertex="1">
+          <mxGeometry x="5057.5" y="1029.15" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z71BEQJfKX3GQm4i1d2E-1" value="I don&#39;t want to work more for my current salary" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="5062.5" y="1123.15" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z71BEQJfKX3GQm4i1d2E-2" value="I don&#39;t know if I get enough money if I work better" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="5117.5" y="1203.0800000000002" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z71BEQJfKX3GQm4i1d2E-4" value="It&#39;s easier to change my job to get a pay rice" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;" vertex="1" parent="1">
+          <mxGeometry x="4982.5" y="1203.0800000000002" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z71BEQJfKX3GQm4i1d2E-6" value="We don&#39;t have any system to promote official pay rice in the end of the year" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="5042.5" y="1286.93" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z71BEQJfKX3GQm4i1d2E-8" value="I wasn&#39;t be proactive and didn&#39;t ask about it by myself" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=center;strokeColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="5182.5" y="1286.93" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z71BEQJfKX3GQm4i1d2E-9" value="" style="endArrow=classic;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ukWqfXKOWdEXH3gKVpfa-38" target="ukWqfXKOWdEXH3gKVpfa-44">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4987.5" y="1130" as="sourcePoint" />
+            <mxPoint x="4986.73" y="1005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z71BEQJfKX3GQm4i1d2E-11" value="" style="endArrow=classic;html=1;exitX=0.459;exitY=-0.011;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="Z71BEQJfKX3GQm4i1d2E-1" target="ukWqfXKOWdEXH3gKVpfa-44">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4987.5" y="1130" as="sourcePoint" />
+            <mxPoint x="4986.73" y="1005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hz88uCx44lFG6S9V91Fr-7" value="I don&#39;t have enough time to do everything I need to do" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;align=center;verticalAlign=middle;strokeColor=#FF6666;" parent="1" vertex="1">
+          <mxGeometry x="4747.5" y="933.98" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z71BEQJfKX3GQm4i1d2E-12" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ukWqfXKOWdEXH3gKVpfa-37" target="Hz88uCx44lFG6S9V91Fr-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4947.540000000001" y="1130" as="sourcePoint" />
+            <mxPoint x="4847.5" y="890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z71BEQJfKX3GQm4i1d2E-14" value="" style="endArrow=classic;html=1;exitX=0.604;exitY=-0.039;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="npd6ka1OuBiYHZtQRwv0-23" target="ukWqfXKOWdEXH3gKVpfa-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4547.5" y="1110" as="sourcePoint" />
+            <mxPoint x="4817.5" y="1003.98" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z71BEQJfKX3GQm4i1d2E-15" value="" style="endArrow=classic;html=1;exitX=0.313;exitY=0.03;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="Hz88uCx44lFG6S9V91Fr-14" target="ukWqfXKOWdEXH3gKVpfa-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4452.480000000001" y="1195.8300000000004" as="sourcePoint" />
+            <mxPoint x="4517.5" y="1170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z71BEQJfKX3GQm4i1d2E-16" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.889;entryY=1.042;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ukWqfXKOWdEXH3gKVpfa-36" target="ukWqfXKOWdEXH3gKVpfa-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4627.560000000001" y="1199.9700000000003" as="sourcePoint" />
+            <mxPoint x="4547.5" y="1170" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
