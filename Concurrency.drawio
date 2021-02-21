@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2021-02-21T09:59:32.430Z" agent="5.0 (Windows)" etag="-UpwSCZ_cTrwvTIoPP1J" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-21T10:12:41.760Z" agent="5.0 (Windows)" etag="cpJFzu1JaL8ng7AOHpdU" version="14.1.8" type="github">
   <diagram id="dARw1I-tyCDDxnHPdXPz" name="Page-1">
-    <mxGraphModel dx="981" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="QMmgmNxQZZJa730i63d_-40" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF8000;align=left;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1100" width="370" height="181" as="geometry" />
+        </mxCell>
         <mxCell id="QMmgmNxQZZJa730i63d_-33" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF8000;align=left;" vertex="1" parent="1">
           <mxGeometry x="30" y="120" width="660" height="70" as="geometry" />
         </mxCell>
@@ -93,6 +96,21 @@
         </mxCell>
         <mxCell id="QMmgmNxQZZJa730i63d_-32" value="&lt;font style=&quot;font-size: 14px&quot;&gt;4.2. Ограничение одним экземпляром&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="825" width="270" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QMmgmNxQZZJa730i63d_-34" value="&lt;div&gt;&lt;b&gt;Непотокобезопасный &lt;/b&gt;объект можно использовать безопасно с о&lt;b&gt;граничением одним потоком&lt;/b&gt; или &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;блокировкой&lt;/b&gt;. &lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="860" width="580" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QMmgmNxQZZJa730i63d_-36" value="&lt;div&gt;&lt;b&gt;Инкапсуляция &lt;/b&gt;упрощает создание потокобезопасных классов, обеспечивая &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;ограничение одним экземпляром&lt;/b&gt; (instance confinement), которое часто называется &lt;b&gt;запиранием &lt;/b&gt;(confinement).&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;i&gt;Объект инкапсулируется в другой объект, к которому имеют доступ только некоторые &lt;br&gt;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;i&gt;известные ветви кода, а не вся программа&lt;/i&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="900" width="650" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QMmgmNxQZZJa730i63d_-37" value="&lt;div&gt;&lt;b&gt;Инкапсуляция данных в объекте ограничивает доступ к ним только методами объекта, что упрощает &lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;обеспечение постоянного доступа с удержанием замка.&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="970" width="610" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QMmgmNxQZZJa730i63d_-38" value="&lt;div align=&quot;left&quot;&gt;Ограниченные экземпляром объекты не должны выходить за пределы своей области действия. &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Объект может быть ограничен &lt;b&gt;экземпляром класса &lt;/b&gt;(например, приватным членом класса), &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;b&gt;лексической областью&lt;/b&gt; (например, локальной переменной) или &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;b&gt;потоком &lt;/b&gt;(например, объектом, который передается из метода в метод внутри одного потока). &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;b&gt;Публикуйте объекты осторожно.&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1010" width="570" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QMmgmNxQZZJa730i63d_-39" value="&lt;div align=&quot;left&quot;&gt;@ThreadSafe&lt;br&gt;public class PersonSet {&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; @GuardedBy(&quot;this&quot;)&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; private final Set&amp;lt;Person&amp;gt; mySet = new HashSet&amp;lt;Person&amp;gt;();&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; public synchronized void addPerson(Person p) {&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; mySet.add(p);&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; }&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; public synchronized boolean containsPerson(Person p) {&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; return mySet.contains(p);&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; }&lt;br&gt;}&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1110" width="360" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
