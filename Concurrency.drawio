@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-21T09:51:28.282Z" agent="5.0 (Windows)" etag="7VBUz6Ut5ylqPXsc-n8g" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-21T09:55:47.858Z" agent="5.0 (Windows)" etag="Zhe_nPZJZ29aVSBvxEk3" version="14.1.8" type="github">
   <diagram id="dARw1I-tyCDDxnHPdXPz" name="Page-1">
-    <mxGraphModel dx="569" dy="316" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2370" dy="1318" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -76,8 +76,14 @@
             <mxPoint x="310" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QMmgmNxQZZJa730i63d_-28" value="Объект владеет состоянием которое инкапсулирует" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="700" width="310" height="20" as="geometry" />
+        <mxCell id="QMmgmNxQZZJa730i63d_-28" value="&lt;div align=&quot;left&quot;&gt;Объект владеет состоянием которое инкапсулирует и отвечает за управление многопоточным доступом.&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="700" width="610" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QMmgmNxQZZJa730i63d_-29" value="&lt;div&gt;Объект не владеет состоянием объектов передаваемых в методы если только он не предназначен для&lt;/div&gt;&lt;div&gt;передачи права владения.&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="730" width="610" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QMmgmNxQZZJa730i63d_-30" value="&lt;div&gt;Коллекционные классы часто демонстрируют форму раздельного владения: они владеют состоянием &lt;br&gt;&lt;/div&gt;&lt;div&gt;коллекции, но хранящиеся у себя объекты передают клиентскому коду&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="770" width="600" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
