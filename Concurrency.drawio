@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-21T13:09:16.819Z" agent="5.0 (Windows)" etag="--1LhRXAJzgtV1KcqYGM" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-21T13:09:44.899Z" agent="5.0 (Windows)" etag="vo7y1Q7PI0Dw2PVAKvyj" version="14.1.8" type="github">
   <diagram id="dARw1I-tyCDDxnHPdXPz" name="Page-1">
-    <mxGraphModel dx="1422" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="10157" dy="5650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -253,17 +253,14 @@
         <mxCell id="QMmgmNxQZZJa730i63d_-91" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;Документируйте гарантии потокобезопасности класса&lt;/b&gt; для клиентов и политику синхронизации — &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;для сопроводителей.&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Каждое применение механизмов &lt;b&gt;synchronized&lt;/b&gt;, &lt;b&gt;volatile &lt;/b&gt;или любого потокобезопасного класса отражает &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;b&gt;политику синхронизации&lt;/b&gt;. Как проектный элемент программы она должна быть задокументирована, &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;причем лучше всего — на этапе разработки.&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="3470" width="610" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="QMmgmNxQZZJa730i63d_-92" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="30" y="3580" width="660" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="QMmgmNxQZZJa730i63d_-93" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="QMmgmNxQZZJa730i63d_-92">
-          <mxGeometry width="660" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="QMmgmNxQZZJa730i63d_-94" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Summary&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="QMmgmNxQZZJa730i63d_-92">
-          <mxGeometry x="10" y="5" width="80" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="QMmgmNxQZZJa730i63d_-95" value="Проектирование потокобезопасного класса содержит следующие шаги: &lt;br&gt;&lt;b&gt;1. Найти переменные формирующие состояние объекта. &lt;br&gt;2. Найти инварианты и постусловия которые могут повлиять на состояние объекта. &lt;br&gt;3. Создать политику для управления конкурентным доступом к состоянию объекта.&lt;/b&gt; &lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Ограниченные одним экземпляром классы&lt;/b&gt; (singleton) и &lt;b&gt;инкапсуляция &lt;/b&gt;значительно упрощают работу с &lt;/div&gt;&lt;div&gt;многопоточными программами.&lt;/div&gt;&lt;div&gt;&lt;b&gt;Монитор &lt;/b&gt;может быть полезен для работы с многопоточностью, но это очень базовый инструмент и не &lt;br&gt;&lt;/div&gt;&lt;div&gt;самый продвинутый. &lt;/div&gt;&lt;br&gt;&lt;div&gt;Мы можем &lt;b&gt;делегировать &lt;/b&gt;обеспечение потокобезопасности &lt;b&gt;потокобезопасным объектам&lt;/b&gt;.&lt;/div&gt;&lt;div&gt;Их может быть даже несколько. &lt;/div&gt;&lt;br&gt;&lt;div&gt;Мы можем &lt;b&gt;расширять потокобезопасные классы&lt;/b&gt; добавляя в них новый функционал и он будет &lt;br&gt;&lt;/div&gt;&lt;div&gt;потокобезопасным, но это влечет за собой &lt;b&gt;уязвимости&lt;/b&gt;. Также как и &lt;b&gt;внешняя блокировка&lt;/b&gt;. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Компоновка &lt;/b&gt;гарантированно обеспечит потокобезопасность но вероятно наложит &lt;b&gt;ограничения &lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;на производительность&lt;/b&gt;. &lt;/div&gt;&lt;br&gt;&lt;div&gt;Все эти интересные подходы нужно &lt;b&gt;документировать &lt;/b&gt;иначе малейшие изменения могут создать &lt;br&gt;&lt;/div&gt;&lt;div&gt;трудноуловимые баги.&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="3630" width="610" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="QMmgmNxQZZJa730i63d_-93" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="30" y="3580" width="660" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QMmgmNxQZZJa730i63d_-94" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Summary&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="3585" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
