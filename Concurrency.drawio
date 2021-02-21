@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-21T10:12:41.760Z" agent="5.0 (Windows)" etag="cpJFzu1JaL8ng7AOHpdU" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-21T10:15:29.142Z" agent="5.0 (Windows)" etag="KIvLK1gdMFVsHigJTX0t" version="14.1.8" type="github">
   <diagram id="dARw1I-tyCDDxnHPdXPz" name="Page-1">
     <mxGraphModel dx="1185" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -111,6 +111,9 @@
         </mxCell>
         <mxCell id="QMmgmNxQZZJa730i63d_-39" value="&lt;div align=&quot;left&quot;&gt;@ThreadSafe&lt;br&gt;public class PersonSet {&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; @GuardedBy(&quot;this&quot;)&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; private final Set&amp;lt;Person&amp;gt; mySet = new HashSet&amp;lt;Person&amp;gt;();&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; public synchronized void addPerson(Person p) {&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; mySet.add(p);&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; }&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; public synchronized boolean containsPerson(Person p) {&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; return mySet.contains(p);&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; }&lt;br&gt;}&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="1110" width="360" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="QMmgmNxQZZJa730i63d_-41" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;ArrayList &lt;/b&gt;и &lt;b&gt;HashMap&lt;/b&gt;, не-потокобезопасны, но их можно использовать в многопоточных средах. &lt;b&gt;Оберточные &lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;b&gt;фабричные методы&lt;/b&gt; (Collections.synchronizedList и др.) с помощью паттерна &lt;b&gt;декоратора&lt;/b&gt;обертывают коллекции &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;синхронизированными объектами, заставляя методы интерфейса пересылать запросы базовым коллекционным &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;объектам&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1295" width="670" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
