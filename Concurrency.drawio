@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2021-02-21T12:43:33.200Z" agent="5.0 (Windows)" etag="spqhgPrwapvR9_njuSMi" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-21T12:50:53.578Z" agent="5.0 (Windows)" etag="vPxIz4R2_vEn8Wsxm51h" version="14.1.8" type="github">
   <diagram id="dARw1I-tyCDDxnHPdXPz" name="Page-1">
     <mxGraphModel dx="981" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="QMmgmNxQZZJa730i63d_-83" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF8000;align=left;" vertex="1" parent="1">
+          <mxGeometry x="40" y="3200" width="420" height="210" as="geometry" />
+        </mxCell>
         <mxCell id="QMmgmNxQZZJa730i63d_-80" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF8000;align=left;" vertex="1" parent="1">
           <mxGeometry x="40" y="2820" width="330" height="220" as="geometry" />
         </mxCell>
@@ -219,6 +222,24 @@
         </mxCell>
         <mxCell id="QMmgmNxQZZJa730i63d_-79" value="&lt;div align=&quot;left&quot;&gt;@ThreadSafe&lt;br&gt;public class ListHelper&amp;lt;E&amp;gt; {&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; public List&amp;lt;E&amp;gt; list =&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Collections.synchronizedList(new ArrayList&amp;lt;E&amp;gt;());&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; ...&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; public boolean putIfAbsent(E x) {&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; synchronized (list) {&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; boolean absent = !list.contains(x);&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; if (absent)&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; list.add(x);&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; return absent;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; }&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; }&lt;br&gt;}&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="2830" width="320" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="QMmgmNxQZZJa730i63d_-81" value="&lt;div align=&quot;left&quot;&gt;В то время как расширение класса&lt;b&gt; нарушает инкапсуляцию реализации&lt;/b&gt;, блокировка на стороне клиента &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;b&gt;нарушает инкапсуляцию политики синхронизации&lt;/b&gt;.&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="3050" width="620" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QMmgmNxQZZJa730i63d_-82" value="&lt;div align=&quot;left&quot;&gt;@ThreadSafe&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;public class ImprovedList&amp;lt;T&amp;gt; implements List&amp;lt;T&amp;gt; {&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; private final List&amp;lt;T&amp;gt; list;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; public ImprovedList(List&amp;lt;T&amp;gt; list) { this.list = list; }&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; public synchronized boolean putIfAbsent(T x) {&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; boolean contains = list.contains(x);&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; if (contains)&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; list.add(x);&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; return !contains;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; }&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; public synchronized void clear() { list.clear(); }&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; // ... делегировать остальные списковые методы схожим образом&lt;br&gt;}&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="3208" width="400" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="QMmgmNxQZZJa730i63d_-84" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="30" y="3100" width="660" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QMmgmNxQZZJa730i63d_-85" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="QMmgmNxQZZJa730i63d_-84">
+          <mxGeometry width="660" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QMmgmNxQZZJa730i63d_-86" value="&lt;font style=&quot;font-size: 14px&quot;&gt;4.4.2. Компоновка&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="QMmgmNxQZZJa730i63d_-84">
+          <mxGeometry x="10" y="5" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QMmgmNxQZZJa730i63d_-87" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;Добавить атомарную операцию&lt;/b&gt; в существующий класс поможет &lt;b&gt;компоновка &lt;/b&gt;(composition). Класс &lt;i&gt;ImprovedList &lt;/i&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;реализует списковые операции, передавая их в базовый экземпляр &lt;i&gt;List &lt;/i&gt;и добавляя атомарный метод &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;i&gt;putIfAbsent&lt;/i&gt;, через который клиент должен обращаться к базовому списку.&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="3140" width="650" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
