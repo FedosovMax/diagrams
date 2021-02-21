@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-21T12:53:17.472Z" agent="5.0 (Windows)" etag="SRCMO193cGkhAW-lBfwf" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-21T13:09:16.819Z" agent="5.0 (Windows)" etag="--1LhRXAJzgtV1KcqYGM" version="14.1.8" type="github">
   <diagram id="dARw1I-tyCDDxnHPdXPz" name="Page-1">
-    <mxGraphModel dx="1185" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -61,8 +61,8 @@
         <mxCell id="QMmgmNxQZZJa730i63d_-8" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="30" y="75" width="660" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QMmgmNxQZZJa730i63d_-10" value="&lt;font style=&quot;font-size: 14px&quot;&gt;4.1. Проектирование потокобезопасного класса&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="80" width="330" height="20" as="geometry" />
+        <mxCell id="QMmgmNxQZZJa730i63d_-10" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;4.1. Проектирование потокобезопасного класса&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="360" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QMmgmNxQZZJa730i63d_-11" value="&lt;font style=&quot;font-size: 14px&quot;&gt;4.1.1. Сбор требований к синхронизации&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="285" width="290" height="20" as="geometry" />
@@ -107,7 +107,7 @@
           <mxGeometry x="40" y="770" width="620" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QMmgmNxQZZJa730i63d_-34" value="&lt;div&gt;&lt;b&gt;Непотокобезопасный &lt;/b&gt;объект можно использовать безопасно с о&lt;b&gt;граничением одним потоком&lt;/b&gt; или &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;блокировкой&lt;/b&gt;. &lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="860" width="580" height="30" as="geometry" />
+          <mxGeometry x="40" y="867" width="580" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QMmgmNxQZZJa730i63d_-36" value="&lt;div&gt;&lt;b&gt;Инкапсуляция &lt;/b&gt;упрощает создание потокобезопасных классов, обеспечивая &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;ограничение одним экземпляром&lt;/b&gt; (instance confinement), которое часто называется &lt;b&gt;запиранием &lt;/b&gt;(confinement).&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;i&gt;Объект инкапсулируется в другой объект, к которому имеют доступ только некоторые &lt;br&gt;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;i&gt;известные ветви кода, а не вся программа&lt;/i&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="900" width="650" height="60" as="geometry" />
@@ -148,8 +148,8 @@
         <mxCell id="QMmgmNxQZZJa730i63d_-54" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="QMmgmNxQZZJa730i63d_-53">
           <mxGeometry width="660" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QMmgmNxQZZJa730i63d_-55" value="&lt;font style=&quot;font-size: 14px&quot;&gt;4.2. Ограничение одним экземпляром&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="QMmgmNxQZZJa730i63d_-53">
-          <mxGeometry x="10" y="5" width="270" height="20" as="geometry" />
+        <mxCell id="QMmgmNxQZZJa730i63d_-55" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;4.2. Ограничение одним экземпляром&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="QMmgmNxQZZJa730i63d_-53">
+          <mxGeometry x="10" y="5" width="290" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QMmgmNxQZZJa730i63d_-56" value="&lt;div align=&quot;left&quot;&gt;@ThreadSafe&lt;br&gt;public class CountingFactorizer implements Servlet {&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; private final AtomicLong count = new AtomicLong(0);&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; public long getCount() { return count.get(); }&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; public void service(ServletRequest req, ServletResponse resp) {&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; BigInteger i = extractFromRequest(req);&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; BigInteger[] factors = factor(i);&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; count.incrementAndGet();&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; encodeIntoResponse(resp, factors);&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; }&lt;br&gt;}&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="1835" width="380" height="170" as="geometry" />
@@ -178,8 +178,8 @@
         <mxCell id="QMmgmNxQZZJa730i63d_-31" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="QMmgmNxQZZJa730i63d_-66">
           <mxGeometry width="660" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QMmgmNxQZZJa730i63d_-32" value="&lt;font style=&quot;font-size: 14px&quot;&gt;4.3. Делегирование потокобезопасности&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="QMmgmNxQZZJa730i63d_-66">
-          <mxGeometry x="10" y="5" width="280" height="20" as="geometry" />
+        <mxCell id="QMmgmNxQZZJa730i63d_-32" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;4.3. Делегирование потокобезопасности&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="QMmgmNxQZZJa730i63d_-66">
+          <mxGeometry x="10" y="5" width="310" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QMmgmNxQZZJa730i63d_-67" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="30" y="2400" width="660" height="30" as="geometry" />
@@ -187,8 +187,8 @@
         <mxCell id="QMmgmNxQZZJa730i63d_-68" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="QMmgmNxQZZJa730i63d_-67">
           <mxGeometry width="660" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QMmgmNxQZZJa730i63d_-69" value="&lt;font style=&quot;font-size: 14px&quot;&gt;4.4. Добавление функциональности в существующие потокобезопасные классы&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="QMmgmNxQZZJa730i63d_-67">
-          <mxGeometry x="10" y="5" width="550" height="20" as="geometry" />
+        <mxCell id="QMmgmNxQZZJa730i63d_-69" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;4.4. Добавление функциональности в существующие потокобезопасные классы&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="QMmgmNxQZZJa730i63d_-67">
+          <mxGeometry x="10" y="5" width="590" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QMmgmNxQZZJa730i63d_-70" value="&lt;div align=&quot;left&quot;&gt;Мы можем &lt;b&gt;расширять существующие потокобезопасные классы&lt;/b&gt;. &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Но это определенная зависимость от родителя. если его замок измениться, но у наследника будет &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;b&gt;неправильный замок&lt;/b&gt;. &lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="2440" width="580" height="50" as="geometry" />
@@ -247,11 +247,23 @@
         <mxCell id="QMmgmNxQZZJa730i63d_-89" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="QMmgmNxQZZJa730i63d_-88">
           <mxGeometry width="660" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QMmgmNxQZZJa730i63d_-90" value="&lt;font style=&quot;font-size: 14px&quot;&gt;4.5. Документирование политик синхронизации&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="QMmgmNxQZZJa730i63d_-88">
-          <mxGeometry x="10" y="5" width="330" height="20" as="geometry" />
+        <mxCell id="QMmgmNxQZZJa730i63d_-90" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;4.5. Документирование политик синхронизации&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="QMmgmNxQZZJa730i63d_-88">
+          <mxGeometry x="10" y="5" width="360" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QMmgmNxQZZJa730i63d_-91" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;Документируйте гарантии потокобезопасности класса&lt;/b&gt; для клиентов и политику синхронизации — &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;для сопроводителей.&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Каждое применение механизмов &lt;b&gt;synchronized&lt;/b&gt;, &lt;b&gt;volatile &lt;/b&gt;или любого потокобезопасного класса отражает &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;b&gt;политику синхронизации&lt;/b&gt;. Как проектный элемент программы она должна быть задокументирована, &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;причем лучше всего — на этапе разработки.&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="3470" width="610" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QMmgmNxQZZJa730i63d_-92" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="30" y="3580" width="660" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QMmgmNxQZZJa730i63d_-93" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="QMmgmNxQZZJa730i63d_-92">
+          <mxGeometry width="660" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QMmgmNxQZZJa730i63d_-94" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Summary&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="QMmgmNxQZZJa730i63d_-92">
+          <mxGeometry x="10" y="5" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QMmgmNxQZZJa730i63d_-95" value="Проектирование потокобезопасного класса содержит следующие шаги: &lt;br&gt;&lt;b&gt;1. Найти переменные формирующие состояние объекта. &lt;br&gt;2. Найти инварианты и постусловия которые могут повлиять на состояние объекта. &lt;br&gt;3. Создать политику для управления конкурентным доступом к состоянию объекта.&lt;/b&gt; &lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Ограниченные одним экземпляром классы&lt;/b&gt; (singleton) и &lt;b&gt;инкапсуляция &lt;/b&gt;значительно упрощают работу с &lt;/div&gt;&lt;div&gt;многопоточными программами.&lt;/div&gt;&lt;div&gt;&lt;b&gt;Монитор &lt;/b&gt;может быть полезен для работы с многопоточностью, но это очень базовый инструмент и не &lt;br&gt;&lt;/div&gt;&lt;div&gt;самый продвинутый. &lt;/div&gt;&lt;br&gt;&lt;div&gt;Мы можем &lt;b&gt;делегировать &lt;/b&gt;обеспечение потокобезопасности &lt;b&gt;потокобезопасным объектам&lt;/b&gt;.&lt;/div&gt;&lt;div&gt;Их может быть даже несколько. &lt;/div&gt;&lt;br&gt;&lt;div&gt;Мы можем &lt;b&gt;расширять потокобезопасные классы&lt;/b&gt; добавляя в них новый функционал и он будет &lt;br&gt;&lt;/div&gt;&lt;div&gt;потокобезопасным, но это влечет за собой &lt;b&gt;уязвимости&lt;/b&gt;. Также как и &lt;b&gt;внешняя блокировка&lt;/b&gt;. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Компоновка &lt;/b&gt;гарантированно обеспечит потокобезопасность но вероятно наложит &lt;b&gt;ограничения &lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;на производительность&lt;/b&gt;. &lt;/div&gt;&lt;br&gt;&lt;div&gt;Все эти интересные подходы нужно &lt;b&gt;документировать &lt;/b&gt;иначе малейшие изменения могут создать &lt;br&gt;&lt;/div&gt;&lt;div&gt;трудноуловимые баги.&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="3630" width="610" height="290" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
