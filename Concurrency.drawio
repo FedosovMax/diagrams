@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2021-02-21T10:24:27.809Z" agent="5.0 (Windows)" etag="E4cIc3Qhjmqm6MZwBn5H" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-21T10:37:07.762Z" agent="5.0 (Windows)" etag="KYIdb7AEJTlzMIJbZ0Zq" version="14.1.8" type="github">
   <diagram id="dARw1I-tyCDDxnHPdXPz" name="Page-1">
     <mxGraphModel dx="1185" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="QMmgmNxQZZJa730i63d_-57" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF8000;align=left;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1824" width="390" height="190" as="geometry" />
+        </mxCell>
         <mxCell id="QMmgmNxQZZJa730i63d_-49" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF8000;align=left;" vertex="1" parent="1">
           <mxGeometry x="40" y="1565" width="360" height="150" as="geometry" />
         </mxCell>
@@ -76,12 +79,6 @@
         <mxCell id="QMmgmNxQZZJa730i63d_-23" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;wait()&lt;/b&gt; и &lt;b&gt;notify()&lt;/b&gt; сложны в применении по этому вместо них используются библиотечные классы, такие как &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;b&gt;блокирующие очереди&lt;/b&gt; или &lt;b&gt;семафоры&lt;/b&gt;. &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Блокирующие библиотечные классы (&lt;b&gt;BlockingQueue&lt;/b&gt;, &lt;b&gt;Semaphore &lt;/b&gt;и другие синхронизаторы) &lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="580" width="620" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="QMmgmNxQZZJa730i63d_-24" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="30" y="1410" width="660" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="QMmgmNxQZZJa730i63d_-25" value="&lt;font style=&quot;font-size: 14px&quot;&gt;4.2.1. Мониторный шаблон Java&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="1415" width="230" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="QMmgmNxQZZJa730i63d_-27" value="" style="endArrow=none;html=1;fillColor=#ffe6cc;strokeColor=#FF8000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="309.66" y="570" as="sourcePoint" />
@@ -96,12 +93,6 @@
         </mxCell>
         <mxCell id="QMmgmNxQZZJa730i63d_-30" value="&lt;div&gt;&lt;b&gt;Коллекционные классы часто демонстрируют форму раздельного владения&lt;/b&gt;: они владеют состоянием &lt;br&gt;&lt;/div&gt;&lt;div&gt;коллекции, но хранящиеся у себя объекты передают клиентскому коду&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="770" width="620" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="QMmgmNxQZZJa730i63d_-31" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="30" y="820" width="660" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="QMmgmNxQZZJa730i63d_-32" value="&lt;font style=&quot;font-size: 14px&quot;&gt;4.2. Ограничение одним экземпляром&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="825" width="270" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QMmgmNxQZZJa730i63d_-34" value="&lt;div&gt;&lt;b&gt;Непотокобезопасный &lt;/b&gt;объект можно использовать безопасно с о&lt;b&gt;граничением одним потоком&lt;/b&gt; или &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;блокировкой&lt;/b&gt;. &lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="860" width="580" height="30" as="geometry" />
@@ -138,6 +129,42 @@
         </mxCell>
         <mxCell id="QMmgmNxQZZJa730i63d_-48" value="&lt;div align=&quot;left&quot;&gt;public class PrivateLock {&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; private final Object myLock = new Object();&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; @GuardedBy(&quot;myLock&quot;) Widget widget;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; void someMethod() {&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; synchronized(myLock) {&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; // Обратиться и изменить состояние виджета&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; }&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; }&lt;br&gt;}&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="1575" width="320" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="QMmgmNxQZZJa730i63d_-53" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="40" y="830" width="660" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QMmgmNxQZZJa730i63d_-54" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="QMmgmNxQZZJa730i63d_-53">
+          <mxGeometry width="660" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QMmgmNxQZZJa730i63d_-55" value="&lt;font style=&quot;font-size: 14px&quot;&gt;4.2. Ограничение одним экземпляром&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="QMmgmNxQZZJa730i63d_-53">
+          <mxGeometry x="10" y="5" width="270" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QMmgmNxQZZJa730i63d_-31" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1739" width="660" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QMmgmNxQZZJa730i63d_-32" value="&lt;font style=&quot;font-size: 14px&quot;&gt;4.3. Делегирование потокобезопасности&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1744" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QMmgmNxQZZJa730i63d_-56" value="&lt;div align=&quot;left&quot;&gt;@ThreadSafe&lt;br&gt;public class CountingFactorizer implements Servlet {&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; private final AtomicLong count = new AtomicLong(0);&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; public long getCount() { return count.get(); }&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; public void service(ServletRequest req, ServletResponse resp) {&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; BigInteger i = extractFromRequest(req);&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; BigInteger[] factors = factor(i);&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; count.incrementAndGet();&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; encodeIntoResponse(resp, factors);&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; }&lt;br&gt;}&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1835" width="380" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="QMmgmNxQZZJa730i63d_-58" value="&lt;div align=&quot;left&quot;&gt;Мы добавили &lt;b&gt;AtomicLong &lt;/b&gt;в объект, который не всегда поддерживал внутреннее состояние, и результирующий &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;b&gt;композитный &lt;/b&gt;объект стал потокобезопасным.&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1785" width="640" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QMmgmNxQZZJa730i63d_-59" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="30" y="1410" width="660" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QMmgmNxQZZJa730i63d_-24" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="QMmgmNxQZZJa730i63d_-59">
+          <mxGeometry width="660" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QMmgmNxQZZJa730i63d_-25" value="&lt;font style=&quot;font-size: 14px&quot;&gt;4.2.1. Мониторный шаблон Java&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="QMmgmNxQZZJa730i63d_-59">
+          <mxGeometry x="10" y="5" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QMmgmNxQZZJa730i63d_-61" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="30" y="2040" width="660" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QMmgmNxQZZJa730i63d_-62" value="&lt;font style=&quot;font-size: 14px&quot;&gt;4.3.2. Независимые переменные состояния&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="2045" width="310" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
