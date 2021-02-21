@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2021-02-21T10:37:07.762Z" agent="5.0 (Windows)" etag="KYIdb7AEJTlzMIJbZ0Zq" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-21T10:42:43.541Z" agent="5.0 (Windows)" etag="TYSd3sITY_JXtmtHdq9W" version="14.1.8" type="github">
   <diagram id="dARw1I-tyCDDxnHPdXPz" name="Page-1">
     <mxGraphModel dx="1185" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="QMmgmNxQZZJa730i63d_-65" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF8000;align=left;" vertex="1" parent="1">
+          <mxGeometry x="35" y="2130" width="585" height="250" as="geometry" />
+        </mxCell>
         <mxCell id="QMmgmNxQZZJa730i63d_-57" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF8000;align=left;" vertex="1" parent="1">
           <mxGeometry x="40" y="1824" width="390" height="190" as="geometry" />
         </mxCell>
@@ -165,6 +168,12 @@
         </mxCell>
         <mxCell id="QMmgmNxQZZJa730i63d_-62" value="&lt;font style=&quot;font-size: 14px&quot;&gt;4.3.2. Независимые переменные состояния&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="2045" width="310" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QMmgmNxQZZJa730i63d_-63" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;Делегировать &lt;/b&gt;потокобезопасность более чем одной базовой переменной состояния возможно, если эти &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;переменные &lt;b&gt;независимы&lt;/b&gt;, то есть композитный класс не накладывает инварианты с их участием.&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="2085" width="620" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QMmgmNxQZZJa730i63d_-64" value="&lt;div align=&quot;left&quot;&gt;public class VisualComponent {&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; private final List&amp;lt;KeyListener&amp;gt; keyListeners = new CopyOnWriteArrayList&amp;lt;KeyListener&amp;gt;();&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; private final List&amp;lt;MouseListener&amp;gt; mouseListeners = new CopyOnWriteArrayList&amp;lt;MouseListener&amp;gt;();&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; public void addKeyListener(KeyListener listener) {&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; keyListeners.add(listener);&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; }&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; public void addMouseListener(MouseListener listener) {&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; mouseListeners.add(listener);&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; }&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; public void removeKeyListener(KeyListener listener) {&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; keyListeners.remove(listener);&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; }&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; public void removeMouseListener(MouseListener listener) {&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; mouseListeners.remove(listener);&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; }&lt;br&gt;}&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="2140" width="570" height="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
