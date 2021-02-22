@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-22T06:50:10.041Z" agent="5.0 (Windows)" etag="zncS5rVWHrKCVY1JTnIY" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-22T15:50:55.715Z" agent="5.0 (Windows)" etag="i3npq44rPsUTl9nQ0QI3" version="14.2.9" type="github">
   <diagram id="dARw1I-tyCDDxnHPdXPz" name="Page-1">
-    <mxGraphModel dx="1422" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="981" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -335,7 +335,70 @@
           <mxGeometry x="10" y="5" width="190" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QMmgmNxQZZJa730i63d_-121" value="&lt;div align=&quot;left&quot;&gt;Методы containsall, removeAll и retainAll выполняют скрытый обход коллекций. Они также вызывают &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;ConcurrentModificationExceptionпо этому &lt;br&gt; &lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="890" y="745" width="580" height="30" as="geometry" />
+          <mxGeometry x="890" y="755" width="580" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZVaQMv6SIjStNIvOHQu-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="880" y="800" width="660" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZVaQMv6SIjStNIvOHQu-2" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="8ZVaQMv6SIjStNIvOHQu-1">
+          <mxGeometry width="660" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZVaQMv6SIjStNIvOHQu-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;5.2. Конкурентные коллекции &lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="8ZVaQMv6SIjStNIvOHQu-1">
+          <mxGeometry x="10" y="5" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZVaQMv6SIjStNIvOHQu-4" value="&lt;div align=&quot;left&quot;&gt;Версия &lt;b&gt;Java 5.0&lt;/b&gt;. предлагает хеш-массив &lt;b&gt;ConcurrentHashMap &lt;/b&gt;вместо синхронизированных хешированных &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;реализаций &lt;b&gt;Map&lt;/b&gt;, и &lt;b&gt;CopyOnWriteArrayList &lt;/b&gt;вместо синхронизированных реализаций &lt;b&gt;List &lt;/b&gt;для &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;случаев, где обход является доминирующей операцией.&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="850" width="620" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZVaQMv6SIjStNIvOHQu-5" value="&lt;div align=&quot;left&quot;&gt;Интерфейс &lt;b&gt;ConcurrentMap &lt;/b&gt;поддерживает составные действия &quot;добавить если отсутствует&quot;, замена и условное &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;даление.&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="910" width="650" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZVaQMv6SIjStNIvOHQu-6" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;Замена синхронизированных коллекций конкурентными коллекциями может предложить значительные &lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;b&gt;улучшения масштабируемости при небольшом риске.&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="960" width="630" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZVaQMv6SIjStNIvOHQu-8" value="Queue" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="1010" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZVaQMv6SIjStNIvOHQu-9" value="BlockingQueue" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="1100" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZVaQMv6SIjStNIvOHQu-10" value="&lt;div&gt;ConcurrentLinkedQueue&lt;/div&gt;&lt;div&gt;FIFO&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="1100" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZVaQMv6SIjStNIvOHQu-11" value="&lt;div&gt;PriorityQueue&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="1100" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZVaQMv6SIjStNIvOHQu-12" value="LinkedList" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="1100" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZVaQMv6SIjStNIvOHQu-13" value="" style="endArrow=classic;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8ZVaQMv6SIjStNIvOHQu-8" target="8ZVaQMv6SIjStNIvOHQu-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1010" y="1080" as="sourcePoint" />
+            <mxPoint x="1060" y="1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8ZVaQMv6SIjStNIvOHQu-14" value="" style="endArrow=classic;html=1;exitX=0.47;exitY=1.053;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="8ZVaQMv6SIjStNIvOHQu-8" target="8ZVaQMv6SIjStNIvOHQu-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1102.5" y="1050" as="sourcePoint" />
+            <mxPoint x="975" y="1110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8ZVaQMv6SIjStNIvOHQu-15" value="" style="endArrow=classic;html=1;exitX=0.597;exitY=1.03;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="8ZVaQMv6SIjStNIvOHQu-8" target="8ZVaQMv6SIjStNIvOHQu-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1131.1" y="1051.59" as="sourcePoint" />
+            <mxPoint x="1135" y="1110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8ZVaQMv6SIjStNIvOHQu-16" value="" style="endArrow=classic;html=1;exitX=0.868;exitY=1.03;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.366;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8ZVaQMv6SIjStNIvOHQu-8" target="8ZVaQMv6SIjStNIvOHQu-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1147.6100000000001" y="1050.8999999999999" as="sourcePoint" />
+            <mxPoint x="1265.163967611336" y="1110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8ZVaQMv6SIjStNIvOHQu-17" value="&lt;div align=&quot;left&quot;&gt;BlockingQueue добавляет блокирующие операции вставки и извлечения. Блокирующие очереди полезны &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;в паттернах проектирования &quot;Производитель-потребитель&quot;. &lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="1150" width="620" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZVaQMv6SIjStNIvOHQu-18" value="&lt;div&gt;&lt;b&gt;Java 6&lt;/b&gt;. &lt;b&gt;ConcurrentSkipListMap &lt;/b&gt;и &lt;b&gt;ConcurrentSkipListSet &lt;/b&gt;конкурентные версии &lt;b&gt;SortedMap &lt;/b&gt;и &lt;b&gt;SortedSet&lt;/b&gt; (&lt;i&gt;TreeMap &lt;/i&gt;и&lt;/div&gt;&lt;div&gt;&lt;i&gt;Treeset&lt;/i&gt;, обернутых в &lt;i&gt;synchronizedMap&lt;/i&gt;)&lt;br&gt; &lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="1200" width="660" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
