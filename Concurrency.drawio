@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-24T08:59:54.627Z" agent="5.0 (Windows)" etag="6RXBI1nLlsP4qr7BLDre" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-24T15:36:34.743Z" agent="5.0 (Windows)" etag="QJo6tsLsvHkxV-woHand" version="14.2.9" type="github">
   <diagram id="dARw1I-tyCDDxnHPdXPz" name="Page-1">
-    <mxGraphModel dx="3519" dy="2913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5076" dy="3776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -463,11 +463,11 @@
         <mxCell id="8ZVaQMv6SIjStNIvOHQu-40" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;5.3. Блокирующие очереди и паттерн «производитель-потребитель» &lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="8ZVaQMv6SIjStNIvOHQu-38" vertex="1">
           <mxGeometry x="10" y="5" width="510" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="8ZVaQMv6SIjStNIvOHQu-42" value="&lt;font style=&quot;font-size: 14px&quot; color=&quot;#CC0000&quot;&gt;&lt;b&gt;REST&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="-1895" y="-1530" width="50" height="20" as="geometry" />
+        <mxCell id="8ZVaQMv6SIjStNIvOHQu-42" value="&lt;font style=&quot;font-size: 72px&quot; color=&quot;#CC0000&quot;&gt;&lt;b&gt;REST&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=85;" parent="1" vertex="1">
+          <mxGeometry x="-1965" y="-1570" width="210" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8ZVaQMv6SIjStNIvOHQu-43" value="&lt;p&gt;&lt;font color=&quot;#CC0000&quot;&gt;RE&lt;/font&gt;presentational &lt;font color=&quot;#CC0000&quot;&gt;S&lt;/font&gt;tate &lt;font color=&quot;#CC0000&quot;&gt;T&lt;/font&gt;ransfer&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="-1950" y="-1520" width="180" height="40" as="geometry" />
+        <mxCell id="8ZVaQMv6SIjStNIvOHQu-43" value="&lt;p&gt;&lt;font style=&quot;font-size: 11px&quot; color=&quot;#CC0000&quot;&gt;RE&lt;/font&gt;&lt;font size=&quot;3&quot;&gt;presentational &lt;font color=&quot;#CC0000&quot;&gt;S&lt;/font&gt;tate &lt;font color=&quot;#CC0000&quot;&gt;T&lt;/font&gt;ransfer&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="-1980" y="-1525" width="240" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8ZVaQMv6SIjStNIvOHQu-44" value="Это &lt;b&gt;архитектура&lt;/b&gt;, т.е. &lt;b&gt;принципы построения распределенных гипермедиа систем&lt;/b&gt;,&lt;br&gt;того что другими словами называется &lt;b&gt;World Wide Web&lt;/b&gt;, включая универсальные&lt;br&gt;&lt;b&gt;способы обработки и передачи состояний ресурсов по HTTP&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="-2067" y="-1480" width="500" height="50" as="geometry" />
@@ -476,10 +476,10 @@
           <mxGeometry x="-1990" y="-1420" width="260" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8ZVaQMv6SIjStNIvOHQu-47" value="SOAP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="-1550" y="-1560" width="50" height="20" as="geometry" />
+          <mxGeometry x="-1387" y="-1520" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8ZVaQMv6SIjStNIvOHQu-48" value="WSDL" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="-1450" y="-1560" width="50" height="20" as="geometry" />
+          <mxGeometry x="-1100" y="-1520" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8ZVaQMv6SIjStNIvOHQu-49" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;Что нам дает REST подход:&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;b&gt;&lt;/b&gt;&lt;br&gt;- &lt;b&gt;Масштабируемость &lt;/b&gt;взаимодействия компонентов системы (приложения)&lt;br&gt;- &lt;b&gt;Общность &lt;/b&gt;интерфейсов&lt;br&gt;- Независимое &lt;b&gt;внедрение компонентов&lt;/b&gt;&lt;br&gt;- &lt;b&gt;Промежуточные компоненты&lt;/b&gt;, &lt;b&gt;снижающие задержку&lt;/b&gt;, усиливающие &lt;b&gt;безопасность&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="-2067" y="-1375" width="490" height="100" as="geometry" />
