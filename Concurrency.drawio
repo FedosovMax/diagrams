@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2021-02-24T15:36:34.743Z" agent="5.0 (Windows)" etag="QJo6tsLsvHkxV-woHand" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-24T16:01:47.257Z" agent="5.0 (Windows)" etag="ljxk7dRTBzC8SPr6fobR" version="14.2.9" type="github">
   <diagram id="dARw1I-tyCDDxnHPdXPz" name="Page-1">
-    <mxGraphModel dx="5076" dy="3776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3197" dy="2735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="WsvQsJm2ObX6OhKaBQ0v-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-1310" width="440" height="65" as="geometry" />
+        </mxCell>
         <mxCell id="QMmgmNxQZZJa730i63d_-83" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF8000;align=left;" parent="1" vertex="1">
           <mxGeometry x="40" y="3200" width="420" height="210" as="geometry" />
         </mxCell>
@@ -516,6 +519,27 @@
         </mxCell>
         <mxCell id="8ZVaQMv6SIjStNIvOHQu-60" value="&lt;div align=&quot;left&quot;&gt;HTTP метод &lt;b&gt;DELETE &lt;/b&gt;используется для удаления ресурса, идентифицированного конкретным URI (ID).&lt;br&gt;При успешном удалении возвращается 200 (OK) код HTTP, совместно с телом ответа, содержащим данные удаленного &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;ресурса. Также возможно использование HTTP кода 204 (NO CONTENT) без тела ответа. Согласно спецификации &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;HTTP, DELETE запрос идемпотентен. Если вы выполняете DELETE запрос к ресурсу, он удаляется. Повторный &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;DELETE запрос к ресурсу закончится также: ресурс удален. Если DELETE запрос используется для декремента &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;счетчика, DELETE запрос не является идемпотентным. Используйте POST для не идемпотентных операций.&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Тем не менее, существует предостережение об идемпотентности DELETE. Повторный DELETE запрос к ресурсу &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;часто сопровождается 404 (NOT FOUND) кодом HTTP по причине того, что ресурс уже удален (например из базы &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;данных) и более не доступен. Это делает DELETE операцию не идемпотентной, но это общепринятый компромисс &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;на тот случай, если ресурс был удален из базы данных, а не помечен, как удаленный.&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;DELETE http://www.example.com/api/v1.0/customers/12345 (удалить из customers ресурс с id 12345)&lt;br&gt;DELETE http://www.example.com/api/v1.0/customers/12345/orders/21 (удалить у ресурса с id 12345 заказ с id 21)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="-2067" y="860" width="670" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="WsvQsJm2ObX6OhKaBQ0v-1" value="&lt;div&gt;&lt;font color=&quot;#009900&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 85px&quot;&gt;Spring&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="-1640" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WsvQsJm2ObX6OhKaBQ0v-2" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;singleton (creates the singleton bean. default value)&lt;br&gt;&lt;/li&gt;&lt;li&gt;prototype (will return a different instance every time)&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;font color=&quot;#009900&quot;&gt;request &lt;font color=&quot;#000000&quot;&gt;(creates a bean instance for a single HTTP request)&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#009900&quot;&gt;session &lt;font color=&quot;#000000&quot;&gt;(creates a bean instance for an HTTP Session)&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#009900&quot;&gt;application &lt;font color=&quot;#000000&quot;&gt;(creates the bean instance for the lifecycle of a ServletContext)&lt;/font&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#009900&quot;&gt;websocket &lt;font color=&quot;#000000&quot;&gt;(creates it for a particular WebSocket session)&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="-1500" width="440" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="WsvQsJm2ObX6OhKaBQ0v-3" value="&lt;b&gt;Bean scopes:&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-1510" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WsvQsJm2ObX6OhKaBQ0v-4" value="&lt;div align=&quot;left&quot;&gt;The last four scopes mentioned, &lt;font color=&quot;#009900&quot;&gt;request&lt;/font&gt;, &lt;font color=&quot;#009900&quot;&gt;session&lt;/font&gt;, &lt;font color=&quot;#009900&quot;&gt;application &lt;/font&gt;and &lt;font color=&quot;#009900&quot;&gt;websocket&lt;/font&gt;, &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;are only available in a web-aware application.&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-1375" width="420" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WsvQsJm2ObX6OhKaBQ0v-6" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;proxyMode &lt;/b&gt;attribute is necessary because at the moment of the instantiation of the &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;web application context, there is no active request.&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;b&gt;@RequestScope &lt;/b&gt;annotation can be changed instead&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-1235" width="450" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WsvQsJm2ObX6OhKaBQ0v-7" value="&lt;div align=&quot;left&quot;&gt;@Bean&lt;br&gt;@Scope(value = WebApplicationContext.SCOPE_REQUEST, &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; proxyMode = ScopedProxyMode.TARGET_CLASS)&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="-1305" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WsvQsJm2ObX6OhKaBQ0v-11" value="&lt;b&gt;Example&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-1340" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
