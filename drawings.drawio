@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-22T16:10:23.826Z" agent="5.0 (Windows)" etag="7a20GUUsxVSLFy4biE0z" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-26T15:27:45.090Z" agent="5.0 (Windows)" etag="AJkUqj5ESaOyL2YDWFZQ" version="14.2.9" type="github">
   <diagram id="6sXWkbplTSW0TdqBarLm" name="Page-1">
-    <mxGraphModel dx="3666" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3964" dy="821" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -634,11 +634,20 @@
         <mxCell id="AFPFmnzoixOkkm7JOSab-69" value="REST" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="1190" y="2411.11" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="VNn9rwNajrZNwHYGQ-1i-1" value="&lt;b&gt;Thread for a device&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="VNn9rwNajrZNwHYGQ-1i-1" value="&lt;b&gt;Thread for a device&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="479.99605802255155" y="2499.9955555555557" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="VNn9rwNajrZNwHYGQ-1i-2" value="Pingable" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="VNn9rwNajrZNwHYGQ-1i-2" value="Pingable" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="303.89605802255153" y="2249.9955555555557" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="haza8ifgIVkDSwkQiaGb-1" value="CallCache" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="694.4460580225516" y="2609.9955555555557" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="haza8ifgIVkDSwkQiaGb-2" value="MonitoringDataCache" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="671.4760580225516" y="2629.9955555555557" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="haza8ifgIVkDSwkQiaGb-3" value="&lt;div&gt;Emergency Delivery&lt;/div&gt;&lt;div&gt;for emergency&lt;/div&gt;&lt;div&gt;for a lot of data&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="927.9960580225516" y="2528.8855555555556" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
