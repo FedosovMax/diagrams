@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-14T20:12:21.949Z" agent="5.0 (Windows)" etag="xVi1W7XDlV5lQSCk7KZ8" version="14.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-14T20:53:00.056Z" agent="5.0 (Windows)" etag="5yJJh1uJ8Ij1tvsIDVGb" version="14.9.9" type="github">
   <diagram id="cQnIbtuH6GqwWI9tAGfN" name="Page-1">
-    <mxGraphModel dx="2249" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1640" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -134,6 +134,21 @@
         </mxCell>
         <mxCell id="khLsFe5QtT3k1vK67URB-9" value="&lt;div&gt;Spring initialization in Container and JVM, Metadata (id, scope, def. data),&lt;/div&gt;&lt;div&gt;Post-Initialization (Aware interfaces, PostConstruct), Ready to work,&lt;/div&gt;&lt;div&gt;PreDestroy, Destroy&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1" y="1025" width="430" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="khLsFe5QtT3k1vK67URB-10" value="&lt;div&gt;Tight coupling это большое количество ссылок между объектами. &lt;br&gt;&lt;/div&gt;&lt;div&gt;Spring обеспечивает Loose Coupling так как связывает бины &lt;br&gt;&lt;/div&gt;&lt;div&gt;с помощью рефлексии&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="460" y="555" width="360" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="khLsFe5QtT3k1vK67URB-11" value="Управление жизненным циклом бинов, сессией" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="517" y="648" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="khLsFe5QtT3k1vK67URB-12" value="Field, Constructor, Setter" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="570" y="725" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="khLsFe5QtT3k1vK67URB-13" value="Constructor так как удобно тестировать " style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="525" y="807" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="khLsFe5QtT3k1vK67URB-14" value="Spring не предоставляет thread-safety" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="872" width="220" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
