@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-14T20:02:05.089Z" agent="5.0 (Windows)" etag="BNnJYg7ReNxNLKcptblo" version="14.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-14T20:12:21.949Z" agent="5.0 (Windows)" etag="xVi1W7XDlV5lQSCk7KZ8" version="14.9.9" type="github">
   <diagram id="cQnIbtuH6GqwWI9tAGfN" name="Page-1">
-    <mxGraphModel dx="1640" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -129,8 +129,11 @@
         <mxCell id="khLsFe5QtT3k1vK67URB-7" value="&lt;div&gt;Бинами называются объекты, которые находятся под управлением &lt;br&gt;&lt;/div&gt;&lt;div&gt;Spring контейнера. Для их обозначения используются аннотации: &lt;br&gt;&lt;/div&gt;&lt;div&gt;@Bean, @Component, @Service, @Repository, @Configuration&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="30" y="865" width="380" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="khLsFe5QtT3k1vK67URB-8" value="&lt;div&gt;Бинами называются объекты, которые находятся под управлением &lt;br&gt;&lt;/div&gt;&lt;div&gt;Spring контейнера. Для их обозначения используются аннотации: &lt;br&gt;&lt;/div&gt;&lt;div&gt;@Bean, @Component, @Service, @Repository, @Configuration&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="24" y="940" width="380" height="50" as="geometry" />
+        <mxCell id="khLsFe5QtT3k1vK67URB-8" value="Singleton, Prototype, Request, Session,Global Session" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="49" y="955" width="330" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="khLsFe5QtT3k1vK67URB-9" value="&lt;div&gt;Spring initialization in Container and JVM, Metadata (id, scope, def. data),&lt;/div&gt;&lt;div&gt;Post-Initialization (Aware interfaces, PostConstruct), Ready to work,&lt;/div&gt;&lt;div&gt;PreDestroy, Destroy&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1" y="1025" width="430" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
